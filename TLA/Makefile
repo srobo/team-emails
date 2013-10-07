@@ -1,4 +1,4 @@
-.PHONY clean
+.PHONY: clean
 
 tla.pdf: tla.tex
 	pdflatex tla.tex
