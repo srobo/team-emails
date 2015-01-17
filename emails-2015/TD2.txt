@@ -1,0 +1,20 @@
+To: teachers
+Subject: Student Robotics: second tech days
+
+Hi {first_name},
+
+We've now confirmed the second set of tech days, at the Universities of
+Bristol, Southampton, and the Rutherford Appleton Lab near Oxford. The
+dates are the 7th of Feb for Bristol, and the 21st of Feb for the other
+two sites. Full details can be found on the event pages:
+
+https://www.studentrobotics.org/events/sr2015/2015-02-07-bristol_tech_day_2
+https://www.studentrobotics.org/events/sr2015/2015-02-21-soton_tech_day_2
+https://www.studentrobotics.org/events/sr2015/2015-02-21-oxford_tech_day_1
+
+A happy new year, and happy robot hacking!
+
+--
+Thanks,
+Jeremy
+
