@@ -1,0 +1,23 @@
+To: teachers
+Subject: Student Robotics: Oxford Tech Days
+
+Hi {first_name},
+
+We hope your team is making good progress on their robot!
+
+We've just announced a couple of tech days at Rutherford Appleton Laboratories,
+Harwell, near Oxford.  They're happening on the 12th of March and 9th April.
+Please let us know if you would like to bring your team along to it.  Details
+of the events can be found on our website at:
+
+  https://www.studentrobotics.org/events/sr2016/2016-03-12-oxford_tech_day_2
+  https://www.studentrobotics.org/events/sr2016/2016-04-09-oxford_tech_day_3
+
+We have other tech days coming up, which you can read about on the key dates
+page of our website:
+
+  https://www.studentrobotics.org/key_dates
+
+Thanks,
+
+The Student Robotics Team
