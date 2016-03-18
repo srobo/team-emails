@@ -1,0 +1,48 @@
+To: teachers
+Subject: Student Robotics: MCF reminder
+
+Hi {first_name},
+
+This is a reminder that we require media consent forms to be return for each
+competitor attending the competition. Competitors are only allowed entry to 
+the competition if they have a ticket, which they obtain by returning a
+consent form.
+
+We're about to directly mail all competitors about this, so you may receive
+some immediate feedback about consent forms. The summary of who needs a
+consent form and how to obtain one are copied below.
+
+~
+
+Entrance to the competition for competitors is ticketed: we require
+signed media consent forms to be returned (in advance) for each
+attending competitor. After we receive those, a printable ticket will
+become available, that competitors will need to bring with them.
+Everyone else, including teachers, parents, and other interested parties
+are welcome to attend, although they'll need to either bring a media
+consent form with them or sign one at the door. Non-competitor attendees
+under the age of 18 will need a parent/guardian in attendance too.
+
+To return a media consent form, competitors and team leaders should access
+the following URL:
+
+  https://www.studentrobotics.org/mediaconsent
+
+Which will serve them a media consent form with their details written
+into it. They should print out a copy, have their parent/guardian fill out
+the missing parts as appropriate, and return it to you the team leader. Once
+you've collected all media consent forms, please scan them and email copies
+to mediaconsent@studentrobotics.org.
+
+Scans must be of print-quality please, photographing the form is insufficient.
+Given postal delays in previous years we would prefer email delivery of all
+consent forms, however we can receive post if needs be (please email in
+advance to get the correct postal address).
+
+Once we've processed a form, the competitor will receive an email linking them
+to the ticket download page.
+
+--
+Thanks,
+Jeremy
+
