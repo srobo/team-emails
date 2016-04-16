@@ -1,0 +1,33 @@
+To: students, teachers
+Subject: Student Robotics: Competition reminder
+
+Hi {first_name},
+
+The Student Robotics competition is just two weeks away -- we hope you're
+busy testing how your robot operates and preparing for the competition. Just
+to remind you, here are a few things you should be bringing to the
+competition:
+
+ * Your robot.
+ * Any tools you need to modify your robot
+ * Your ticket. If you have not returned a media consent form to your team
+   leader, please do so ASAP, otherwise you won't get a ticket and may be
+   turned away!
+ * At least one laptop per team for writing your robot code. We'll be
+   providing wireless and one ethernet connection per team. (Please ensure
+   you bring a laptop that has the right connector / adapter for a wired
+   connection).
+
+Please also bring all the kit you received in the kit box so that it can be
+returned at the end of the comeptition. A full list is in an appendix in the 
+rulebook [0].
+
+Additionally, your robot MUST pass the safety check procedure in
+the rulebook. In particular, your robot must provide protection against the
+battery being punctured / crushed if robots collide, such as a battery
+compartment or casing. Battery damage is a serious fire risk, and your robot
+will not be allowed to compete if it is not safe.
+
+We all hope you enjoy the competition, and may the best robot win!
+
+[0] https://www.studentrobotics.org/docs/rules/
