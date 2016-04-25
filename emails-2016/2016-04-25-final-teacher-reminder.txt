@@ -1,0 +1,59 @@
+To: teachers
+Subject: Student Robotics: Final competition details
+
+Hi {first_name}
+
+The Student Robotics competition is now less than a week away! Below are
+several important items that require your attention. Most important however
+is that you all return your teams media consent forms by the coming Thursday
+the 28th. After then most of our volunteers will be on site and not handling
+forms.
+
+If you have not returned media consent forms by then, your team won't receive
+any tickets, and you may be turned away at the door!
+
+I've had a couple of queries about whether parents and other visitors need to
+have tickets: they do not, we only require tickets from competitors. We do
+require a media consent form from everyone though: visiting adults will be able
+to return (or sign) a media consent form at the door of the competition.
+
+My mobile phone number is 07837210332, please phone if you have any urgent
+enquiries or have difficulty in making your way to the competition / finding
+the venue.
+
+As detailed in a previous email, your team will wish to change their robot
+code at the competition. Please ensure that at least one laptop or appropriate
+computing equipment is being brought by the team. A backup would be wise too,
+as teams frequently forget chargers. We are providing at least one wired
+connection to the internet per team as well as wireless internet, if you
+intend on using the wired you should check that the computer(s) being brought
+have the appropriate sockets / dongles.
+
+Any tools that your team requires to modify their robot must be brought to the
+competition by the team: we cannot provide any. In particular, the use of any
+dangerous tools must be supervised by the responsible adult for the team.
+
+All robots are subject to a safety check before the start of the competition
+(see appendix B in the rulebook). We really will be disqualifying any dangerous
+robots, so please ensure the team have checked their robot against the safety
+checklist. In particular, the battery must have some protection against
+collisions when placed in the robot, and robot badge positions to help
+collision avoidance.
+
+You must bring all of the robotics kit (including the white box it came in) to
+the competition, so that we can collect it at the end of the event, unless
+you've already arranged to keep the kit longer.
+
+Finally, we'll be publishing some rules for working in the team pits, and how
+the competition will be operating. These will be taped to desks at the
+competition, but last years draft version is available here:
+
+  https://www.studentrobotics.org/resources/2015/pitrules-draft.pdf
+
+We hope you and the team are looking forwards to the competition as much as we
+are, and may the best robot win!
+
+--
+Thanks,
+Jeremy
+
