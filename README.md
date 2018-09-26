@@ -1,6 +1,6 @@
 # Emails
 
-[![CircleCI](https://circleci.com/gh/srobo/emails.svg?style=svg)](https://circleci.com/gh/srobo/emails)
+[![CircleCI](https://circleci.com/gh/srobo/team-emails.svg?style=svg)](https://circleci.com/gh/srobo/team-emails)
 
 A history of communication with teams.
 
