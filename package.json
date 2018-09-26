@@ -1,0 +1,15 @@
+{
+  "name": "emails",
+  "description": "A history of communication with teams.",
+  "scripts": {
+    "test": "mdspell --en-gb -ranx 'SR**/*.md'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srobo/emails.git"
+  },
+  "homepage": "https://github.com/srobo/emails#readme",
+  "dependencies": {
+    "markdown-spellcheck": "1.3.1"
+  }
+}
