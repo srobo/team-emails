@@ -1,6 +1,6 @@
 ---
 to: All Teams
-subject: Announcing kickstart for Student Robotics 2019!
+subject: SR2019 Registration and Kickstart Announcement
 ---
 
 It's time to announce the long-awaited return of Student Robotics. We're pleased to inform you that we will be running a competition this year, culminating in a competition around April 2019. As always, we start this competition period with a Kickstart event. Here, we will announce the game, and show you how to use the kit.
