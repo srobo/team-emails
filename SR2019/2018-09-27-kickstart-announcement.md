@@ -7,7 +7,7 @@ After a year's hiatus during which we've worked to ensure that Student Robotics 
 
 In order to allow the core team of volunteers to focus on delivering a high quality programme while requiring far fewer resources than before, this year's competition will be slightly smaller than previous years. We expect to be able to increase the size of the competition again in the future.
 
-Kickstart will be on **Saturday 10th November**. This time, we're planning on running 2 events. 1 at the **University of Southampton**, and the second in **London**. The exact locations will be confirmed in the next couple of weeks, however the events will run from around 10am, and finish some time before 5pm. This information will be reflected on our website soon. If you are unable to make either of these, please let us know!
+Kickstart will be on **Saturday 10th November**. This time, we're planning on running in two locations. One at the **University of Southampton**, and the second in **London**. The exact locations will be confirmed in the next couple of weeks, however the events will run from around 10am, and finish some time before 5pm. This information will be reflected on our website soon. If you are unable to make either of these, please let us know!
 
 If you would like to compete in Student Robotics 2019, please fill in the form at the link below with the required information. All further emails about SR2019 will be sent there. The closing date will be *1st November*.
 
