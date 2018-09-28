@@ -1,0 +1,75 @@
+To: teachers
+Subject: Student Robotics: Competition date and tech days
+
+Hi {first_name},
+
+We're now able to confirm the date and location of the competition -- it
+will be held on the 25th and 26th of April 2014, at the Newbury
+Racecourse Grandstand. We'll get a preliminary schedule to you shortly,
+but as with previous competitions we expect both days to run from 0900
+until 1730.
+
+https://www.studentrobotics.org/events/sr2015/2015-04-25-competition
+
+While our volunteers will be operating the competition, they won't be
+able to provide supervision for the attendees. As a result, all
+attending competitors need to have some kind of adult supervision
+provided by you: who does this, and what form it takes is up to
+you, but the responsibility can't fall on our volunteers, sorry.
+
+As in previous years, we're unable to provide transportation,
+accommodation, or food for the competition. You will need to arrange
+these for your team yourselves. Please note thought that if you're
+unable to find accommodation then Reading is sufficiently close to
+Newbury to be an alternative.
+
+Entrance to the competition for competitors is ticketed: we require
+signed media consent forms to be returned (in advance) for each
+attending competitor. After we receive those, a printable ticket will
+become available, that competitors will need to bring with them.
+Everyone else, including teachers, parents, and other interested parties
+are welcome to attend, although they'll need to either bring a media
+consent form with them or sign one at the door. Non-competitor attendees
+under the age of 18 will need a parent/guardian in attendance too.
+
+To return a media consent form, competitors and team leaders should access
+the following URL:
+
+  https://www.studentrobotics.org/mediaconsent
+
+Which will serve them a media consent form with their details written
+into it. They should print out a copy, have their parent/guardian fill out
+the missing parts as appropriate, and return it to you the team leader. Once
+you've collected all media consent forms, please return them to Student
+Robotics, either via post at:
+
+  Jeremy Morse
+  Dept of Computer Science
+  Merchant Venturers Building
+  Woodland Road
+  BRISTOL
+  BS8 1UB
+
+Or by scanning and emailing them to jmorse@studentrobotics.org. Scans must
+be of print-quality please, photographing the form is insufficient. Once we've
+processed a form, the competitor will receive an email linking them to the
+ticket download page.
+
+~
+
+We've also confirmed the dates of a couple of upcoming tech days. There
+will be tech days in both Bristol and Southampton on the 14th March:
+
+https://www.studentrobotics.org/events/sr2015/2015-03-14-bristol_tech_day_3
+https://www.studentrobotics.org/events/sr2015/2015-03-14-soton_tech_day_3
+
+Please email info@studentrobotics.org if you intend to attend one of these tech days.
+
+A full list of dates, and links to the event pages where location and
+further details are available, are on the key dates page:
+
+    https://www.studentrobotics.org/key_dates
+
+--
+Thanks,
+Jeremy

@@ -1,0 +1,44 @@
+To: teachers
+Subject: Student Robotics 2016 feedback and registrations for next year
+
+Hi {first_name},
+
+Thank you for taking part in Student Robotics 2016! We hope you
+enjoyed the competition -- our volunteers certainly did, and were
+impressed at the ingenuity and effort that went into all the robots.
+We also hope it was a great experience for the competitors, and that
+they learnt about engineering and performing large projects!
+
+If you or the team have any photos of the competition you'd like to
+share, we highly recommend using this Flickr group [0] to group them,
+ideally under a Creative Commons license.
+
+There are a few outstanding issues which should be cleared up over the
+coming week:
+ - If you didn't make it to the competition, we'll be contacting you
+   shortly regarding the kit.
+ - If you arranged to keep the kit after the competition, we'll
+   confirm the date we expect it back by, and the shipping
+   arrangements for its return.
+
+Regarding next year's competition, we aim to open registrations for
+SR2017 shortly and hope to supply another great competition. As with
+this year, places won't be confirmed until closer to the Kickstart
+date in case we're oversubscribed.  The competition game itself will
+not be revealed until Kickstart either.
+
+Finally, we'd love to hear from you about how we did, what went well
+and what didn't, and anything that could be done better. If you could
+fill in this survey [1] that would be fantastic.
+
+Once more, thank you for taking part and shepherding another year of
+competitors through the competition, and we hope to see you at a
+future competition.
+
+[0] https://www.flickr.com/groups/sr2016
+[1] http://goo.gl/forms/vxJQlQX9NWQOR0hV2
+
+--
+Thanks,
+Jeremy
+

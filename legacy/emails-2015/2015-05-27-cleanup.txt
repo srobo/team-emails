@@ -1,0 +1,53 @@
+To: teachers
+Subject: Student Robotics 2015 feedback and registrations for next year
+
+Hi {first_name},
+
+Thank you for taking part in Student Robotics 2015! We hope you enjoyed the
+competition -- our volunteers certainly did, and were impressed at the
+ingenuity and effort that went into all the robots. We also hope it was a great
+experience for the competitors, and that they learnt about engineering and
+performing large projects!
+
+If you or the team have any photos of the competition you'd like to share,
+we highly recommend using this Flickr group [0] to group them, ideally under
+a creative commons license.
+
+There are a few outstanding issues which should be cleared up over the coming
+week:
+ - If you didn't make it to the competition, we'll be contacting you shortly
+   regarding the kit
+ - If you arranged to keep the kit after the competition, we'll confirm the
+   date we expect it back by, and the shipping arrangements for its return
+ - If you claimed the team budget, we'll be mailing you this week to confirm
+   the amount and cheque details
+
+Regarding next year's competition, we've now opened registrations [1] for SR2016
+and hope to supply another great competition. As with this year, places won't
+be confirmed until closer to the Kickstart date in case we're oversubscribed.
+The competition game itself will not be revealed until Kickstart either.
+
+Finally, we'd love to hear from you about how we did, what went well and what
+didn't, and anything that could be done better. We're aware of a couple of
+hiccups with the new power board kit that need polishing, but it's performed
+well after such a significant change [2]. One matter we're aware of is that
+the structure of A-levels is now quite different to previous years, and it
+might be better (for competitors) to move the Kickstart / Competition dates
+around. We'd love to hear your opinion on this matter.
+
+To send feedback, please email jmorse@studentrobotics.org, and I'll forward
+your message on to our volunteers. Unless you request otherwise, feedback
+will be anonymised, so please feel free to speak your mind.
+
+Once more, thank you for taking part and shepherding another year of
+competitors through the competition, and we hope to see you at a future
+competition.
+
+[0] https://www.flickr.com/groups/sr2015
+[1] https://www.studentrobotics.org/schools/how_to_enter
+[2] A large amount of kit was newly produced this year
+
+--
+Thanks,
+Jeremy
+

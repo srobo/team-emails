@@ -1,0 +1,12 @@
+To: teachers
+Subject: The next (and last) Southampton Student Robotics Tech Day has changed
+
+Hi {first_name},
+
+We've got one last tech day in Southampton on the 19th March ( https://www.studentrobotics.org/events/sr2016/2016-03-19-southampton-tech-day-4 ), of which the details have changed slightly. The room has changed from the previous computing suite to an engineering design studio at the university's Boldrewood Campus ( http://www.southampton.ac.uk/about/visit/boldrewood-campus.page ). Don't worry, this won't affect your ability to get here and we will have volunteers available at the previous building if you need helping getting where you need to be.
+
+By using the design studio, we're able to offer more testing space, access to some basic tools and we'll even have a temporary arena available so you can really test how well your robot performs. We think it's a fantastic opportunity for any team, experienced or not, and we highly recommend anyone to come along.
+
+If you are intending on coming to our tech day, it would be great if you could notify us in advance, details are available on the event page or on our contact page ( https://www.studentrobotics.org/about/contactus ).
+
+Student Robotics Southampton

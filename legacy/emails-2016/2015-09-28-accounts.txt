@@ -1,0 +1,43 @@
+Hi,
+
+As part of the Student Robotics competition, we run a set of web
+services for competitors. Most of these are publicly accessible (for
+example, the documentation), however a few of them require accounts on
+the website to use. Specifically, the IDE [0] allows competitors to
+write code and export it to their robot. The forum [1] allows
+competitors to discuss problems they're having, ask for help, and talk
+about the competition.
+
+Competitor accounts are created by you, the team leader. In a few
+minutes you'll receive an email containing a username and password for
+accessing the user management page [2], where you can enter competitor
+details for account creation. Existing users can also have their
+passwords reset, and can be moved between teams (if you have multiple
+teams). Documentation on this process can be found at the bottom of this
+page [3], or you can email me with any questions.
+
+Please could you start registering accounts for competitors ASAP so that
+we have an idea of how many people are taking part this year. Accounts
+can be registered throughout the year, competitors occasionally come and
+go. If you're no longer intending on taking part in Student Robotics,
+please let me know ASAP.
+
+A word on data protection, we use the account information to:
+ * Maintain a register of who is taking part in the competition
+ * Maintain the online account (resetting passwords, etc)
+ * Contacting competitors if a specific issue related to their
+   website account occurs
+ * The occasional mass-email encouraging competitors to return
+   media consent forms, prepare for the competition, and similar.
+for the duration of the competition. We do not share any information
+with third parties.
+
+[0] https://www.studentrobotics.org/ide/
+[1] https://www.studentrobotics.org/forum/
+[2] https://www.studentrobotics.org/userman/
+[3] https://www.studentrobotics.org/docs/user_accounts
+
+--
+Thanks,
+Jeremy
+

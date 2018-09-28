@@ -1,0 +1,69 @@
+Subject: Student Robotics: Final competition details
+To: teachers
+
+Hi {first_name}
+
+{this_isnt_going_via_fritter}
+
+The Student Robotics competition is now less than a week away! Below are
+several important items that require your attention, and an update about the
+media consent form situation.
+
+Firstly, my mobile phone number is XXXXXXXXXXX, please phone if you have any
+urgent enquiries or have difficulty in making your way to the competition /
+finding the venue.
+
+As detailed in a previous email, your team will wish to change their robot
+code at the competition. Please ensure that at least one laptop or appropriate
+computing equipment is being brought by the team. A backup would be wise too,
+as teams frequently forget chargers. We are providing at least one wired
+connection to the internet per team as well as wireless internet, if you
+intend on using the wired you should check that the computer(s) being brought
+have the appropriate sockets / dongles.
+
+Any tools that your team requires to modify their robot must be brought to the
+competition by the team: we cannot provide any. In particular, the use of any
+dangerous tools must be supervised by the responsible adult for the team.
+
+All robots are subject to a safety check before the start of the competition
+(see appendix B in the rulebook). We really will be disqualifying any dangerous
+robots, so please ensure the team have checked their robot against the safety
+checklist. In particular, the battery must have some protection against
+collisions when placed in the robot.
+
+You must bring all of the robotics kit (including the white box it came in) to
+the competition, so that we can collect it at the end of the event, unless
+you've already arranged to keep the kit longer.
+
+Finally, we'll be publishing some rules for working in the team pits, and how
+the competition will be operating. These will be taped to desks at the
+competition, but a draft version is available here:
+
+  https://www.studentrobotics.org/resources/2015/pitrules-draft.pdf
+
+~
+
+Media consent forms: there are now no longer sufficient post days for media
+consent forms to reach Bristol and be processed (I'll be in Southampton on
+Wednesday and on-site from Thursday). If you still have media consent forms to
+send, please scan and email them to me instead. If that's not possible, please
+email me about this.
+
+If you've returned media consent forms already but haven't heard from me about
+them being processed, please get in contact. I'll be phoning teams who
+haven't returned any media consent forms in the next week.
+
+I've had a couple of queries about whether parents and other visitors need to
+have tickets: they do not, we only require tickets from competitors. We do
+require a media consent form from everyone though: visiting adults will be able
+to return (or sign) a media consent form at the door of the competition.
+
+~
+
+We hope you and the team are looking forwards to the competition as much as we
+are, and may the best robot win!
+
+--
+Thanks,
+Jeremy
+

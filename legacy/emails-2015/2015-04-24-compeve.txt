@@ -1,0 +1,30 @@
+To: teachers
+Subject: Student Robotics: final final notes
+
+Hi {first_name},
+
+We're almost complete setting up here in Newbury and are looking forwards to
+seeing you all tomorrow -- here are a final couple of notes about attendance:
+ * We will be collecting battery chargers and spare batteries from teams when
+   you arrive: all battery charging wil be performed upstairs at 'Helpdesk'.
+   Please have your charger and spare battery ready to hand over when you enter
+   the building.
+ * The venue parking location has been confirmed -- please check the event page
+   [0] under the 'parking' heading to see where you're going. The venue will
+   have parking marshalls on site in the morning
+ * We require all competitors to bring a ticket; if they've forgotten it
+   but have already returned a media consent form however, we're still willing
+   to let them in. (The consent forms are what we particularly care about)
+ * Any visiting adult will be able to sign a media consent form at the door
+ * A couple of competitors will be allowed to hand over media consent forms at
+   the door to the competition. This only applies if you've arranged it with
+   me already.
+
+We look forwards to seeing you tomorrow, and may the best robot win!
+
+[0] https://www.studentrobotics.org/events/sr2015/2015-04-25-competition
+
+--
+Thanks,
+Jeremy
+

@@ -1,0 +1,20 @@
+To: teachers
+Subject: Student Robotics: Oxford Tech Day Reminder
+
+Hi {first_name},
+
+As the competition nears, we hope that your robot is coming together.
+
+In order to help you complete those final few things, and to give you another
+chance to test your robot before the big day, there's one tech day left.
+It's happening at the Rutherford Appleton Laboratories, Harwell, near Oxford,
+on the 9 of April.  Please let us know if you would like to bring your team
+along to it.  Details of the event can be found on our website at:
+
+  https://www.studentrobotics.org/events/sr2016/2016-04-09-oxford_tech_day_3
+
+Whether or not you decide to come, we wish you and your robot the best of luck.
+
+Thanks,
+
+The Student Robotics Team

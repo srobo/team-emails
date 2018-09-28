@@ -1,0 +1,32 @@
+Hi,
+
+The 2013 Student Robotics competition is approaching fast! Please
+remember that you need a ticket to attend the competition, which you'll
+be able to download from [0] using your Student Robotics website
+account, once you've returned a signed media consent form [1] to attend
+the competition.
+
+If you can't log in, please contact your teacher first, otherwise email
+info@studentrobotics.org for help.
+
+At the competition itself you'll probably want to spend a lot of time
+tinkering with your robot and tweaking your code. That will require the
+use of a computer, and unfortunately we're not able to provide computing
+facilities for all of you. Please arrange for at least one of your team
+to bring a laptop or other computer for you to program your robot on
+[2]. Internet will be provided! If no-one in your team is able to bring
+a laptop, please contact info@studentrobotics.org and we may be able to
+arrange something for you.
+
+Finally, we've cooked up a tool to help you test your robot with. The
+manual control interface [3] is a robot.zip that you can load onto your
+robot in the usual manner [4], and which will give you a graphical
+interface for controlling components of your robot. We hope this will
+help you accelerate your robot testing!
+
+[0] https://www.studentrobotics.org/tickets/
+[1] https://www.studentrobotics.org/resources/2013/mediaconsent.pdf
+[2] Bringing more than one computer would be wise; teams have in the
+past left chargers and other vital parts at home.
+[3] https://www.studentrobotics.org/docs/kit/manual_control_interface
+[4] https://www.studentrobotics.org/docs/IDE/getting_code_on_the_robot
