@@ -1,0 +1,52 @@
+To: teachers
+Subject: Student Robotics: Further competition details and kit return
+
+Hi {first_name},
+
+We've published additional information about the upcoming Student Robotics
+competition on our website. The competition event page [0] now contains
+directions to the site, parking details, and the day schedules for the event.
+Please don't hesitate to contact me (jmorse@studentrobotics.org) if you
+require any additional information. If you're having any trouble arranging
+things, or intend to drop out of the competition, please inform me ASAP.
+
+Your team will inevitably wish to change their code at the competition,
+meaning at least one team member will need to bring a laptop / other device
+for writing code. We will be unable to provide any computers at the
+competition ourselves, sorry. This year we intend on providing both wireless
+and wired internet at the competition (one cat-5 ethernet cable per team pit).
+
+We expect all the Student Robotics kit you've been loaned to be returned at
+the competition. If you'd like to keep the kit longer, please email
+info@studentrobotics.org requesting a loan extension by the 13th of April.
+
+As mentioned in previous emails, the competitors in your team all need to
+bring tickets to the competition, which they get by returning a media
+consent form. Please have competitors visit this page [1], enter their
+Student Robotics username and password, to receive a media consent form,
+after which they should have the appropriate person sign the form then
+return it to you. Please then return the forms either by post to the address
+below, or by scanning and emailing them to jmorse@studentrobotics.org
+
+A couple of sets of forms have gone to Southampton -- please use the address
+below (in Bristol) as there'll be less delay in getting your forms processed.
+In particular, please have your forms in the post or emailed by Friday the
+17th of April: there's a risk that the vagaries of University postal service
+will not deliver in time, otherwise.
+
+  Jeremy Morse
+  Dept of Computer Science
+  Merchant Venturers Building
+  Woodland Road
+  BRISTOL
+  BS8 1UB
+
+We look forwards to seeing you and the team at the competition!
+
+[0] https://www.studentrobotics.org/events/sr2015/2015-04-25-competition
+[1] https://www.studentrobotics.org/mediaconsent
+
+--
+Thanks,
+Jeremy
+

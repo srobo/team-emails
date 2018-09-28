@@ -1,0 +1,39 @@
+To: teachers
+Subject: Student Robotics: Further competition details and kit return
+
+Hi {first_name},
+
+We hope you're in the final stages of planning your teams attendance of the
+Student Robotics competition, on the weekend of the 30th of April. Full
+details appear on this [0] page, if anything is unclear or absent please don't
+hesitate to get in contact with us (via reply or info@). In particular, if
+you're no longer planning on taking part, please inform us ASAP.
+
+Please do let us know if your team has any special requirements with regards
+to disability access or other matters that need to be accommodated.
+
+At the competition, your team will inevitably wish to change their code,
+meaning at least one team member will need to bring a laptop / other device
+for writing code. We will be unable to provide any computers at the
+competition ourselves, sorry. This year we intend on providing both wireless
+and wired internet at the competition (one cat-5 ethernet cable per team pit).
+
+We expect all the Student Robotics kit you've been loaned to be returned at
+the competition. If you'd like to keep the kit longer, please email
+info@studentrobotics.org requesting a loan extension ASAP.
+
+As mentioned in previous emails, the competitors in your team all need to
+bring tickets to the competition, which they get by returning a media
+consent form. Instructions are in previous emails we've sent: please get these
+back to us ASAP, to mediaconsent@studentrobotics.org . If your competitors
+turn up without tickets, we may turn them away.
+
+We look forwards to seeing you and the team at the competition, and may the
+best robot win!
+
+[0] https://www.studentrobotics.org/events/sr2016/2016-04-30-competition
+
+--
+Thanks,
+Jeremy
+

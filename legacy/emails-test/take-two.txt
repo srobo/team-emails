@@ -1,0 +1,9 @@
+To: fritter-test
+Subject: A second test email
+
+Hi {first_name} {last_name},
+
+This is a second test email. Please reply only if you did not receive it.
+
+Thanks,
+The SR team
