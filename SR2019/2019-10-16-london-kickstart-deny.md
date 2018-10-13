@@ -1,5 +1,5 @@
 ---
-to: Student Robotics 2019, Southampton Segment
+to: Student Robotics 2019, London Segment
 subject: The London kickstart is full
 note: This email is to be sent to those who are _not_ going to the London kickstart.
 ---
