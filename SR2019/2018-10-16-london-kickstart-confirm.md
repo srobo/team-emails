@@ -6,7 +6,7 @@ note: This email is to be sent to those who _are_ going to the London kickstart.
 
 Hello!
 
-We'd like to confirm your place at the London kickstart even for Student Robotics 2019.
+We'd like to confirm your place at the London kickstart event for Student Robotics 2019.
 
 Exact details and directions are available on our website: https://studentrobotics.org/events/sr2019/london-kickstart/
 
