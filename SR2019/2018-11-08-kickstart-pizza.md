@@ -1,6 +1,6 @@
 ---
 to: Student Robotics 2019, Southampton Segment
-subject: We found pizza
+subject: Pizza for Southampton Kickstart
 ---
 
 Hi all,
