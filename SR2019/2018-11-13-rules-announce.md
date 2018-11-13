@@ -11,4 +11,4 @@ Our game this year is called Caldera in which teams need to claim the most zones
 
 [Download the rules](https://studentrobotics.org/docs/rules/)
 
-If you have any questions about the rules, please [post on our forums](https://www.studentrobotics.org/forum/) (which will be live very soon!).
+If you have any questions about the rules, please [post on our forums](https://www.studentrobotics.org/forum/).
