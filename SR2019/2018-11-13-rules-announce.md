@@ -1,6 +1,6 @@
 ---
 to: Student Robotics 2019
-subject: Rules for SR2019 released
+subject: Rules for SR2019 published
 ---
 
 Hi all,
