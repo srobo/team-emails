@@ -9,7 +9,7 @@ It's with great pleasure we're publishing the rulebook for Student Robotics 2019
 
 - The height of the volcano is now 75mm
 
-Our game this year is called Caldera in which teams need to claim the most zones by placing more of their tokens than the other robots within the zone boundaries.
+Our game this year, Caldera, challenges teams to control scoring zones with tokens while navigating an arena with raised platforms.
 
 [Download the rules](https://studentrobotics.org/docs/rules/)
 
