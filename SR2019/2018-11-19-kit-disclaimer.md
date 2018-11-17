@@ -7,7 +7,7 @@ Hello there!
 
 As you were unable to attend kickstart, we need to ship you your kit. Before this can happen, we need you to sign a disclaimer.
 
-As it's a legal document, please print out and sign the disclaimer form below, and send it back to us. Once we have a release form for you, we'll send out your kit to the address listed below. If this address is incorrect, please let us know.
+As it's a legal document, please print out and sign the disclaimer form below, and email it back to us. Once we have a release form for you, we'll send out your kit to the address listed below. If this address is incorrect, please let us know.
 
 Address:
 
