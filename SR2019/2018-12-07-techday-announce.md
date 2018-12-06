@@ -3,7 +3,7 @@ to: Student Robotics 2019
 subject: Announcing tech days
 ---
 
-As was announced at kickstart, we intend to run some tech days over this competition year. Tech days are opportunities for teams to get help if they’re struggling with a technical issue, and is a controlled environment for students to make more progress on their robots. It’s also an opportunity to see how well they’re doing in comparison to other teams.
+As was announced at kickstart, we intend to run some tech days over this competition year. Tech days are opportunities for teams to get help if they’re struggling with a technical issue, and is an environment for students to make more progress on their robots, with help from highly-experienced blue-shirts. It’s also an opportunity to see how well teams are doing in comparison to other teams.
 
 As with all other events, students *must* be accompanied by a responsible adult.
 
