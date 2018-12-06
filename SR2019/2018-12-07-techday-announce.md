@@ -7,7 +7,7 @@ As was announced at kickstart, we intend to run some tech days over this competi
 
 As with all other events, students *must* be accompanied by a responsible adult.
 
-We will be running tech days at the University of Southampton on the following days:
+We will be running tech days at the University of Southampton on the following Saturdays:
 
 - 15th December 2018
 - 9th February 2019
