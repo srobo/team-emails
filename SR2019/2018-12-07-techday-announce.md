@@ -17,6 +17,6 @@ These tech days will be at the Highfield campus, start around 10am, and finish a
 
 We would like to also run some tech days in London. If you would be interested in a tech day in London too on these dates, please let us know as soon as possible. For the December tech day, we need enough teams by the 12th to make it happen.
 
-Specific details for these tech days will be available on our website soon.
+Specific details for tech days will be available on our website soon.
 
 We hope to see many of you there!
