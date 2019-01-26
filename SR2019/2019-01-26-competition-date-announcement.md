@@ -22,3 +22,5 @@ Information for these tech days are available on [our website](https://studentro
 
 ## Media Consent
 Media consent will be required to attend the competition. The forms for this will be sent through in the next week or two. These will need to be signed by each member of your team, as well as staff. Those under 18 will need a parent / guardian to sign on their behalf.
+
+We'll update your with more information soon. In the mean time, keep an eye on the forum / website for further developments. Please let us know if you have any questions.
