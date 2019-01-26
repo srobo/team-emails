@@ -13,7 +13,7 @@ The competition will be held from *Saturday 6th April* until *Sunday 7th April*.
 
 ## Tech Days
 
-There are just two remaining tech days between now and the competition. These are a great chance to spend a full day testing on your kit, and get direct support from us. The remaining tech days are:
+Tech Days are opportunities for you to get help if you're struggling with a technical issue, and is a controlled environment to make more progress on your robots. It’s also an opportunity to see how well you're doing in comparison to other teams. The remaining tech days are:
 
 - 9th February
 - 9th March
