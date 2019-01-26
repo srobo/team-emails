@@ -7,7 +7,7 @@ Hello all,
 
 As some eagle-eyed members of your team may have noticed on [the forum](https://studentrobotics.org/forum/viewtopic.php?f=9&t=35), today's the day we confirm the dates for Student Robotics 2019!
 
-The competition will be held from *Saturday 6th April* until *Sunday 7th April*. The competition will be held at the University of Southampton's Highfield campus, so please plan accommodation / transport accordingly. The exact start/end times are to be confirmed, but doors open 9am, and we aim to finish around 5pm.
+The competition will be held from *Saturday 6th April* until *Sunday 7th April*. The competition will be held at the University of Southampton's Highfield campus, so please plan accommodation / transport accordingly. The exact start/end times are to be confirmed, but doors open 9am, and we aim to finish around 6pm.
 
 [Competition details](https://studentrobotics.org/events/sr2019/competition/)
 
