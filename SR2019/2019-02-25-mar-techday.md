@@ -5,7 +5,7 @@ subject: March tech day reminder
 
 Hi all,
 
-Just a reminder and some information on the tech day we're running on on Saturday 9th March.
+Just a reminder and some information on the tech day we're running on Saturday 9th March.
 
 Tech Days are opportunities for you to get help if you're struggling with a technical issue, and is a controlled environment to make more progress on your robots. It’s also an opportunity to see how well you're doing in comparison to other teams. This is the final tech day before the competition, and so is the last chance to get some hands-on help from us blue shirts.
 
