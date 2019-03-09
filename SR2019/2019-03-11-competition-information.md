@@ -42,7 +42,7 @@ Some teams have asked for emergency contact information on our forums (https://s
 
 Contact number: <number>
 
-This number should only be used for this competition event.
+This number should only be used for this competition event and will only be answered on the day before and the during the event.
 
 
 We've also updated our website with more information on the venue and parking. We will keep updating this with more information, so be sure to keep an eye on it.
