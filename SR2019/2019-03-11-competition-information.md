@@ -29,7 +29,7 @@ Once your form has been processed, you'll receive an automated email response wi
 
 We recently made our first update to the rules. This contained some important, but minor changes:
 
-- Change the documented hashtag from `srobo2019` to `srobo19` to follow what was being used internally
+- Change the documented hashtag from `#srobo2019` to `#srobo19` to follow what was being used internally
 - Specify how we interpret whether a robot is in a zone
 - Add a regulation allowing supporting equipment
 - Clarify the wording of the scoring zones grid
