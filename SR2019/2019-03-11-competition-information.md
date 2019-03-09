@@ -34,7 +34,7 @@ We recently made our first update to the rules. This contained some important, b
 - Add a regulation allowing supporting equipment
 - Clarify the wording of the scoring zones grid
 
-These rules are now available in the [docs](https://studentrobotics.org/docs/rules/).
+The rules have been updated in the [docs](https://studentrobotics.org/docs/rules/).
 
 ## Emergency contact information
 
