@@ -48,6 +48,6 @@ This number should only be used for this competition event and will only be answ
 
 With less than 4 weeks left until the final, we hope you're progressing well. The time left to get support is growing smaller, so if you're facing any issues, be sure to check the rules and the docs, they usually hold the answers! If you have any questions, please let us know on the forums, we try to answer them as quickly as possible.
 
-We've also updated our website with more information on the venue and parking. We will keep updating this with more information, so be sure to keep an eye on it.
+We've also updated the [competition page](https://studentrobotics.org/events/sr2019/competition/) on our website with more information on the venue and parking. We will keep updating this with more information, so be sure to keep an eye on it.
 
 We look forward to seeing you at the competition. Good luck!
