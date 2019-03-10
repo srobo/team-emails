@@ -23,7 +23,7 @@ If a member of your team is under the age of 16, they will need to get a parent 
 
 Once these forms have been completed, please send them to `teams@studentrobotics.org` with the word 'media-consent' in the subject line, to ensure they won't be missed. We will have media consent forms available at the event, but pre-processing them makes the reception process faster.
 
-Once your form has been processed, you'll receive an automated email response with your ticket. These tickets must be bought with you to the competition (printed or on a phone is fine).
+Once your form has been processed, you'll receive an automated email response with your ticket. These tickets must be brought with you to the competition (printed or on a phone is fine).
 
 ## Rules Update
 
