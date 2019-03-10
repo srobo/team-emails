@@ -48,6 +48,10 @@ This number should only be used for this competition event and will only be answ
 
 With less than 4 weeks left until the final, we hope you're progressing well. The time left to get support is growing smaller, so if you're facing any issues, be sure to check the rules and the docs, they usually hold the answers! If you have any questions, please let us know on the forums, we try to answer them as quickly as possible.
 
+## Kit Loan Extension
+
+In the past, some teams have requested to hold on to the kit for a couple of weeks after the competition. If this is something you would be interested, please let us know on `teams@studentrobotics.org`, with the reason you wish to hold on to the kit. The closing date for this is 31st March.
+
 We've also updated the [competition page](https://studentrobotics.org/events/sr2019/competition/) on our website with more information on the venue and parking. We will keep updating this with more information, so be sure to keep an eye on it.
 
 We look forward to seeing you at the competition. Good luck!
