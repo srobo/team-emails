@@ -50,7 +50,7 @@ With less than 4 weeks left until the final, we hope you're progressing well. Th
 
 ## Kit Loan Extension
 
-In the past, some teams have requested to hold on to the kit for a couple of weeks after the competition. This year, we're allowing a loan extension until 4th May. If this is something you would be interested, please let us know on `teams@studentrobotics.org`, with the reason you wish to hold on to the kit. The closing date for this is 22nd March.
+In the past, some teams have requested to hold on to the kit for a couple of weeks after the competition. This year, we're allowing a loan extension until 27th April, by which time they need to be back in our possession. If this is something you would be interested, please let us know on `teams@studentrobotics.org`, with the reason you wish to hold on to the kit. The closing date for this is 22nd March.
 
 We've also updated the [competition page](https://studentrobotics.org/events/sr2019/competition/) on our website with more information on the venue and parking. We will keep updating this with more information, so be sure to keep an eye on it.
 
