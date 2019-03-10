@@ -38,7 +38,7 @@ The rules have been updated in the [docs](https://studentrobotics.org/docs/rules
 
 ## Emergency contact information
 
-Some teams have asked for emergency contact information on our forums (https://studentrobotics.org/forum/viewtopic.php?f=9&t=46&p=201#p201). We have a dedicated contact number for use at the event. This number should only be used by team leaders and college staff.
+Some teams have asked for emergency contact information on our forums. We have a dedicated contact number for use at the event. This number should only be used by team leaders and college staff.
 
 Contact number: <number>
 
