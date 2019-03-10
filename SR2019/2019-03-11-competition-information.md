@@ -5,7 +5,7 @@ subject: Competition Informatiom
 
 Hi all,
 
-There's just 26 days between now and the competition, and we're getting the final things ready for Student Robotics 2019. We hope your robots are battle-ready, and you're well on your way to entering a robot capable of winning!
+There's just 26 days between now and the competition, and we're getting the final things ready for Student Robotics 2019. We hope your robots are competition-ready, and you're well on your way to entering a robot capable of winning!
 
 We have some final information for you for the competition.
 
