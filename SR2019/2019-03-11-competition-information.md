@@ -9,9 +9,9 @@ There's just 26 days between now and the competition, and we're getting the fina
 
 We have some final information for you for the competition.
 
-## Reduced mobility
+## Venue Layout
 
-The team pits for this year's competition are spread over 3 floors. If any members of your team have reduced mobility, please let us know as soon as possible so we can account for this when placing teams.
+The team pits for this year's competition are spread over 3 floors. If any members of your team have reduced mobility, or any other specific requirements which may impact the location of your team pit, please let us know as soon as possible so we can account for this when placing teams.
 
 ## Media Consent Form and Tickets
 
