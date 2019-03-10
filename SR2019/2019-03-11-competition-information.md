@@ -19,7 +19,7 @@ As with previous years, we require you to sign a media consent form. These media
 
 [Download our Media Consent form](https://studentrobotics.org/resources/sr2019/media-consent.pdf)
 
-If a member of your team is under the age of 16, they will need to get a parent or guardian to sign on their behalf.
+If a member of your team is under the age of 16, they will need to get a parent or guardian to sign on their behalf. Please put "Student Robotics 2019" as the event name.
 
 Once these forms have been completed, please send them to `teams@studentrobotics.org` with the word 'media-consent' in the subject line, to ensure they won't be missed. We will have media consent forms available at the event, but pre-processing them makes the reception process faster.
 
