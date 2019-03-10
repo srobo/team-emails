@@ -17,7 +17,7 @@ The team pits for this year's competition are spread over 3 floors. If any membe
 
 As with previous years, we require you to sign a media consent form. These media consent forms allow us to use videos and photographs taken at the event for future marketing purposes.
 
-[Download our Media Consent form]()
+[Download our Media Consent form](https://studentrobotics.org/resources/sr2019/media-consent.pdf)
 
 If a member of your team is under the age of 16, they will need to get a parent or guardian to sign on their behalf.
 
@@ -50,7 +50,7 @@ With less than 4 weeks left until the final, we hope you're progressing well. Th
 
 ## Kit Loan Extension
 
-In the past, some teams have requested to hold on to the kit for a couple of weeks after the competition. If this is something you would be interested, please let us know on `teams@studentrobotics.org`, with the reason you wish to hold on to the kit. The closing date for this is 31st March.
+In the past, some teams have requested to hold on to the kit for a couple of weeks after the competition. This year, we're allowing a loan extension until 4th May. If this is something you would be interested, please let us know on `teams@studentrobotics.org`, with the reason you wish to hold on to the kit. The closing date for this is 31st March.
 
 We've also updated the [competition page](https://studentrobotics.org/events/sr2019/competition/) on our website with more information on the venue and parking. We will keep updating this with more information, so be sure to keep an eye on it.
 
