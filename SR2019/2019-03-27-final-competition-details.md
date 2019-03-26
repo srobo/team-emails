@@ -12,7 +12,7 @@ forms. If you've not returned a media consent form by then, it will take signifi
 
 You can download the media consent form from [our website](https://studentrobotics.org/events/sr2019/competition/).
 
-Parents and other visitors do not require tickets, but are required to sign media consent forms. These forms should be bought with them, or can be signed at reception.
+Parents and other visitors do not require tickets, but are required to sign media consent forms. These forms should be brought with them, or can be signed at reception.
 
 Please ensure that your team bring at least 1 laptop or appropriate device with them to the competition to access the docs and IDE on. We are unable to provide any computing devices for competitor use at the competition. We will be providing a wireless internet connection to all teams.
 
