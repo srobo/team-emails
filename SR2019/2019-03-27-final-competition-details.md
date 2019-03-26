@@ -20,6 +20,6 @@ Any tools that your team requires to modify their robot must be brought to the c
 
 All robots are subject to a safety check before the start of the competition (see appendix B in the rulebook). Robots which do not pass safety checks will not be allowed in the arena, so please ensure the team have checked their robot against the safety checklist.
 
-You must bring all of the robotics kit (including the white RUB it came in) to the competition, so that we can collect it at the end of the event, unless you've already arranged to keep the kit longer.
+You must bring all of the robotics kit (including the white box it came in) to the competition, so that we can collect it at the end of the event, unless you've already arranged to keep the kit longer.
 
 If you have any questions, please let us know as soon as possible. We hope you and the team are looking forwards to the competition as much as we are, and may the best robot win!
