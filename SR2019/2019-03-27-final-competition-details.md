@@ -18,7 +18,7 @@ Please ensure that your team bring at least 1 laptop or appropriate device with 
 
 Any tools that your team requires to modify their robot must be brought to the competition by the team: we cannot provide any. In particular, the use of any dangerous tools must be supervised by the responsible adult for the team.
 
-All robots are subject to a safety check before the start of the competition (see appendix B in the rulebook). We may disqualifying any dangerous robots, so please ensure the team have checked their robot against the safety checklist.
+All robots are subject to a safety check before the start of the competition (see appendix B in the rulebook). Robots which do not pass safety checks will not be allowed in the arena, so please ensure the team have checked their robot against the safety checklist.
 
 You must bring all of the robotics kit (including the white RUB it came in) to the competition, so that we can collect it at the end of the event, unless you've already arranged to keep the kit longer.
 
