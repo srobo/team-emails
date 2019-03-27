@@ -32,6 +32,6 @@ All robots are subject to a safety check before the start of the competition (se
 
 ## Flag mounts
 
-As a reminder, all robots must be fitted with a flag mount to fit their corners flag. The flags themselves will be provided by Student Robotics. The specifications for the flags is available in section 3.2 of the rules.
+As a reminder, all robots must be fitted with a flag mount to fit their corner's flag. The flags themselves will be provided by Student Robotics. The specifications for the flags is available in section 3.2 of the rules.
 
 If you have any questions, please let us know as soon as possible. We hope you and the team are looking forwards to the competition as much as we are, and may the best robot win!
