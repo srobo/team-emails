@@ -31,6 +31,8 @@ We've collected together all the media together into 1 album. If you wish to use
 
 We'd love to get your feedback on how the competition went for you this year, so we know what we did well, and where we can improve. Please complete the below short, anonymous survey. We also invite you to share this feedback form with your team members, and anyone else who attended the event.
 
+[Send us feedback](https://docs.google.com/forms/d/e/1FAIpQLSfiJj1awnQbZyGQnavTH4HCNBmRvxeXFZc9v2Q-nsGxtXByCQ/viewform?usp=sf_link)
+
 ## Outstanding kit
 
 If you still have some of our kit, please securely send it the address listed on [our website](https://studentrobotics.org/contact/), and let us know so we can expect it and collate it together.
