@@ -7,7 +7,7 @@ subject: Final competition details
 
 Hi all,
 
-First off, we'd like to thank you for taking part in Student Robotics 2019 and making it such a successful event! An article about the competition, results, and game has been [posted on our website](https://studentrobotics.org/news/2019-04-09-sr2019-tlc-crowned-champion/)
+First off, we'd like to thank you for taking part in Student Robotics 2019 and making it such a successful event! An article about the competition, results, and game has been [posted on our website](https://studentrobotics.org/news/2019-04-09-sr2019-tlc-crowned-champion/).
 
 Congratulation again to our winners:
 
