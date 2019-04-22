@@ -23,9 +23,7 @@ Congratulation again to our winners:
 
 ## Event Photos
 
-We've collected together all the media together into 1 album. If you wish to use and republish any of the photos in college material, please be sure to attribute them to [Student Robotics](https://studentrobotics.org).
-
-[Album link](https://photos.app.goo.gl/8vtBZiuM8FXSf79Z8)
+We've collected together all the media together into [an album](https://photos.app.goo.gl/8vtBZiuM8FXSf79Z8). If you wish to use and republish any of the photos in college material, please be sure to attribute them to [Student Robotics](https://studentrobotics.org).
 
 ## Feedback
 
@@ -47,6 +45,4 @@ In the mean time, be sure to follow us on Twitter [@StudentRobotics](https://twi
 
 ### Volunteering
 
-Student Robotics is powered by a collection of passionate individuals with varying skills from diverse backgrounds, many of whom are former competitors. We're all volunteers who give our spare times to make these events possible. If you know anyone who may be interested in volunteering, please ask them to sign up to be a blue-shirt.
-
-[Volunteer](https://studentrobotics.org/volunteer/)
+Student Robotics is powered by a collection of passionate individuals with varying skills from diverse backgrounds, many of whom are former competitors. We're all volunteers who give our spare times to make these events possible. If you know anyone who may be interested in volunteering, please ask them to [sign up to be a blue-shirt](https://studentrobotics.org/volunteer/).
