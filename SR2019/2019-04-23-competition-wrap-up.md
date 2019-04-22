@@ -41,7 +41,7 @@ If you were given permission to hold on to your kit after the competition, you a
 
 ## Future Events
 
-We hope to run a competition next year and see you all there. We plan to open places around September, but will let you know as soon as they are.
+We hope to run a competition next year and see you all there. We plan to open places around September and will let you know as soon as they are.
 
 In the mean time, be sure to follow us on Twitter [@StudentRobotics](https://twitter.com/studentrobotics).
 
