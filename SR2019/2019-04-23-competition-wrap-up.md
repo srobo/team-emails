@@ -23,7 +23,7 @@ Congratulation again to our winners:
 
 ## Event Photos
 
-We've collected together all the media together into [an album](https://photos.app.goo.gl/8vtBZiuM8FXSf79Z8). If you wish to use and republish any of the photos in college material, please be sure to attribute them to [Student Robotics](https://studentrobotics.org).
+We've collected together all the media together into [an album](https://photos.app.goo.gl/8vtBZiuM8FXSf79Z8). If you wish to use and republish any of the photos in college material, please be sure to attribute them to the person who took it, which is shown at the bottom of the preview.
 
 ## Feedback
 
