@@ -1,6 +1,6 @@
 ---
 to: Student Robotics 2019
-subject: Final competition details
+subject: That's a wrap!
 ---
 
 ![Competition Photo](https://studentrobotics.org/images/content/news/sr2019/sr2019-photo.jpg)
