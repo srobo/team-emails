@@ -27,7 +27,7 @@ Congratulation again to our winners:
 
 If you'd like some mementos of the competition or would just like to see the photos which were taken, we've collected them all together into [this photo album](https://photos.app.goo.gl/8vtBZiuM8FXSf79Z8).
 
-The livestream of the matches also remains available on youtube ([Day 1][livestream-day-1], [Day 2][livestream-day-2]) and we've compiled a video [of the final][final-video].
+The livestream of the matches also remains available on YouTube ([Day 1][livestream-day-1], [Day 2][livestream-day-2]) and we've compiled a video [of the final][final-video].
 
 [livestream-day-1]: https://www.youtube.com/watch?v=cPk0i3ndPmA
 [livestream-day-2]: https://www.youtube.com/watch?v=PS-CUiA_nLo
