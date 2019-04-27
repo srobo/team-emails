@@ -29,7 +29,7 @@ The livestream of the matches also remains available on YouTube ([Day 1][livestr
 
 [livestream-day-1]: https://www.youtube.com/watch?v=cPk0i3ndPmA
 [livestream-day-2]: https://www.youtube.com/watch?v=PS-CUiA_nLo
-[final-video]: TODO
+[final-video]: https://www.youtube.com/watch?v=gOeP96OngE0
 
 ## Feedback
 
