@@ -21,8 +21,6 @@ Congratulation again to our winners:
 | Robot and Team Image  | [Haberdashers' Aske's Boys' School](https://www.habsboys.org.uk/)
 | Online Presence       | [Collyer's](https://www.collyers.ac.uk/)
 
-## Event Photos
-
 ## Event Media
 
 If you'd like some mementos of the competition or would just like to see the photos which were taken, we've collected them all together into [this photo album](https://photos.app.goo.gl/8vtBZiuM8FXSf79Z8).
