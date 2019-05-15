@@ -16,13 +16,13 @@ Please securely pack the kit and ship it to the address listed on [our website](
 - Damaged batteries must not be shipped. If you have concerns about your batteries, please contact us.
 - Any empty space in the box should be filled with paper or bubble wrap. Please don't use packing peanuts as they're messy.
 
+Please insure the kit during shipping and use a courier which supports tracking, to ensure the kit isn't lost.
+
 Kit data for couriers:
 
 - Dimensions: 48cm x 39cm x 20cm
 - Weight: 6kg
 - Value (for insurance): £500
 - Batteries: Lithium Ion. Packed with equipment. Batteries less than 100Wh.
-
-Kit should be shipped using a courier which supports tracking, to ensure the kit isn't lost.
 
 If you have any questions, please let us know as soon as possible!
