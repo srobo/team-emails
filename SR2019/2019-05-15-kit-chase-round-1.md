@@ -19,7 +19,7 @@ Please securely pack the kit and ship it to the address listed on [our website](
 Kit data for couriers:
 
 - Dimensions: 48cm x 39cm x 20cm
-- Weight: 6kg (A kit weighs 4.95kg ref. 6kg gives some headroom)
+- Weight: 6kg
 - Value (for insurance): £500
 - Batteries: Lithium Ion. Packed with equipment. Batteries less than 100Wh.
 
