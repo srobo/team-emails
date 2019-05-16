@@ -11,7 +11,7 @@ Please securely pack the kit and ship it to the address listed on [our website](
 
 ## How to ship your kit
 
-- Kits should be shipped in the white 18l Really Useful Box (RUB).
+- Kits should be shipped in the white 18l Really Useful Box (RUB). For extra protection, we recommend wrapping this in paper / clingfilm during shipping.
 - All parts of the kit should be suitably protected either in Jiffy bags or bubble wrap.
 - Damaged batteries must not be shipped. If you have concerns about your batteries, please contact us.
 - Any empty space in the box should be filled with paper or bubble wrap. Please don't use packing peanuts as they're messy.
