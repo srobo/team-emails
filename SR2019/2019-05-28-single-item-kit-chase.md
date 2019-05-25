@@ -20,4 +20,4 @@ Please search anywhere you may have worked on your robot for these items. If you
 
 Please insure the kit during shipping and use a courier which supports tracking, to ensure the kit isn't lost.
 
-Please securely pack the kit and ship it to the address listed on [our website](https://studentrobotics.org/contact/). Once you have dispatched it, please [let us know](mailto:teams@studentrobotics.org). Please ensure your school name is written on the outside of the packaging.
+Please securely pack the kit and ship it to the address listed on [our website](https://studentrobotics.org/contact/). Once you have dispatched it, please [let us know](mailto:teams@studentrobotics.org). Please ensure your TLA is written on the outside of the packaging.
