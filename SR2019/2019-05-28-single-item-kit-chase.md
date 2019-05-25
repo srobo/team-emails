@@ -5,7 +5,7 @@ subject: Outstanding kit
 
 Hello,
 
-According to our records, you still have some of our kit. As the competition has ended, we would like this back!
+According to our records, you still have some items from the robot kit you borrowed during the SR2019 competition. As the competition has ended, we would like this back!
 
 At the end of the competition, we checked your kit in, and some items were missing. Below are the items we require back:
 
