@@ -18,10 +18,8 @@ Please search anywhere you may have worked on your robot for these items. If you
 
 ## Shipping items
 
-Please insure the kit during shipping and use a courier which supports tracking, to ensure the kit isn't lost.
-
-Please securely pack the kit and ship it to:
+Please insure the kit during shipping and use a courier which supports tracking, to ensure the kit isn't lost. Please securely pack the kit and ship it to the address below, ensuring your TLA is written on the outside of the packaging.
 
 1 Alie Street, Whitechapel, London, E1 8DE
 
-Once you have dispatched it, please [let us know](mailto:teams@studentrobotics.org). Please ensure your TLA is written on the outside of the packaging.
+Once you have dispatched it, please [let us know](mailto:teams@studentrobotics.org).
