@@ -7,7 +7,7 @@ Hello!
 
 We sent an email to you back in May stating we required a kit back from you. Unfortunately, we've not heard a response.
 
-The kits are loaned to you fur the duration of the competition year, and as this has ended, we need the kits back, to prepare for future events.
+The kits are loaned to you fur the duration of the competition year, and as this has ended, we need the kits back to prepare for future events.
 
 Please securely pack the kit and ship it to the address listed on [our website](https://studentrobotics.org/contact/). Once you have dispatched it, please [let us know](mailto:teams@studentrobotics.org).
 
