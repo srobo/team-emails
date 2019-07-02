@@ -27,4 +27,4 @@ Kit information for couriers:
 - Value (for insurance): £500
 - Batteries: Lithium Ion. Packed with equipment. Batteries less than 100Wh.
 
-If we do not hear back within 2 weeks, we will be forced to take this higher. If you have any questions, please let us know as soon as possible!
+If we do not hear back within 2 weeks, we will be forced to contact the head of your school/organisation directly. If you have any questions, please let us know as soon as possible!
