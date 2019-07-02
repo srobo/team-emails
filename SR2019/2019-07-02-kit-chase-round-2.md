@@ -1,6 +1,6 @@
 ---
 to: Teams with still outstanding kit
-subject: Outstanding kit - Round 2
+subject: Outstanding kit from SR2019 (second followup)
 ---
 
 Hello!
