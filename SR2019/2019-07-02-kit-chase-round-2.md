@@ -20,7 +20,7 @@ Please securely pack the kit and ship it to the address listed on [our website](
 
 Please insure the kit during shipping and use a courier which supports tracking, to ensure the kit isn't lost.
 
-Kit data for couriers:
+Kit information for couriers:
 
 - Dimensions: 48cm x 39cm x 20cm
 - Weight: 6kg
