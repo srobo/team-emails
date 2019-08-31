@@ -2,7 +2,7 @@
   "name": "emails",
   "description": "A history of communication with teams.",
   "scripts": {
-    "test": "mdspell --en-gb -ranx 'SR**/*.md'"
+    "test": "mdspell --en-gb --ignore-numbers --ignore-acronyms --no-suggestions --report 'SR**/*.md'"
   },
   "repository": {
     "type": "git",
