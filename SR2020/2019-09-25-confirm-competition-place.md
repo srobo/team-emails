@@ -9,7 +9,7 @@ We're pleased to confirm your place at Student Robotics 2020! You will receive a
 
 With this, we're also happy to announce the dates and locations for kickstart. Kickstart is the event which kicks off a competition year, where the game will be announced and robotics kits will be handed out. The event is also invaluable to competitors, allowing them to discuss ideas, and get direct input and support from our talented blue shirts. We'll also be holding a series of challenges (micro games) for competitors to get to know the kit.
 
-Kickstart will be on 26th October 2019
+Kickstart will be on 26th October 2019.
 
 This year, we're running 3 Kickstart events:
 
