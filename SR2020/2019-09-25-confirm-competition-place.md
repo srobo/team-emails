@@ -21,6 +21,6 @@ When you signed up, you specified your preferred kickstart location. You've all 
 
 Detailed information for each event, including a schedule for the day, detailed locations and parking can be found on [our website](https://studentrobotics.org/events/).
 
-We are currently waiting for final confirmation for the Cambridge venue, but will be publishing the specifics of that early next week.
+Please note: We are currently waiting for final confirmation for which of our choice Cambridge venues we'll be running in, but we will confirm the specifics early next week.
 
 We look forward to seeing you all there!
