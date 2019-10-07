@@ -17,7 +17,7 @@ Event-specific information can be found on the [events pages on our website](htt
 
 You all requested a specific kickstart event when you signed up for the year. We've not had to rearrange things so far, so you've all got places at those venues! If you wish to change venue, or cannot attend kickstart, please let us know, so we can make the appropriate arrangements with your kit.
 
-Which kickstart we're expecting you at: ** Google Sheet Link **
+Which kickstart we're expecting you at: https://docs.google.com/spreadsheets/d/1plZqwcO0WIdoWhiUNdGxy-6uLSoH8vIsFdKzwHXtf0c/edit?usp=sharing
 
 For those who cannot attend kickstart, we will send instructions over shortly after kickstart around how to receive your kits.
 
