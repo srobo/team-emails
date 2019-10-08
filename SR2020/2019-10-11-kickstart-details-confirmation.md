@@ -9,11 +9,11 @@ Kickstart is only just around the corner, so it's time to confirm details for th
 
 As stated in a previous email, we're running 3 kickstart events this year:
 
-- The University of Southampton
-- The University of Cambridge
-- The offices of [Thread](https://www.thread.com/), Whitechapel
+- [The University of Southampton](https://studentrobotics.org/events/sr2020/southampton-kickstart/)
+- [The University of Cambridge](https://studentrobotics.org/events/sr2020/cambridge-kickstart/)
+- [The offices of Thread, Whitechapel](https://studentrobotics.org/events/sr2020/london-kickstart/)
 
-Event-specific information can be found on the [events pages on our website](https://studentrobotics.org/events/). These are constantly being updated with more information, so be sure to keep an eye out!
+These event pages are constantly being updated with more information, so be sure to keep an eye out!
 
 You all requested a specific kickstart event when you signed up for the year. We've not had to rearrange things so far, so you've all got places at those venues! If you wish to change venue, or cannot attend kickstart, please let us know, so we can make the appropriate arrangements with your kit.
 
