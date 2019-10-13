@@ -5,7 +5,7 @@ subject: Confirming Kickstart details
 
 Hi all!
 
-Kickstart is only just around the corner, so it's time to confirm details for the kickstart events happening this year.
+Kickstart is only just around the corner, so it's time we confirm details for the kickstart events happening this year.
 
 As stated in a previous email, we're running 3 kickstart events this year:
 
