@@ -1,6 +1,6 @@
 ---
 to: sr2020-teams
-subject: Confirming Kickstart details
+subject: Kit Disclaimer Forms
 attachments:
   - https://drive.google.com/a/studentrobotics.org/file/d/1aCHnZ6o8DkLzHef1C2lz_iIkZkOjYP6P/view?usp=sharing
 ---
