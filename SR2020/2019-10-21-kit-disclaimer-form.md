@@ -7,7 +7,7 @@ attachments:
 
 Hi all,
 
-Kickstart is less than a week away, and we're putting the finishing touches to kickstart. If you're attending a kickstart event, your kits are ready and waiting at the venue. For those who can't attend kickstart, we're currently working out the details for how to ship you your kit.
+Kickstart is less than a week away, and we're putting the finishing touches to kickstart. If you're attending a kickstart event, your kits are ready and waiting at the venue. For those who can't attend kickstart, we'll contact you shortly to confirm details of shipping your kits.
 
 Before we can issue a kit, you must sign a kit disclaimer form. Historically these have been signed at the event, but to speed things up, we're sending them over early, so you can get your kit quicker!
 
