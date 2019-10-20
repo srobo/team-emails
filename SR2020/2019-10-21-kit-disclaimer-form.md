@@ -15,6 +15,8 @@ Attached to this email is the disclaimer form. Please read it, print it, sign it
 
 Please only attend the kickstart we're expecting you at: https://docs.google.com/spreadsheets/d/1plZqwcO0WIdoWhiUNdGxy-6uLSoH8vIsFdKzwHXtf0c/edit?usp=sharing. If you can no longer attend, please let us know.
 
+Last week, we sent out your login details for our account management system. This will enable you to add competitors to give them access to the IDE and forums. Please check you can login and create competitors before kickstart.
+
 If you have any questions, please let us know as soon as possible.
 
 We look forward to seeing you all there!
