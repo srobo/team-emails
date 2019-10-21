@@ -9,11 +9,11 @@ Hello there!
 
 As you are unable to attend kickstart, we need to ship you your kit.
 
-In a previous email, we sent over a kit disclaimer form, which must be signed and returned before we can dispatch your kit. Please let us know explicitly if this address is correct, and if it's not, let us know an updated one.
+In a previous email, we sent over a kit disclaimer form, which must be signed and returned before we can dispatch your kit.
 
-Address:
+Below is the address you gave us when signing up. Please let us know explicitly if this address is correct, and if it's not, let us know an updated one. The address should be of your school / institution, rather than your home address.
 
-$ADDRESS
+    $ADDRESS
 
 Once we have the kit disclaimer form, and a confirmation of the address to send it to, we can dispatch your kit to you.
 
