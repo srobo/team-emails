@@ -25,7 +25,7 @@ Last week, we sent out your login details for our account management system. Thi
 
 ## Laptops
 
-If you're attending a kickstart, please be sure to remind competitors to bring a laptop, we won't have any desktops available for you to use. 1 per team is sufficient.
+If you're attending a kickstart, please be sure to remind competitors to bring a laptop, we won't have any computers available for you to use. Please bring at least 1.
 
 ## Live Stream
 
