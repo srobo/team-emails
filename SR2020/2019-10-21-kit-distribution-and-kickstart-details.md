@@ -19,9 +19,8 @@ Please only attend the kickstart we're expecting you at: https://docs.google.com
 
 Last week, we sent out your login details for our account management system. This will enable you to add competitors to give them access to the IDE and forums, which they'll need to use at kickstart. Please check you can login and create competitors before kickstart, and let us know if you have any problems.
 
-Lastly, we will be [livestreaming the kickstart presentation](https://www.youtube.com/watch?v=OHYT5iO352c) for anyone who can't make it.
+Lastly, we will be [live streaming the kickstart presentation](https://www.youtube.com/watch?v=OHYT5iO352c) for anyone who can't make it.
 
 If you have any questions, please let us know as soon as possible.
 
 We look forward to seeing you all there!
-
