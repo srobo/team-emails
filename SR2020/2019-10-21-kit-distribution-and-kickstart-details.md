@@ -7,9 +7,11 @@ attachments:
 
 Hi all,
 
-Kickstart is less than a week away, and we're putting the finishing touches to kickstart. If you're attending a kickstart event, your kits will be ready and waiting at the venue. For those who can't attend kickstart, we'll contact you shortly to confirm details of shipping your kits.
+Kickstart is less than a week away, and we're putting the finishing touches to kickstart. If you're attending a kickstart event, your kits will be ready and waiting at the venue.
 
-Before we can issue a kit, you must sign a kit disclaimer form. Historically these have been signed at the event, but we're sending them over early to speed up the issuing process on the day. If you're not attending Kickstart, return your form promptly to ensure you receive your kit as soon afterwards as possible.
+Before we can issue a kit, you must sign a kit disclaimer form. Historically these have been signed at the event, but we're sending them over early to speed up the issuing process.
+
+If you're not attending Kickstart, return your form promptly to ensure you receive your kit as soon afterwards as possible. We'll contact you shortly to confirm details for shipping your kits to you.
 
 Attached to this email is the disclaimer form. Please read it, print it, sign it, and [send it back to us](mailto:teams@studentrobotics.org). Alternatively, feel free to sign it and bring it with you. We will of course have some spares at the event to sign on the day.
 
