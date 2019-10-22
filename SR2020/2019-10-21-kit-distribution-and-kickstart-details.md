@@ -25,7 +25,7 @@ Last week, we sent out your login details for our account management system. Thi
 
 ## Laptops
 
-If you're going to the Cambridge or London kickstart, don't forget to remind your team to bring laptops, we won't have desktops available for you to use. To those attending Southampton, we still highly recommend you bring them!
+If you're attending a kickstart, please be sure to remind competitors to bring a laptop, we won't have any desktops available for you to use. 1 per team is sufficient.
 
 ## Live Stream
 
