@@ -53,7 +53,7 @@ sadly can’t guarantee every team gets a mentor.
 
 ### Competition Planning
 
-We're currently evaluating venues for the SR2020 competition event and would
+We’re currently evaluating venues for the SR2020 competition event and would
 like your input on which dates would be best for your team. Please complete this
 Doodle poll to tell us which weekends you expect that your team would be able to
 attend.
