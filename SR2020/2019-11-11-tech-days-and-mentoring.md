@@ -10,10 +10,9 @@ teams build the best robots they can.
 
 ### Tech Days
 
-Tech Days are opportunities for teams to get help if they’re struggling with a
-technical issue, and a controlled environment for students to make more progress
-on their robots. They’re also an opportunity to see how well they’re doing in
-comparison to other teams.
+Tech Days are opportunities for teams to spend a whole day working on their
+robot with lots of help available. They’re also an opportunity to see how other
+teams are doing or get more direct help with your robots.
 
 We will provide a space for you to work in, with power and internet access, as
 well as volunteers able to help you with your kits and hands-on guidance with
