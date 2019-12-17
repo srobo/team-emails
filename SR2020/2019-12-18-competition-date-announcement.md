@@ -7,7 +7,7 @@ Hello There!
 
 As an early Christmas present to you all, today's the day we confirm the date for the Student Robotics 2020 competition!
 
-The competition will be held from *Saturday 18th April* until *Sunday 19th April*. The competition will be held at the University of Reading, so please plan accommodation / transport accordingly. The exact start/end times are to be confirmed.
+The competition will be held from *Saturday 18th April* until *Sunday 19th April*, at the University of Reading, so please plan accommodation / transport accordingly. The exact start/end times are to be confirmed.
 
 [Competition details](https://studentrobotics.org/events/sr2020/competition/)
 
