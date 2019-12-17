@@ -34,3 +34,5 @@ let us know if you'd like to attend. The deadlines for each are the Wednesday 10
 days ahead of the event.
 
 [Sign up to attend a Tech Day](https://forms.gle/vSrzt4o85542MGcv8)
+
+We expect to confirm more Tech Days at other venues early in the New Year.
