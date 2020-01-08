@@ -1,6 +1,8 @@
 ---
 to: Teams that haven't responded to any emails
 subject: Still interested in SR2020?
+attachments:
+  - https://drive.google.com/a/studentrobotics.org/file/d/1aCHnZ6o8DkLzHef1C2lz_iIkZkOjYP6P/view?usp=sharing
 ---
 
 Hello!
