@@ -25,6 +25,6 @@ Wednesday 26th February.
 -- The SR Competition Team
 
 
-[soton-tech-day]: https://studentrobotics.org/events/sr2020/southampton-tech-day-january/
+[soton-tech-day]: https://studentrobotics.org/events/sr2020/southampton-tech-day-february/
 [tech-day-signup]: https://forms.gle/vSrzt4o85542MGcv8
 [london-tech-day-feb]: https://studentrobotics.org/events/sr2020/london-tech-day-february/
