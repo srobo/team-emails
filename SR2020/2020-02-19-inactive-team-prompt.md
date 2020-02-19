@@ -5,7 +5,7 @@ subject: Lack of activity in Student Robotics
 
 Hello There!
 
-Our records show you've not been especially active on the IDE or Forum recently, and we want to offer our support!
+Our records show you've not been especially active on the IDE recently, and we want to offer our support!
 
 ## Assistance
 
