@@ -1,6 +1,6 @@
 ---
 to: Teams deemed 'inactive'
-subject: Southampton Tech Day 8th Feb
+subject: Lack of activity in Student Robotics
 ---
 
 Hello There!
