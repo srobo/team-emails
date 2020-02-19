@@ -5,7 +5,7 @@ subject: London Tech Day 29th Feb
 
 Hi teams,
 
-Just a reminder and some information on [the tech day we're running][london-tech-day] on Saturday the 29th February at the offices of Thread.
+Just a reminder and some information on [the tech day we're running][london-tech-day] on Saturday the 29th February at the offices of Thread, in London.
 
 Tech Days are opportunities for teams to spend a whole day working on their
 robot with lots of help available. They’re also an opportunity to see how other
