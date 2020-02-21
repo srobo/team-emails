@@ -1,6 +1,6 @@
 ---
 to: Teams deemed 'inactive'
-subject: Lack of activity in Student Robotics
+subject: Student Robotics activity
 ---
 
 Hello There!
