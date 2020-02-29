@@ -38,7 +38,7 @@ Tech Days are opportunities for teams to spend a whole day working on their
 robot with lots of help available. They’re also an opportunity to see how other
 teams are doing or get more direct help with your robots.
 
-You can see the list of upcoming tec days on [our website](https://studentrobotics.org/events/).
+You can see the list of upcoming tech days on [our website](https://studentrobotics.org/events/).
 
 ## Unable to continue?
 
