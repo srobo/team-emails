@@ -1,6 +1,6 @@
 ---
 to: Teams deemed 'inactive'
-subject: Student Robotics inactivity
+subject: We haven't seen you in a while
 ---
 
 Hello There!
