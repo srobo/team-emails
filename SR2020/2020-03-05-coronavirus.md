@@ -15,7 +15,7 @@ At this time, we're **not** intending to cancel the Student Robotics 2020 compet
 
 With an abundance of caution, we've decided to take action during the competition to minimise risk. We will frequently disinfect any touch points (i.e. door handles & surfaces) during the competition, and will try to source hand sanitizer for use during the event, (however there is currently a global shortage). We'll also be briefing all volunteers and attendees about best hygene practises. We'd also like to request every attendee who has recently visited or will arrive from another country to follow the 'returning travellers' section of the [UK Government guidance][returning-travellers].
 
-If you or your school has any requirements or questions about our handling of the event, don't hesitate to contact us at teams@studentrobotics.org.
+If you or your school has any questions about our handling of the event, please don't hesitate to contact us at teams@studentrobotics.org.
 
 [uk-coronavirus-page]: https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public
 [returning-travellers]: https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public#returning-travellers
