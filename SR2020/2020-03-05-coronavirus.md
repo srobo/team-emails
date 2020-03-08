@@ -7,8 +7,6 @@ subject: Update on Coronavirus and SR
 
 Hello everyone, 
 
-TL;DR: We're not intending to cancel the event, but will be monitoring the situation closely and will be taking action both during and before the event to minimize risk.
-
 I'm sure you've heard about the COVID-19 coronavirus, and about many large events being cancelled due to concerns of spreading the virus.
 
 At this time, we're **not** intending to cancel the Student Robotics 2020 competition. However, we're keeping a keen eye on the situation, and will be following the advice of the [UK Department of Health and Social Care][uk-coronavirus-page]. We are also working on a back-up plan should the event be unable to run. Considering this is an event for minors, we will be taking decisions with an abundance of caution.
