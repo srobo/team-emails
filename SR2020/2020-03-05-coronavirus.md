@@ -13,7 +13,7 @@ We're keeping a keen eye on the situation, and will be following the advice of t
 
 The competition is still a few weeks away and our plans will adapt to suit the situation at the time, however we are currently intending to heighten hygiene levels during the competition. For example, by frequently disinfecting any touch points (i.e. door handles & surfaces) during the competition, and we will try to source additional hand sanitizer for use during the event (however there is currently a global shortage). We'll also be briefing all volunteers and attendees about best hygiene practises.
 
-We expect all teams who are attending the competition to follow the [official guidelines][phe-guideleines] on COVID-19 from Public Health England.
+We expect all teams who are attending the competition to follow the [official guidelines][phe-guidelines] on COVID-19 from Public Health England.
 
 If you or your school has any questions about our handling of the event, please don't hesitate to contact us at teams@studentrobotics.org.
 
