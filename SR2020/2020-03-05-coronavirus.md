@@ -11,7 +11,7 @@ I'm sure you've heard about the COVID-19 coronavirus, and about many large event
 
 We're keeping a keen eye on the situation, and will be following the advice of the [UK Department of Health and Social Care][uk-coronavirus-page]. Considering this is an event for minors, we will be taking decisions with an abundance of caution.
 
-The competition is still a few weeks away and our plans will adapt to suit the situation at the time, however we are currently intending to heighten hygiene levels during the competition. For example, by frequently disinfecting any touch points (i.e. door handles & surfaces) during the competition, and we will try to source additional hand sanitizer for use during the event (however there is currently a global shortage). We'll also be briefing all volunteers and attendees about best hygiene practises.
+The competition is still several weeks away and our plans will adapt to suit the situation as things develop. We'll also be briefing all volunteers and attendees about best hygiene practices, and ensuring they're followed throughout the competition.
 
 We expect all teams who are attending the competition to follow the [guidelines][phe-guidelines] on COVID-19 from Public Health England.
 
