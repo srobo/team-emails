@@ -18,5 +18,4 @@ We expect all teams who are attending the competition to follow the [guidelines]
 If you or your school has any questions about our handling of the event, please don't hesitate to contact us at teams@studentrobotics.org.
 
 [uk-coronavirus-page]: https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public
-[returning-travellers]: https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public#returning-travellers
 [phe-guidelines]: https://www.gov.uk/government/publications/guidance-to-educational-settings-about-covid-19/guidance-to-educational-settings-about-covid-19
