@@ -1,6 +1,6 @@
 ---
 to: sr2020-teams
-subject: Update on Coronavirus and SR
+subject: Update on Coronavirus and Student Robotics
 ---
 
 # Update on SR and the COVID-19 Coronavirus
