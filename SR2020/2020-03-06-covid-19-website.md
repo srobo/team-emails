@@ -9,7 +9,7 @@ Hello again,
 
 Following on from an email sent yesterday, we have now put a page on our website expanding further on how we're assessing the situation regarding COVID-19.
 
-You can find it here: https://studentrobotics.org/news/2020-03-11-sr2020-covid-19-updates/
+You can find it here: https://studentrobotics.org/covid-19/
 
 We will be keeping this page up to date as things progress. As it stands the competition is going ahead as planned, however should this change, we will let you know immediately.
 
