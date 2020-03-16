@@ -23,10 +23,9 @@ There are no current planned tech days. Once things have settled down, we can or
 
 The [forum][forum] is still a great place to get help from blueshirts and other teams, in addition to showing off your progress!
 
-If you are looking for more in-depth support from blueshirts, you can [email us][teams-email] to request remote mentoring.
+If you are looking for more in-depth support from blueshirts, you can email us at teams@studentrobotics.org to request remote mentoring.
 
 
-If you have any further questions, please [let us know][teams-email].
+If you have any further questions, please let us know on teams@studentrobotics.org.
 
 [forum]: https://studentrobotics.org/forum/
-[teams-email]: mailto:teams@studentrobotics.org
