@@ -9,9 +9,9 @@ Following guidance from the UK government and the University of Reading, we will
 
 ## Competition
 
-Please fill in the below doodle poll to let us know your preferred dates.
+Please fill in the below poll to let us know your preferred dates.
 
-Doodle Poll: https://doodle.com/poll/rmdg8waeezbdqbz9
+Date Poll: https://forms.gle/21x6F5EBMAtu6GKh9
 
 The event will still take place over a weekend, at the University of Reading.
 
