@@ -15,7 +15,7 @@ Date Poll: https://forms.gle/21x6F5EBMAtu6GKh9
 
 The event will still take place over a weekend, at the University of Reading.
 
-We hope to confirm the updated date in the next few weeks, so please let us know as soon as you can.
+We hope to confirm the updated date in the next week, so please let us know as soon as you can.
 
 ## Tech Days
 
