@@ -9,9 +9,13 @@ Following guidance from the UK government and the University of Reading, we will
 
 ## Competition
 
-Please fill in the below poll to let us know your preferred dates.
+We are currently investigating the following dates for the competition:
 
-Date Poll: https://forms.gle/21x6F5EBMAtu6GKh9
+- 27th - 28th June
+- 4th - 5th July
+- 11th - 12th July
+
+Please fill in the following poll to let us know your preferred dates: https://forms.gle/21x6F5EBMAtu6GKh9
 
 The event will still take place over a weekend, at the University of Reading.
 
