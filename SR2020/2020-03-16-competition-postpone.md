@@ -23,7 +23,7 @@ We hope to confirm the updated date in the next week, so please let us know as s
 
 ## Tech Days
 
-There are no current planned tech days. Once things have settled down, we can organise some.
+There are no current planned tech days. Once things have settled down, we hope to organise some.
 
 The [forum][forum] is still a great place to get help from blueshirts and other teams, in addition to showing off your progress!
 
