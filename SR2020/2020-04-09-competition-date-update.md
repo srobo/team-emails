@@ -17,6 +17,6 @@ You can still find the latest updates on our [COVID-19 updates page](https://stu
 
 ## Working on your robot
 
-We hope you're still working on your robots as much as possible. The IDEs will remain open and staffed for the foreseeable future should you need help from us blueshirts.
+We hope you're still working on your robots as much as possible. The [IDE](https://studentrobotics.org/ide/) and [forum](https://studentrobotics.org/forum/) will remain open and staffed for the foreseeable future should you need help from us blueshirts.
 
 If you have any further questions, please don't hesitate to [get in touch](teams@studentrobotics.org)!
