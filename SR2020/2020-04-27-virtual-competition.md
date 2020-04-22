@@ -5,7 +5,7 @@ subject: Virtual Student Robotics Competition
 
 Hi teams,
 
-We are working hard on a solution for the virtual competion. Our aim is to release a development environment for teams soon, then run a **test event around late May / early June**, with further rounds in the following weeks.
+We are working hard on a solution for the virtual competition. Our aim is to release a development environment for teams soon, then run a **test event around late May / early June**, with further rounds in the following weeks.
 
 To help us gauge your interest, please fill in our [quick poll](https://forms.gle/gE6o4XyzjzJoAWHB9) on how likely your team will be to compete.
 
