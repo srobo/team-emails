@@ -1,6 +1,6 @@
 ---
 to: sr2020-teams
-subject: Transitioning Student Robotics 2020 into a virtual competition
+subject: Transitioning to a virtual competition
 ---
 
 Hi all,
