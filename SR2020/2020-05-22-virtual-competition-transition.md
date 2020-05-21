@@ -15,7 +15,7 @@ As we said in the previous email, we aim to keep the virtual competition rules a
 
 The [forum](https://studentrobotics.org/forum/) will be open and staffed should you need help from us blueshirts.
 
-We will be announcing the final details of the virtual competition early next week.
+We will be announcing the full details of the virtual competition early next week.
 
 For more information, please read our [latest news post](), and you can always find the latest updates on our [COVID-19 updates page](https://studentrobotics.org/covid-19/).
 
