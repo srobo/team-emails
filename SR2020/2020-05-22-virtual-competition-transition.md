@@ -5,7 +5,7 @@ subject: Transitioning to a virtual competition
 
 Hi all,
 
-In light of everything happening, and the uncertainty it brings, we're unfortunately cancelling the in-person competition for Student Robotics 2020.
+In light of recent events, and the uncertainty it has brought, we're unfortunately cancelling the in-person competition for Student Robotics 2020.
 
 ## Virtual Competition
 
