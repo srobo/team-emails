@@ -9,7 +9,7 @@ In light of recent events, and the uncertainty it has brought, we're unfortunate
 
 ## Virtual Competition
 
-The virtual competition event will take place over a few weekends in July, with a few weekends of league matches, and a knockout final.
+The virtual competition event will take place over a few weekend sessions in July, with a few weekends of league matches, and a knockout final.
 
 As we said in the previous email, we aim to keep the virtual competition rules as similar to Two Colours as possible so teams can use the code they have been working on since Kickstart.
 
