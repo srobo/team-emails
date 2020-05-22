@@ -11,7 +11,7 @@ In light of recent events, and the uncertainty it has brought, we're unfortunate
 
 The virtual competition event will take place over a few weekend sessions in July, with a few weekends of league matches, and a knockout final.
 
-As we said in the previous email, we aim to keep the virtual competition rules as similar to Two Colours as possible so teams can use the code they have been working on since Kickstart.
+As we said in the previous email, we aim to keep the virtual competition rules as similar to Two Colours as possible so you can easily build on the work done since Kickstart.
 
 The [forum](https://studentrobotics.org/forum/) will be open and staffed should you need help from us blueshirts.
 
