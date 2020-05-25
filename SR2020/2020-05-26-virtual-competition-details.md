@@ -3,7 +3,7 @@ to: sr2020-teams
 subject: Student Robotics 2020 Virtual Competition Details
 ---
 
-![](https://pbs.twimg.com/media/EYt9wgcX0AAKjOn)
+![](https://pbs.twimg.com/media/EYt9wgcX0AAKjOn?format=jpg)
 
 Hello!
 
