@@ -15,7 +15,7 @@ For the virtual competition, we've created a new simulation, based in [webots](h
 
 [Competition Simulator Docs](https://studentrobotics.org/docs/competition-simulator/)
 
-Due to some compatibility and API changes, it's unlikely your existing code will work exactly in the simulator.
+Due to some compatibility and API changes, it's unlikely your existing code will work exactly in the simulator, however we've tried to keep it as similar as possible, and easily adaptable from what you've already written.
 
 ## Competition Format
 
