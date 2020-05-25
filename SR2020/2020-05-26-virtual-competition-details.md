@@ -11,7 +11,7 @@ Today's the day we announce some long awaited details of the virtual competition
 
 ## Simulator
 
-For the virtual competition, we've created a new simulator, based on [webots](https://cyberbotics.com/). Documentation on how to download and get started with the simulator is available on the docs.
+For the virtual competition, we've created a new simulation, based in [webots](https://cyberbotics.com/). Documentation on how to download and get started with the simulator is available in the docs.
 
 [Competition Simulator Docs](https://studentrobotics.org/docs/competition-simulator/)
 
