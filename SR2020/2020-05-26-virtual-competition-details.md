@@ -7,7 +7,7 @@ subject: Student Robotics 2020 Virtual Competition Details
 
 Hello!
 
-Today's the day we announce some long awaited details of the virtual competition for Student Robotics 2020.
+Today's the day we announce some long-awaited details of the virtual competition for Student Robotics 2020.
 
 ## Simulator
 
