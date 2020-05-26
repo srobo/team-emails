@@ -19,7 +19,7 @@ Due to some compatibility and API changes, it's unlikely your existing code will
 
 ## Competition Format
 
-Our intention is to run this in a very similar way to the regular competition. In early July (subject to change), we'll run virtual competition events, taking place on weekends and streamed live. There will be a few league match sessions, followed by a knockout final. Your code will be submitted to us before the weekend session, ready for running. In between sessions, you are free to make any and all modifications to your robot's code.
+Our intention is to run this in a very similar way to the regular competition. In early July (subject to change), we'll run virtual competition sessions, taking place on weekends and streamed live. There will be a few league match sessions, followed by a knockout final. Your code will be submitted to us before the weekend session, ready for running. In between sessions, you are free to make any and all modifications to your robot's code.
 
 More details on the format will follow in the next few weeks.
 
