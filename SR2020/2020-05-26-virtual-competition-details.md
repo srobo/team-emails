@@ -23,6 +23,12 @@ Our intention is to run this in a very similar way to the regular competition. I
 
 More details on the format will follow in the next few weeks on [our website](https://studentrobotics.org/events/sr2020/virtual-competition/).
 
+## Signup
+
+If you're interested in entering a team (or teams) into the virtual competition, please sign up using the link below.
+
+[Sign up to the virtual competition](https://forms.gle/xg8Jh3ATJP7Nqygp8)
+
 ## Support
 
 The [forum](https://studentrobotics.org/forum/) will be open and staffed should you need help from us blueshirts.
