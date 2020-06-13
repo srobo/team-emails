@@ -7,7 +7,7 @@ subject: Would you like to compete in the Student Robotics 2020 Virtual Competit
 
 Hello!
 
-We understand that you dropped out of Student Robotics 2020. However, given the situation regarding Covid-19 and our switch to a virtual competition, your circumstances may have changed.
+We understand that you dropped out of Student Robotics 2020. However, given the situation regarding COVID-19 and our switch to a virtual competition, your circumstances may have changed.
 
 **We would like to invite your team to compete in the virtual competition for Student Robotics 2020**. We have designed this competition so that all participants can work 100% remotely.
 
