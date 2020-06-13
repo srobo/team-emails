@@ -33,7 +33,7 @@ If you're interested in entering a team (or teams) into the virtual competition,
 
 ## Support
 
-The [forum](https://studentrobotics.org/forum/) will be open and staffed should you need help from us blueshirts.
+The [forum](https://studentrobotics.org/forum/) is open and staffed should you need help from us blueshirts.
 
 If you have any further questions, please don't hesitate to [get in touch](teams@studentrobotics.org)!
 
