@@ -1,13 +1,15 @@
 ---
 to: sr2020-teams
-subject: Student Robotics 2020 Virtual Competition Details
+subject: Would you like to compete in the Student Robotics 2020 Virtual Competition
 ---
 
 ![](https://studentrobotics.org/docs/resources/competition-simulator/arena.png)
 
 Hello!
 
-Today's the day we announce some long-awaited details of the virtual competition for Student Robotics 2020.
+We understand that you dropped out of Student Robotics 2020. However, given the situation regarding Covid-19 and our switch to a virtual competition, your circumstances may have changed.
+
+**We would like to invite your team to compete in the virtual competition for Student Robotics 2020**. We have designed this competition so that all participants can work 100% remotely.
 
 ## Simulator
 
