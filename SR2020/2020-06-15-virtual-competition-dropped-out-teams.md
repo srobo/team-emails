@@ -1,5 +1,5 @@
 ---
-to: sr2020-teams
+to: sr2020-teams who had previously indicated they could no longer compete
 subject: Would you like to compete in the Student Robotics 2020 Virtual Competition
 ---
 
