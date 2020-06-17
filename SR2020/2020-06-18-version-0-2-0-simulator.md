@@ -10,7 +10,7 @@ We have released version 0.2.0 of the competition simulation which you can downl
 The following changes have been made:
 
 - Reducing the range of randomness which can be exhibited by motors and sensors
-- Adding multiple robots to the arena with the abilitiy to assign distict code files to each
+- Adding multiple robots to the arena with the ability to assign distinct code files to each
 - Fix the gripper jumping open bug
 - Add a sleep method which runs on "simulation time" instead of actual time. This is useful for computers where the simulation runs slowly
 - Colour robots and scoring zones
