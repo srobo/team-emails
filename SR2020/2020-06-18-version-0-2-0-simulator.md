@@ -1,40 +1,23 @@
 ---
 to: sr2020-teams
-subject: Would you like to compete in the Student Robotics 2020 Virtual Competition
+subject: Virtual Competition Simulation Version 2 Released
 ---
 
-![](https://studentrobotics.org/docs/resources/competition-simulator/arena.png)
+Hi
 
-Hello!
+We have released version 0.2.0 of the competition simulation which you can download from the [Docs page](https://studentrobotics.org/docs/competition-simulator/).
 
-We understand that you were unable to compete in the Student Robotics 2020 competition. However, given the situation regarding COVID-19 and our [transition to a virtual competition](https://studentrobotics.org/news/2020-05-22-virtual-competition-transition/), we're wondering if you may be interested in competing again?
+The following changes have been made:
 
-**We would like to invite your team to compete in the virtual competition for Student Robotics 2020**. We have designed this competition so that all participants can work 100% remotely.
+- Reducing the range of randomness which can be exhibited by motors and sensors
+- Adding multiple robots to the arena with the abilitiy to assign distict code files to each
+- Fix the gripper jumping open bug
+- Add a sleep method which runs on "simulation time" instead of actual time. This is useful for computers where the simulation runs slowly
+- Colour robots and scoring zones
+- Fix the warnings which appear in the console when the simulation is first loaded
+- Switch gold and silver token indexing to match the rules
+- Enable control of the robot LEDs
 
-## Simulator
+Our [forum](https://studentrobotics.org/forum/) remains open and staffed by blueshirts. We encourage teams to discuss solutions or highlight any issues they find.
 
-For the virtual competition, we've created a new simulation, based in [webots](https://cyberbotics.com/). Documentation on how to download and get started with the simulator is available in the docs.
-
-[Competition Simulator Docs](https://studentrobotics.org/docs/competition-simulator/)
-
-Due to some compatibility and API changes, it's unlikely your existing code will work exactly in the simulator. However we've tried to keep it as similar as possible, and easily adaptable from what you've already written.
-
-## Competition Format
-
-Our intention is to run this in a very similar way to the regular competition. In early July (subject to change), we'll run virtual competition sessions, taking place on weekends and streamed live. There will be a few league match sessions, followed by a knockout final. Your code will be submitted to us before the weekend session, ready for running. In between sessions, you are free to make any and all modifications to your robot's code.
-
-More details on the format will follow in the next few weeks on [our website](https://studentrobotics.org/events/sr2020/virtual-competition/).
-
-## Sign up
-
-If you're interested in entering a team (or teams) into the virtual competition, please sign up using the link below.
-
-[Sign up to the virtual competition](https://forms.gle/xg8Jh3ATJP7Nqygp8)
-
-## Support
-
-The [forum](https://studentrobotics.org/forum/) is open and staffed should you need help from us blueshirts.
-
-If you have any further questions, please don't hesitate to [get in touch](teams@studentrobotics.org)!
-
-Good luck!
+Signup for the virtual competition is still open for those who haven't already signed up: [Signup form](https://forms.gle/ouuAipocwse3E4XY7)
