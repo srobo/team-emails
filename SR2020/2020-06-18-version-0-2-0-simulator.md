@@ -7,7 +7,7 @@ Hi
 
 We have released version 0.2.0 of the competition simulation which you can download from the [Docs page](https://studentrobotics.org/docs/competition-simulator/).
 
-The following changes have been made:
+We've made a number of changes, most notably:
 
 - Reducing the range of randomness which can be exhibited by motors and sensors
 - Adding multiple robots to the arena with the ability to assign distinct code files to each
