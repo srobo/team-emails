@@ -20,4 +20,4 @@ The following changes have been made:
 
 Our [forum](https://studentrobotics.org/forum/) remains open and staffed by blueshirts. We encourage teams to discuss solutions or highlight any issues they find.
 
-Signup for the virtual competition is still open for those who haven't already signed up: [Signup form](https://forms.gle/ouuAipocwse3E4XY7)
+Sign-up for the virtual competition is still open for those who haven't already signed up: [Sign-up form](https://forms.gle/ouuAipocwse3E4XY7)
