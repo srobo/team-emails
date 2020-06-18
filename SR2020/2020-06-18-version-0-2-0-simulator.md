@@ -1,6 +1,6 @@
 ---
 to: sr2020-teams
-subject: Virtual Competition Simulation Version 2 Released
+subject: Virtual Competition Simulator Update
 ---
 
 Hi
