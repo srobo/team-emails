@@ -40,6 +40,9 @@ regarding their robots (physical or virtual), also for inclusion in the live
 stream. Participation in these interviews would require submission of a media
 consent form.
 
+If you would like to submit any robot designs, photos or video, or are would
+like to be interviewed for the live stream, please email us at <teams@>.
+
 
 We look forward to seeing your robots (of all kinds).
 
