@@ -9,7 +9,7 @@ Hi all
 
 We're pleased to announce the structure of the SR2020 virtual competition. We will be running 5 sessions over 3 weekends.
 
-You will have until 10am on each day to make your changes before your team's code is frozen. We will be in contact soon about our submission process.
+You will have until 10am on each day to make changes before your team's code is frozen. We will be in contact soon about our submission process.
 
 **At 3pm we will be live-streaming matches** back-to-back on YouTube.
 
