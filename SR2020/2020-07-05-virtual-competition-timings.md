@@ -1,13 +1,17 @@
 ---
 to: sr2020-teams
-subject: SR2020 Virtual Competition Schedule
+subject: SR2020 Virtual Competition Schedule and New Simulation Version
 ---
 
 Hi all
 
+## The Competition Schedule
+
 We're pleased to announce the structure of the SR2020 virtual competition. We will be running 5 sessions over 3 weekends.
 
-You will have until 10am on each day to make your changes before your team's code is frozen. Then **at 3pm we will be live-streaming matches** back-to-back on YouTube.
+You will have until 10am on each day to make your changes before your team's code is frozen. We will be in contact soon about our submission process.
+
+**At 3pm we will be live-streaming matches** back-to-back on YouTube.
 
 | Date           | Competition Stage                                                   |
 |----------------|---------------------------------------------------------------------|
@@ -17,4 +21,19 @@ You will have until 10am on each day to make your changes before your team's cod
 | 19th July 2020 | [League Part 4](https://studentrobotics.org/events/sr2020/virtual-competition-league-4/)       |
 | 25th July 2020 | [Knockouts and Final](https://studentrobotics.org/events/sr2020/virtual-competition-knockouts/)|
 
-See you there!
+## Version 0.3.0 of the Simulation
+
+We have released version 0.3.1 of the competition simulation which you can download from the [Docs page](https://studentrobotics.org/docs/competition-simulator/).
+
+Here are some of the notable changes since 0.2.0:
+
+- Raise an error if you try to R.sleep() with negative seconds
+- Fix rounding errors in vision code
+- Only launch one Webots thread when using custom initialisation
+- Stop Python processes being left behind after running the simulation
+- Export 3D HTML recordings of matches in competition mode
+- Fix Webots access violations (Controller exited with status -1)
+- Create a log file for each robot to aid debugging
+- End support for Python 3.5
+
+See you at the virtual competition!
