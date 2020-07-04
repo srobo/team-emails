@@ -11,10 +11,10 @@ You will have until 10am on each day to make your changes before your team's cod
 
 | Date           | Competition Stage                                                   |
 |----------------|---------------------------------------------------------------------|
-| 11th July 2020 | [League Part 1](/events/sr2020/virtual-competition-league-1/)       |
-| 12th July 2020 | [League Part 2](/events/sr2020/virtual-competition-league-2/)       |
-| 18th July 2020 | [League Part 3](/events/sr2020/virtual-competition-league-3/)       |
-| 19th July 2020 | [League Part 4](/events/sr2020/virtual-competition-league-4/)       |
-| 25th July 2020 | [Knockouts and Final](/events/sr2020/virtual-competition-knockouts/)|
+| 11th July 2020 | [League Part 1](https://studentrobotics.org/events/sr2020/virtual-competition-league-1/)       |
+| 12th July 2020 | [League Part 2](https://studentrobotics.org/events/sr2020/virtual-competition-league-2/)       |
+| 18th July 2020 | [League Part 3](https://studentrobotics.org/events/sr2020/virtual-competition-league-3/)       |
+| 19th July 2020 | [League Part 4](https://studentrobotics.org/events/sr2020/virtual-competition-league-4/)       |
+| 25th July 2020 | [Knockouts and Final](https://studentrobotics.org/events/sr2020/virtual-competition-knockouts/)|
 
 See you there!
