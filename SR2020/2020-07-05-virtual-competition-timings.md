@@ -21,7 +21,7 @@ You will have until 10am on each day to make your changes before your team's cod
 | 19th July 2020 | [League Part 4](https://studentrobotics.org/events/sr2020/virtual-competition-league-4/)       |
 | 25th July 2020 | [Knockouts and Final](https://studentrobotics.org/events/sr2020/virtual-competition-knockouts/)|
 
-## Version 0.3.0 of the Simulation
+## Version 0.3.1 of the Simulation
 
 We have released version 0.3.1 of the competition simulation which you can download from the [Docs page](https://studentrobotics.org/docs/competition-simulator/).
 
