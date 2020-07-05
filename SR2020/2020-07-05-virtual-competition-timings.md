@@ -27,7 +27,7 @@ We have released version 0.3.1 of the competition simulation which you can downl
 
 Here are some of the notable changes since 0.2.0:
 
-- Raise an error if you try to `R.sleep()` with negative seconds
+- Raise an error if you try to `R.sleep()` with seconds less than or equal to 0
 - Fix intermittent `ValueError`s in vision code caused by floating point rounding
 - Only launch one Webots thread when using custom initialisation
 - Stop Python processes being left behind after running the simulation
