@@ -31,9 +31,7 @@ Here are some of the notable changes since 0.2.0:
 - Fix rounding errors in vision code
 - Only launch one Webots thread when using custom initialisation
 - Stop Python processes being left behind after running the simulation
-- Export 3D HTML recordings of matches in competition mode
 - Fix Webots access violations (Controller exited with status -1)
 - Create a log file for each robot to aid debugging
-- End support for Python 3.5
 
 See you at the virtual competition!
