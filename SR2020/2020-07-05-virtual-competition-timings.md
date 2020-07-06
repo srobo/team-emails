@@ -32,5 +32,6 @@ Here are some of the notable changes since 0.2.0:
 - Stop Python processes being left behind after running the simulation
 - Fix Webots access violations (Controller exited with status -1)
 - Create a log file for each robot to aid debugging
+- Added [opt-in support](https://studentrobotics.org/docs/competition-simulator/programming/time) for more control over the progression of simulation time, which may offer more deterministic robot behaviour
 
 See you at the virtual competition!
