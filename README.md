@@ -8,6 +8,19 @@ If an email contains links to forms, or other potentially sensetive information,
 
 ## How to send emails
 
+### Mailchimp
+
 Emails should be sent using the MailChimp account.
 
 When sending emails to 'All Teams', please send to both the _"Website - Potential Team Leaders"_ and _"Potential Team Leaders"_ lists.
+
+### As an alias in Gmail
+
+#### Setup
+
+In Gmail, go to settings->accounts and add teams@studentrobotics.org under the 'Send mail as' section.
+You will need to verify this by clicking a link automatically sent to teams@studentrobotics.org.
+
+#### Sending
+
+Select the 'Recipients' field when composing a new email. You will see an option to switch the 'From' field to the teams@ address.
