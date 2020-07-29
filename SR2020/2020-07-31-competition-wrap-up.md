@@ -34,7 +34,7 @@ If you'd like to relive the highs and lows of the competition, livestreams of th
 
 We'd love to get your feedback on how the competition went for you this year, so we know what we did well, and where we can improve. Please complete the below short, anonymous survey. We also invite you to share this feedback form with your team members, and anyone else who attended the event.
 
-[Send us feedback](LINK_GOES_HERE)
+[Send us feedback](https://forms.gle/AwV2rPF18zqVtsUZ8)
 
 ## Future Events
 
