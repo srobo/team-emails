@@ -28,7 +28,7 @@ If you'd like to relive the highs and lows of the competition livestreams of the
 - League Session 3: https://www.youtube.com/watch?v=symUE1E4niI
 - League Session 4: https://www.youtube.com/watch?v=Y4h5P47j8jM
 - Knockouts and Final: https://www.youtube.com/watch?v=xBPVqsb_Ydk
-- Final and Tiebreaker: https://www.youtube.com/watch?v=xBPVqsb_Ydk
+- Final and Tiebreaker: https://www.youtube.com/watch?v=MAXpgODIqiI
 
 ## Feedback
 
