@@ -7,7 +7,7 @@ Hi all,
 
 First off, we'd like to thank you for taking part in Student Robotics 2020 and making it such a successful event! We were blown away by how well the teams adapted to the virtual competition in these uncertain times. An article about the competition, results, and game has been [posted on our website](https://studentrobotics.org/news/2020-07-25-post-competition/).
 
-Congratulation again to our winners:
+Congratulations again to our winners:
 
 | Prize                | Team                                                                                                                     |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -21,7 +21,7 @@ Congratulation again to our winners:
 
 ## Rewatch the streams
 
-If you'd like to relive the highs and lows of the competition livestreams of the matches remain available on YouTube, as well as a cut-down video of the spectacular final and tie breaker:
+If you'd like to relive the highs and lows of the competition, livestreams of the matches remain available on YouTube, as well as a cut-down video of the spectacular final and tie breaker:
 
 - League Session 1: https://www.youtube.com/watch?v=xLL7SoQywf4
 - League Session 2: https://www.youtube.com/watch?v=7JoW4zXSeZE
