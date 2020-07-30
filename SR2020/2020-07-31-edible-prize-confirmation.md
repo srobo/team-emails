@@ -1,5 +1,5 @@
 ---
-to: sr2020 winners
+to: sr2020 edible prize winners
 subject: Please confirm the details for your Student Robotics award
 ---
 
