@@ -1,6 +1,6 @@
 ---
 to: sr2020 edible prize winners
-subject: Please confirm the details for your Student Robotics award
+subject: Please confirm the details for your Student Robotics edible prize
 ---
 
 Hi
@@ -19,4 +19,5 @@ The address we have on file for you is:
 <address>
 
 Thanks
+
 -- the SR team

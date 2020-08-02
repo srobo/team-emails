@@ -1,6 +1,6 @@
 ---
 to: sr2020 trophy winners
-subject: Please confirm the details for your Student Robotics edible prize
+subject: Please confirm the details for your Student Robotics award
 ---
 
 Hi
@@ -16,4 +16,5 @@ We need to confirm your details for the trophy so please can you fill in the bel
 | I am happy that Student Robotics shares my address with https://www.trophies2u.co.uk/ | Yes/No            |
 
 Thanks
+
 -- the SR team
