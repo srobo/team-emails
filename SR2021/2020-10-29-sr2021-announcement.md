@@ -15,7 +15,7 @@ However, on top of this we will be running monthly league sessions. These league
 
 ## Kickstart
 
-Due to current restrictions, kickstart will be a livestreamed event on **21st November 2020**. Here we'll announce the game for this year, go into further details on how the competition year will work, and of course answer any questions you have.
+Due to current restrictions, kickstart will be streamed live on **21st November 2020**. Here we'll announce the game for this year, go into further details on how the competition year will work, and of course answer any questions you have.
 
 Visit our website for more information.
 
