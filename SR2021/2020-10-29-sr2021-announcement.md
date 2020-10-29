@@ -5,7 +5,7 @@ subject: Announcing Student Robotics 2021
 
 Hello there!
 
-I'm pleased to announce some details for Student Robotics 2021.
+We're pleased to announce some details for Student Robotics 2021.
 
 ## Competition
 
