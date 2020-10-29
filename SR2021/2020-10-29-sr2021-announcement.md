@@ -5,7 +5,7 @@ subject: Announcing Student Robotics 2021
 
 Hello there!
 
-I'm pleased to announce sign-ups are now open for Student Robotics 2021.
+I'm pleased to announce some details for Student Robotics 2021.
 
 ## Competition
 
@@ -21,4 +21,6 @@ Visit our website for more information.
 
 ## Sign up
 
-If you're interested in entering Student Robotics 2021, please sign up on our website: https://studentrobotics.org/compete/
+We will open sign-ups shortly. Stay tuned for further information.
+
+As always, if you have any questions please let us know!
