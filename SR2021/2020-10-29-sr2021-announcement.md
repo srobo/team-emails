@@ -17,7 +17,7 @@ However, on top of this we will be running monthly league sessions. These league
 
 Kickstart will be streamed live on **21st November 2020**. Here we'll announce the game for this year, go into further details on how the competition year will work, and of course answer any questions you have.
 
-Visit our website for more information.
+Visit [our website](https://studentrobotics.org/news/2020-10-29-sr2021-registration-open/) for more information.
 
 ## Sign up
 
