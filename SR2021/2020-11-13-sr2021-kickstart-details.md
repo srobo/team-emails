@@ -21,6 +21,6 @@ Visit [our website](https://studentrobotics.org/events/sr2021/kickstart/) for mo
 
 ## Sign up
 
-If you haven't done so already, and are interested in entering 1 or more team for this year's competition, please sign up on our website: https://studentrobotics.org/compete/
+If you haven't done so already, and are interested in entering this year's competition, please sign up on our website: https://studentrobotics.org/compete/
 
 As always, if you have any questions please let us know!
