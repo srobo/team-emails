@@ -13,6 +13,8 @@ As you know, following on from the success of our [previous virtual competition]
 
 Kickstart will be streamed live on **21st November 2020 at 00:00**. Here we'll announce the game for this year, go into further details on how the competition year will work, and of course answer any questions you have.
 
+If you've signed up for the competition, you'll receive the access details for your team. With these you can create user accounts for your competitors to give them access to the IDE and forum. We recommend creating accounts for competitors before kickstart to ensure they can get started straight away.
+
 Visit [our website](https://studentrobotics.org/events/sr2021/kickstart/) for more information, and a link to the livestream.
 
 ## Sign up
