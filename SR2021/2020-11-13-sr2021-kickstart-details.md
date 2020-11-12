@@ -15,6 +15,8 @@ Kickstart will be streamed live on **21st November 2020 at 13:00 (UK Time)**, ai
 
 If you've signed up for the competition, you'll receive the access details for your team. With these you can create user accounts for your competitors to give them access to the IDE and forum. We recommend creating accounts for competitors before kickstart to ensure they can get started straight away.
 
+The simulator will be based in [webots](https://cyberbotics.com/#download). The download is large, and we recommend downloading it before the event to ensure you can get started immediately. Information on downloading our simulation will be made available on [the docs](https://studentrobotics.org/docs/competition-simulator/) during the event.
+
 Visit [our website](https://studentrobotics.org/events/sr2021/kickstart/) for more information, and a link to the livestream.
 
 ## Sign up
