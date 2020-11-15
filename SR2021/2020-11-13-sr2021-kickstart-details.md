@@ -23,7 +23,9 @@ Visit [our website](https://studentrobotics.org/events/sr2021/kickstart/) for mo
 
 ## Discord
 
-If you've signed up for the competition, you'll soon receive an invite to our Discord server for your team. The invite link will be valid for `n` competitors, and should not be shared to those outside your team. If your institution has requested multiple teams, you'll receive multiple login links. We recommend sending these invites before kickstart to ensure they can get started straight away.
+If you've signed up for the competition, you'll soon receive an invite to our Discord server for your team. If your institution has requested multiple teams, you'll receive a link for each. We recommend sending these invites before kickstart to ensure they can get started straight away.
+
+The Discord server has a number of general purpose channels, as well as dedicated channels for both your school / institution and individual teams (if you have multiple teams).
 
 The Discord server has a number of general purpose channels, as well as dedicated channels for both your school / institution and individual teams (where you have multiple teams).
 
