@@ -17,7 +17,7 @@ If you've signed up for the competition, you'll receive the access details for y
 
 The simulator will be based in [webots](https://cyberbotics.com/#download). The download is large, and we recommend downloading it before the event to ensure you can get started immediately. Information on downloading our simulation will be made available on [the docs](https://studentrobotics.org/docs/competition-simulator/) during the event.
 
-During the event, we recommend setting up a call for you and your team to communicate and collaborate, both to share ideas and discuss potential questions.
+During the event, we recommend setting up a call for you and your team to communicate and collaborate, both to share ideas and discuss potential questions. After the main presentation we'll move into microgames, which are designed to help you et familiar with the simulator and robot. If you'd like a blue-shirt to sit in on this call to support competitors and answer any further questions, please [let us know](mailto:teams@studentrobotics.org). Note that for safeguarding reasons, we may only be in the call whilst you are.
 
 Visit [our website](https://studentrobotics.org/events/sr2021/kickstart/) for more information, and a link to [the livestream](https://www.youtube.com/watch?v=cQOgo0Gh4iA).
 
