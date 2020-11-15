@@ -27,7 +27,7 @@ If you've signed up for the competition, you'll soon receive an invite to our Di
 
 The Discord server has a number of general purpose channels, as well as dedicated channels for both your school / institution and individual teams (if you have multiple teams).
 
-The Discord server has a number of general purpose channels, as well as dedicated channels for both your school / institution and individual teams (where you have multiple teams).
+More information on this can be found in [the docs](https://studentrobotics.org/docs/team_admin/discord).
 
 Whilst most of the discussions and support will be happening here, if you are unable to or do not wish to create an account with Discord you can still [contact us](mailto:teams@studentrobotics.org) for support, however the response times will be longer.
 
