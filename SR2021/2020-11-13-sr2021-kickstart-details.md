@@ -19,10 +19,10 @@ The simulator will be based in [webots](https://cyberbotics.com/#download). The 
 
 During the event, we recommend setting up a call for you and your team to communicate and collaborate, both to share ideas and discuss potential questions.
 
-Visit [our website](https://studentrobotics.org/events/sr2021/kickstart/) for more information, and a link to the livestream.
+Visit [our website](https://studentrobotics.org/events/sr2021/kickstart/) for more information, and a link to [the livestream](https://www.youtube.com/watch?v=cQOgo0Gh4iA).
 
 ## Sign up
 
-If you haven't done so already, and are interested in entering this year's competition, please sign up on our website: https://studentrobotics.org/compete/
+If you haven't done so already, and are interested in entering this year's competition, please sign up on our website: https://studentrobotics.org/compete/.
 
 As always, if you have any questions please let us know!
