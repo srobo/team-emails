@@ -11,7 +11,7 @@ As you know, following on from the success of our [previous virtual competition]
 
 ## Kickstart
 
-Kickstart will be streamed live on **21st November 2020 at 13:00 (UK Time)**, aiming to finish around 16:00. Here we'll announce the game for this year, go into further details on how the competition year will work, and of course answer any questions you have.
+Kickstart will be streamed live on **21st November 2020 at 13:00 GMT**, aiming to finish around 16:00. Here we'll announce the game for this year, go into further details on how the competition year will work, and of course answer any questions you have.
 
 The simulator will be based in [webots](https://cyberbotics.com/#download). The download is large, and we recommend downloading it before the event to ensure you can get started immediately. Information on downloading our simulation will be made available on [the docs](https://studentrobotics.org/docs/competition-simulator/) during the event.
 
