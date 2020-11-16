@@ -17,7 +17,7 @@ The simulator will be based in [webots](https://cyberbotics.com/#download). The 
 
 During the event, we recommend setting up a call for you and your team to communicate and collaborate, both to share ideas and discuss potential questions. Alternatively (or as well as), you can use our Discord server (see below).
 
-After the main presentation we'll move into microgames, which are designed to help you get familiar with the simulator and robot.
+After the main presentation we'll move into microgames, which are a series of challenges designed to help you get familiar with the simulator and robot.
 
 Visit [our website](https://studentrobotics.org/events/sr2021/kickstart/) for more information, and a link to [the livestream](https://www.youtube.com/watch?v=cQOgo0Gh4iA).
 
