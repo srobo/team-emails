@@ -20,7 +20,7 @@ We've put together the below checklist of things that should have happened by no
 
 ## Friendlies
 
-Some of the competitors in Discord have expressed an interest in us running freindly matches. We think this is a great idea, so on the 9th of January we will be running non-scored matches for any team that wishes to take part. More information around how to submit code and opt in to the matches will follow!
+Some of the competitors in Discord have expressed an interest in us running friendly matches. We think this is a great idea, so on the 9th of January we will be running non-scored matches for any team that wishes to take part. More information around how to submit code and opt in to the matches will follow!
 
 
 If you haven't completed any of these items just let us know and we'll do our best to help out!
