@@ -8,7 +8,7 @@ There are only 5 weeks until our [first round of league matches](https://student
 
 ## Progress
 
-We've put together the below checklist of things that should have happened by now to help ensure you're making good progress.
+We've put together the below checklist of things that we hope will have happened by now to ensure you're making good progress.
 
  - Team Leaders should be in Discord and have the "Team Leader" role
  - Competitors should be in Discord
