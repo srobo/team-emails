@@ -11,7 +11,7 @@ If you'd like to move a competitor between teams:
 
 If they **are** on Discord already, you'll need to send us their username, and which team you want them to be in, and we can transfer them over.
 
-If they **aren't** on Discord, then yes simply giving them the password for the corresponding team will add them to the correct one on registration.
+If they **aren't** on Discord, then simply giving them the password for the corresponding team will add them to the correct one upon registration.
 
 If you would like more or fewer teams, please just let us know.
 
