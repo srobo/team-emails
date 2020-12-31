@@ -5,7 +5,7 @@ subject: Student Robotics January Update
 
 Hello there!
 
-There is less than 2 weeks until our [first round of league matches](https://studentrobotics.org/events/sr2021/league-1/) so we wanted to check in and give you an update.
+There are less than 2 weeks until our [first round of league matches](https://studentrobotics.org/events/sr2021/league-1/) so we wanted to check in and give you an update.
 
 ## League Sessions
 
@@ -25,7 +25,7 @@ If you are interested in entering our friendly matches, please let us know by ei
 
 Because the competition is virtual this year, you'll need to send your code to us to run using our code submission tool.
 
-In the next few days, you'll receive login credentials for this submitter, 1 set for each team. Here you'll be able to submit your code for us to run. The code should be in a zip file, and the entry point for your robot program named `robot.py`.
+In the next few days, you'll receive login credentials for this submitter, one set for each team. Here you'll be able to submit your code for us to run. The code should be in a zip file, and the entry point for your robot program named `robot.py`.
 
 [Code Submitter](https://studentrobotics.org/code-submitter/).
 
