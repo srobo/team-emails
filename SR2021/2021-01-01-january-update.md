@@ -13,6 +13,17 @@ The first league session will be happening on the 16th of January, at 12:00 UK t
 
 Further details, and a link to the livestream, will be on our website soon - for this and the other league sessions.
 
+## Simulator Update
+
+We released a new version of the simulator, which adds a few important improvements:
+
+- Support for Webots 2021a (no more deprecation warnings).
+- Add several scientific libraries. See [the docs](https://studentrobotics.org/docs/programming/python/libraries) for a full list.
+- Reconstructed arena to fix issues with distance sensors and shadows.
+- The error message about rate-limited LEDs now includes the ruggeduino pin number for the LED, rather than its name.
+
+This can be downloaded from [the docs](https://studentrobotics.org/docs/simulator/#installing-the-simulation). We recommend updating and testing your code with this version as soon as possible. Both the first league session and friendlies will use this version.
+
 ## Friendlies
 
 As noted in our previous email, we're going to be running some friendly matches on the 9th of January. These matches are entirely optional, and will not contribute to the league. The matches are simply a chance to see how your robot performs against other robots, as well as socialise with other teams and us volunteers. Unlike our other events, these matches will be incredibly relaxed and informal. We encourage anyone to join in the conversation in Discord or in the chat.
