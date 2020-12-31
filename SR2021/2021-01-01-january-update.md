@@ -26,9 +26,9 @@ This can be downloaded from [the docs](https://studentrobotics.org/docs/simulato
 
 ## Friendlies
 
-As noted in our previous email, we're going to be running some friendly matches on the 9th of January. These matches are entirely optional, and will not contribute to the league. The matches are simply a chance to see how your robot performs against other robots, as well as socialise with other teams and us volunteers. Unlike our other events, these matches will be incredibly relaxed and informal. We encourage anyone to join in the conversation in Discord or in the chat.
+As noted in our previous email, we're going to be running some friendly matches on the 9th of January. These matches are entirely optional, and will not contribute to the league. The matches are simply a chance to see how your robot performs against other robots, as well as socialise with other teams and us volunteers.
 
-[Watch our livestream](https://youtu.be/iwa-7R6sR8M).
+We'll use a YouTube [livestream](https://youtu.be/iwa-7R6sR8M) to broadcast the matches and as usual we'll provide your logs afterwards. Unlike our other events, these matches will be incredibly relaxed and informal. We encourage anyone to join in the conversation in Discord or in the chat.
 
 If you are interested in entering our friendly matches, please let us know by either responding to this email, or in `#friendly-matches` on Discord.
 
