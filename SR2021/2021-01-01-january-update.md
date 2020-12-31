@@ -9,7 +9,7 @@ There are less than 2 weeks until our [first round of league matches](https://st
 
 ## League Sessions
 
-The first league session will be happening on the 16th of January, at 12:00 UK time, lasting around 1.5 hours. You will need to have submitted your code to us (more on that below) by 09:00 UK time on the same day. If you do not submit code, or submit late, you will be marked absent and score 0 points.
+The first league session will be happening on the 16th of January, at 12:00 UK time, lasting around 1.5 hours. You will need to have submitted your code to us (more on that below) by 08:00 UK time on the same day. If you do not submit code, or submit late, you will be marked absent and score 0 points.
 
 Further details, and a link to the livestream, will be on our website soon - for this and the other league sessions.
 
