@@ -19,7 +19,7 @@ Note that both usernames and passwords are case sensitive.
 
 ## Friendlies
 
-If you're interested in competing in the friendlies this weekend you must let us know beforehand via email or discord, so we know to schedule you some matches. Teams who submit code but haven't signed up won't be entered. These matches are entirely optional, and will not contribute to the league. We'll use a YouTube [livestream](https://youtu.be/iwa-7R6sR8M) to broadcast the matches and as usual we'll provide your logs afterwards. Unlike our other events, these matches will be incredibly relaxed and informal. We encourage anyone to join in the conversation in Discord or in the chat.
+If you're interested in competing in the friendlies this weekend you must let us know beforehand via email or discord, so we know to schedule you some matches. Teams who submit code but haven't signed up won't be entered. These matches are entirely optional, and will not contribute to the league. We'll use a YouTube [livestream](https://youtu.be/iwa-7R6sR8M) to broadcast the matches and as usual we'll provide your logs afterwards. These matches will be incredibly relaxed and informal and, as ever, we encourage anyone to join in the conversation in Discord or in the chat.
 
 Code should be submitted by 8am on the morning of the friendlies.
 
