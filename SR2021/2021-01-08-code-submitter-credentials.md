@@ -7,7 +7,7 @@ Hi,
 
 Here are your credentials for using the [code submitter](https://studentrobotics.org/code-submitter/), the tool we're using to allow you to submit your code to us for running in a competition event.
 
-The code should be in a zip file, and the entry point for your robot program named `robot.py`. Note what anyone in your team can submit code to the submitter, but only the latest upload will be used.
+The code should be in a zip file, and the entry point for your robot program named `robot.py`. Note that anyone in your team can submit code to the submitter, but only the latest upload will be used.
 
 | TLA | Password |
 | --- | -------- |
