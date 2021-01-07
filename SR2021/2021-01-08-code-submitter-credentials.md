@@ -9,7 +9,7 @@ Here are your credentials for using the [code submitter](https://studentrobotics
 
 The code should be in a zip file, and the entry point for your robot program named `robot.py`. Note that anyone in your team can submit code to the submitter, but only the latest upload will be used.
 
-When visiting the code submitter, you'll be prompted for a username and password. The username will be your TLA, and the password is:
+When visiting the code submitter, you'll be prompted for a username and password. The username will be your TLA, and your password can be found in the table below:
 
 | TLA | Password |
 | --- | -------- |
