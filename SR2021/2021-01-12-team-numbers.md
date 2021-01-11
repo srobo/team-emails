@@ -5,7 +5,7 @@ subject: Student Robotics Teams
 
 Hi,
 
-If you're reading this email, it means you have at least 1 team from your institution who seem inactive on Discord, or who have few members.
+We noticed that one or more of your teams doesn't seem active on Discord, or has very few members. We want to ensure that every team has the opportunity to shine and gets the support they need.
 
 If you have teams requiring further guidance and support, the Discord is the best place to get support. Filled with knowledgable volunteers, competitors and team leaders, all available to help. Whilst most of the discussions and support will be happening here, if you are unable to or do not wish to create an account with Discord you can still [contact us](mailto:teams@studentrobotics.org) for support, however the response times will be longer.
 
