@@ -7,7 +7,7 @@ Hello there!
 
 We noticed at least one of your teams was absent from our first league session last weekend. We wanted to reach out to see if there was any more support we could provide you, or questions we could answer?
 
-## Assistance
+## Resources
 
 If you're struggling with your robot, here's a few resources which might help you out:
 
