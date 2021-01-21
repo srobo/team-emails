@@ -22,7 +22,7 @@ Your mentor will help guide your team towards good solutions for their robot, pr
 
 Mentors are volunteers who have typically competed or helped out with the competition before. They’re able to give help on all aspects of programming your robot, and if they don’t know something, they typically know someone who does.
 
-If you're interested in getting a mentor, please let us know when works best for you. For safeguarding reasons, either you or another responsible adult such as a parent / guardian will need to be around for any video calls.
+If you're interested in getting a mentor, please reply to this email to let us know when works best for you. For safeguarding reasons, either you or another responsible adult such as a parent / guardian will need to be around for any video calls.
 
 ## Unable to continue?
 
