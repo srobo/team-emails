@@ -16,13 +16,21 @@ If you're struggling with your robot, here's a few resources which might help yo
 
 ## Mentors
 
-Alternatively, if you'd prefer some more hands-on support, we may be able to allocate you a mentor.
+Alternatively, In order to help you get the most out of your robot, we'd like to offer some
+hands-on support from one of our volunteers.
 
 Your mentor will help guide your team towards good solutions for their robot, provide assistance where they might need it as well as help them understand the kit, the rules and the competition as a whole.
 
 Mentors are volunteers who have typically competed or helped out with the competition before. They’re able to give help on all aspects of programming your robot, and if they don’t know something, they typically know someone who does.
 
-If you're interested in getting a mentor, please reply to this email to let us know when works best for you. For safeguarding reasons, either you or another responsible adult such as a parent / guardian will need to be around for any video calls.
+If your team has a regular meeting time, please reply to this email to let us
+know when this is and what platform you're using (it's fine if you're not using
+Discord). We'll use this to match you up with a volunteer who'll be around when
+you are. For safeguarding reasons, either you or another responsible adult such
+as a parent / guardian will need to be around for any video or voice calls.
+
+If your team doesn't have a regular meeting time feel free to ask in Discord
+when you are meeting -- there's often a number of our volunteers online able to help.
 
 ## Tips
 
