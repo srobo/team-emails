@@ -24,6 +24,18 @@ Mentors are volunteers who have typically competed or helped out with the compet
 
 If you're interested in getting a mentor, please reply to this email to let us know when works best for you. For safeguarding reasons, either you or another responsible adult such as a parent / guardian will need to be around for any video calls.
 
+## Tips
+
+We've found that teams which have a regular meeting schedule to work on their
+robot tend to do better, so you may find it useful to have a set time each week
+that your team meets to catch up and review their progress.
+
+Similarly, we've found that it is beneficial for the whole team to have a shared
+understanding of the whole of the robot. This both ensures that every member of
+the team is able to contribute as well as avoiding issues if one team member is
+not available. This year we would encourage that you have a shared location for
+the robot code and that everyone feels able to contribute to its development.
+
 ## Unable to continue?
 
 If you no longer wish to, or are unable to compete in Student Robotics 2021, please let us know as soon as possible.
