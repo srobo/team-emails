@@ -1,6 +1,6 @@
 ---
 to: Teams who didn't attend session 1
-subject: Student Robotics League 1
+subject: Student Robotics Additional Resources
 ---
 
 Hello there!
