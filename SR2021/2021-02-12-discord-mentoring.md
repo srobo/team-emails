@@ -1,11 +1,11 @@
 ---
-to: Teams who didn't attend session 1
+to: Teams who didn't attend the leagues
 via: discord
 ---
 
 Hey team $TLA,
 
-We noticed you didn't make it to the first league session. We wanted to reach
+We noticed you didn't make it to the recent league sessions. We wanted to reach
 out to see if there was any more support we could provide you, or questions we
 could answer?
 

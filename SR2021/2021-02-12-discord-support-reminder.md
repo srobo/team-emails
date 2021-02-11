@@ -1,5 +1,5 @@
 ---
-to: Teams who attended session 1 but aren't very active
+to: Teams who attended the leagues but aren't very active
 via: discord
 ---
 
