@@ -18,8 +18,8 @@ in the form of a regular mentor. This would be a volunteer who is able to be
 around whenever you regularly meet and would get to know your team and your
 robot. Whatever platform you use (whether it's Discord or something else),
 they'd be able to join your meetings to help you out. (For safeguarding reasons
-we need your team leader to also be in any video calls; your team leader will
-have details about this).
+we need you or another adult responsible for the team to also be in any video
+calls).
 
 If you're interested in having a regular mentor please just reply to this
 email, letting us know when you meet and what platform you use.
