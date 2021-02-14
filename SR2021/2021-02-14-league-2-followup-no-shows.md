@@ -27,5 +27,10 @@ responsible for the team to also be in any video calls).
 If you're interested in having a regular mentor please just reply to this
 email, letting us know when you meet and what platform you use.
 
+{% if inactive %}
+Alternatively, if your team will no longer be competing in Student Robotics
+please let us know so we can remove you from this year's mailing lists.
+{% endif %}
+
 P.S: if you don't have a regular meeting time, that's fine too. We have found
 that teams who meet regularly tend to do better though!
