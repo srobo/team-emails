@@ -7,8 +7,9 @@ Hi,
 
 It was great to see your robot at the second league session. We hope you found
 it as exciting as we did and are looking forward to the new challenges which
-module Ⅲ brings. The full rulebook and simulator updates are available on our
-website, so do check them out if you haven't already!
+module Ⅲ brings. The [full rulebook][rulebook] and [simulator][simulator]
+updates are available on our website, so do check them out if you haven't
+already!
 
 We just wanted to check on how you're doing and whether there's any more help
 you need?
@@ -40,4 +41,6 @@ any last minute bugs before the league session.
 P.S: We've found that teams who meet regularly tend to do better, so if your
 team doesn't have a regular meeting time you might find it helps to set one up.
 
+[rulebook]: https://studentrobotics.org/docs/rules/
+[simulator]: https://studentrobotics.org/docs/simulator/
 [friendly-matches]: https://discord.com/channels/775497131057741836/780326509738852402
