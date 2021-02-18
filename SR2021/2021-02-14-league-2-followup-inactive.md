@@ -7,9 +7,11 @@ Hi,
 
 It was great to see your robot at the second league session. We hope you found
 it as exciting as we did and are looking forward to the new challenges which
-module Ⅲ brings. The [full rulebook][rulebook] and [simulator][simulator]
-updates are available on our website, so do check them out if you haven't
-already!
+module Ⅲ brings. The full rulebook and simulator updates are available on our
+website, so do check them out if you haven't already!
+
+    https://studentrobotics.org/docs/rules/
+    https://studentrobotics.org/docs/simulator/
 
 We also wanted to check on how you're doing and whether there's any more help
 you need?
@@ -34,7 +36,10 @@ teams, so there's a good chance they can help :)
 Finally, we'd like to confirm the details for the friendlies ahead of the next
 round of league matches. The friendlies will be streamed from noon (UK time) on
 Saturday 13th March with code submission at 8pm on Friday 12th. If you'd like to
-take part please send us a message in [#friendly-matches][friendly-matches].
+take part please send us a message in #friendly-matches:
+
+    https://discord.com/channels/775497131057741836/780326509738852402
+
 We'd love to see lots of teams there as it's a great opportunity to find and fix
 any last minute bugs before the league session.
 
@@ -42,7 +47,3 @@ any last minute bugs before the league session.
 
 P.S: We've found that teams who meet regularly tend to do better, so if your
 team doesn't have a regular meeting time you might find it helps to set one up.
-
-[rulebook]: https://studentrobotics.org/docs/rules/
-[simulator]: https://studentrobotics.org/docs/simulator/
-[friendly-matches]: https://discord.com/channels/775497131057741836/780326509738852402
