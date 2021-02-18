@@ -39,6 +39,8 @@ take part please send us a message in [#friendly-matches][friendly-matches].
 We'd love to see lots of teams there as it's a great opportunity to find and fix
 any last minute bugs before the league session.
 
+— The SR Competition Team
+
 P.S: if you don't have a regular meeting time, that's fine too. We have found
 that teams who meet regularly tend to do better though!
 
