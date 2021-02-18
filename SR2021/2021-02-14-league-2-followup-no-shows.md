@@ -32,5 +32,14 @@ Alternatively, if your team will no longer be competing in Student Robotics
 please let us know so we can remove you from this year's mailing lists.
 {% endif %}
 
+Finally, we'd like to confirm the details for the friendlies ahead of the next
+round of league matches. The friendlies will be streamed from noon (UK time) on
+Saturday 13th March with code submission at 8pm on Friday 12th. If you'd like to
+take part please send us a message in [#friendly-matches][friendly-matches].
+We'd love to see lots of teams there as it's a great opportunity to find and fix
+any last minute bugs before the league session.
+
 P.S: if you don't have a regular meeting time, that's fine too. We have found
 that teams who meet regularly tend to do better though!
+
+[friendly-matches]: https://discord.com/channels/775497131057741836/780326509738852402
