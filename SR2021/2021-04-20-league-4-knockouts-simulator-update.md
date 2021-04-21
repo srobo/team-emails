@@ -6,8 +6,10 @@ subject: Student Robotics League 4, Finals & Simulator Update
 Hi,
 
 With the final round of league matches coming up this weekend and the finals the
-week after, we wanted to give you some quick reminders about the schedule. We've
-also fixed a small bug in the compass which should make it more accurate.
+week after, we wanted to give you some quick reminders about the schedule. Over
+the next week or so we'd love to hear about about your experiences competing in
+SR2021. Finally we've also fixed a small bug in the compass which should make it
+more accurate.
 
 ## Simulator Update
 
@@ -22,6 +24,14 @@ We recommend updating and testing your code with this version as soon as
 possible as this version will be used in this weekend's league matches.
 
 [simulator-install-docs]: https://studentrobotics.org/docs/simulator/#installing-the-simulation
+
+## Feedback & Demographics Survey
+
+To help us understand how we're doing we'd really like to understand the make up
+of your team and their experiences with the competition this year. Please
+encourage your competitors to complete the following survey before the finals:
+
+https://forms.gle/BHN6TAhPNH1JPGww7
 
 ## Code Submission Deadlines
 
