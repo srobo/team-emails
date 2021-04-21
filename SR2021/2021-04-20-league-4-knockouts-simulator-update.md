@@ -12,10 +12,10 @@ also fixed a small bug in the compass which should make it more accurate.
 ## Simulator Update
 
 We've released a new version of the simulator, which includes a fix to the way
-that noise is treated within the compass. Previously the noise wasn't quite
-random and would tend to be biased towards one side. The noise is now evenly
-balanced and we have slightly reduced the bounds of the noise to reflect real
-hardware.
+that noise is treated within the compass. Previously the compass readings could
+sometimes have excessive noise or noise which was was biased towards one side.
+The noise is now a consistent, balanced level and we have slightly reduced the
+level of noise to reflect real hardware.
 
 The update can be downloaded from the normal place in [the docs][simulator-install-docs].
 We recommend updating and testing your code with this version as soon as
