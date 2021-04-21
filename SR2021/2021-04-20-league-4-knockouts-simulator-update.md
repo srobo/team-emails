@@ -31,7 +31,7 @@ going to have any difficulty uploading your code by this time let us know before
 the deadline and we'll try to sort something out.
 
 *Note*: if you don't submit code for league 4 you will be unable to enter the
-knockouts. Code you submit for league 4 will be carried over into the  knockouts
+knockouts. Code you submit for league 4 will be carried over into the knockouts
 unless you submit code again before the knockouts deadline. This is to simplify
 scheduling of the knockouts. Of course we're expecting that many teams will want
 to improve their code between the league and the knockouts and then resubmit,
