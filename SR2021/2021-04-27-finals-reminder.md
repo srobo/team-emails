@@ -1,6 +1,6 @@
 ---
 to: All SR2021 teams
-subject: Student Robotics Finals
+subject: Student Robotics Finals Details
 ---
 
 Hi,
