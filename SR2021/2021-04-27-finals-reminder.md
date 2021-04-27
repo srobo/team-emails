@@ -14,7 +14,9 @@ about your experiences competing in SR2021.
 To help us understand how we're doing we'd really like to understand the make up
 of your team and their experiences with the competition this year. If they
 haven't done so already please encourage your competitors to complete our
-[feedback survey][feedback-survey] before the knockouts.
+[feedback survey][feedback-survey] before the knockouts. These feedback forms are vital
+both in securing funding, and ensuring we're always improving our events so competitors
+get the most out of them they possibly can.
 
 ## Code Submission Deadline
 
