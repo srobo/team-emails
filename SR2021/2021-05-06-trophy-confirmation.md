@@ -13,7 +13,7 @@ We need to confirm your details for the trophy so please can you fill in the bel
 |-------------------------------------------------------------------------------|-------------------|
 | Team name to be engraved                                                      | <Team name>       |
 | Team address                                                                  | <Team address>    |
-| I am happy that Student Robotics shares my address with a trophy manufacturer | Yes/No            |
+| I am happy that Student Robotics shares my address with the trophy manufacturer | Yes/No            |
 
 Thanks
 
