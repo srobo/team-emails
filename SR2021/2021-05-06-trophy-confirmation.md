@@ -1,5 +1,5 @@
 ---
-to: sr2021 trophy winners
+to: SR2021 trophy winners
 subject: Please confirm the details for your Student Robotics award
 ---
 
@@ -17,4 +17,4 @@ We need to confirm your details for the trophy so please can you fill in the bel
 
 Thanks
 
--- the SR team
+-- The SR team
