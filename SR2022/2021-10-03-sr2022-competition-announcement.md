@@ -17,7 +17,7 @@ In order to allow the core team of volunteers to focus on delivering a high qual
 
 Kickstart will be streamed live on **13th November 2021**. Here we'll announce the game for this year, go into further details on how the competition year will work, and of course answer any questions you have.
 
-If you already have a kit from a previous Student Robotics competition, please keep hold of it. If not, we will contact you soon to coordinate shipping a kit out to you.
+If you already have a kit from a previous Student Robotics competition, please keep hold of it. We'll be in touch soon about getting it updated to the latest version of our kit software. If you don't have a kit, we'll also contact you soon to coordinate shipping a kit out to you.
 
 Visit [our website](TODO) for more information.
 
