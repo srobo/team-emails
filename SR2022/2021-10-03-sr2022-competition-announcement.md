@@ -23,7 +23,7 @@ Visit [our website](TODO) for more information.
 
 ## Sign up
 
-If you would like to compete in Student Robotics 2019, please fill in the form at the link below with the required information. All further emails about SR2019 will be sent there. The closing date will be *6th October*.
+If you would like to compete in Student Robotics 2022, please fill in the form at the link below with the required information. All further emails about SR2022 will be sent there. The closing date will be *6th October*.
 
 [I'd like to bring a team to Student Robotics 2022]
 
