@@ -1,5 +1,5 @@
 ---
-to: Potential team leaders for SR2022
+to: Potential team leaders
 subject: Announcing Student Robotics 2022!
 ---
 
