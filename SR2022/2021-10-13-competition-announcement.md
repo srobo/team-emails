@@ -14,7 +14,7 @@ First, we are now taking sign-ups for SR2022, click below to sign up:
 Now, while we've still got a fair bit of work to do, we'll keep you updated as these become more detailed. Here are our plans for the year ahead:
 
 * Although the simulator-based activities worked well last year, this year we’re excited to give students a chance at building fully autonomous physical robots again.
-* Our kickstart this year will be virtual and live-streamed on our YouTube channel, which will happen on November 13th.
+* Our kickstart this year will be virtual and live-streamed on [our YouTube channel](https://www.youtube.com/user/studentrobotics), which will happen on November 13th.
 * We intend to run a physical competition in a venue in the UK roughly around April, with teams attending with their robots.
 * We'd also like to return to sending mentors to teams where we're able, and remote support when we can't.
 * We're looking at how we can widen our impact in the schools and groups we work with in addition to our main competition. Our line of thinking at the moment is developing an activity that can be run over a half or full day with an entire class or year group. We're still at a preliminary stage with this but may want to trial something in this school year. We'd really welcome some help as this is developed, please get in touch if you feel this would be beneficial, or would like to discuss this further.
