@@ -11,7 +11,7 @@ First, we are now taking sign-ups for SR2022, click below to sign up:
 
 [Sign up to Student Robotics 2022](https://forms.gle/LINK_CENSORED)
 
-Once you sign up, we'll confirm your place as soon as we can. We'll keep you updated, and you can keep an eye on [our website](https://studentrobotics.org/) for more details too. Here are our current plans for the year ahead:
+Once you sign up, we'll confirm your place as soon as we can. We'll keep you updated, and you can keep an eye on [our website](https://studentrobotics.org/events/sr2022/kickstart/) for more details too. Here are our current plans for the year ahead:
 
 * Although the simulator-based activities worked well last year, this year we’re excited to give students a chance at building fully autonomous physical robots again.
 * Our kickstart this year will be virtual and live-streamed on [our YouTube channel](https://www.youtube.com/user/studentrobotics), which will happen on November 13th.
