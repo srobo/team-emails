@@ -3,7 +3,7 @@ to: Student Robotics 2022 registered teams
 subject: Kickstart Details
 ---
 
-Hi teams
+Hi teams,
 
 Only a couple of days left until Saturday’s Kickstart event, so here are some more details on what to expect and what we need from you.
 
