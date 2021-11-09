@@ -9,7 +9,7 @@ Only a couple of days left until Saturday’s Kickstart event, so here are some 
 
 ## Kits
 
-If you don’t already have a kit, we will have contacted you regarding the delivery arrangements. We need you to sign a kit disclaimer form ASAP to ensure that the kit can arrive shortly after Kickstart.
+If you don’t already have a kit, we will have contacted you regarding the delivery arrangements. We need you to sign the kit disclaimer form we sent you in a previous email before we can ship it to you, these forms must be signed and returned to us as soon as possible to ensure your kit arrives on time.
 
 If you have a kit from a previous year, we will soon be sending you instructions on how to update the software and check that everything is present and correct. You may also need to upgrade your kit software after you recieve it, we'll keep you posted.
 
