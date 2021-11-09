@@ -11,7 +11,7 @@ Only a couple of days left until Saturday’s Kickstart event, so here are some 
 
 If you don’t already have a kit, we will have contacted you regarding the delivery arrangements. We need you to sign a kit disclaimer form ASAP to ensure that the kit can arrive shortly after Kickstart.
 
-If you have a kit from a previous year, we will soon be sending you instructions on how to update the software and check that everything is present and correct.
+If you have a kit from a previous year, we will soon be sending you instructions on how to update the software and check that everything is present and correct. You may also need to upgrade your kit software after you recieve it, we'll keep you posted.
 
 ## Kickstart
 
@@ -23,7 +23,7 @@ If you're more confident, or if we're unable to offer you individual mentoring, 
 
 ## Discord
 
-We’ll soon be sending out the login details for Discord, where your team can collaborate and ask questions for our volunteers. Once you’ve received the details, find out [how to sign your team up to our Discord](https://studentrobotics.org/docs/team_admin/discord). 
+We’ll shortly be sending out the login details for Discord, where your team can collaborate and ask questions for our volunteers. Once you’ve received the details, you'll need to [sign your team up to our Discord](https://studentrobotics.org/docs/team_admin/discord).
 
 See you on Saturday!
 -- the Competition Team
