@@ -15,7 +15,7 @@ If you have a kit from a previous year, we will soon be sending you instructions
 
 ## Kickstart
 
-As you already know, [Kickstart](https://studentrobotics.org/events/sr2022/kickstart/) is at 1pm uk time this Saturday 13th November. The livestream will last for approximately an hour and we will explain this year’s game, the competition structure, and give an overview of the kit.
+As you already know, [Kickstart](https://studentrobotics.org/events/sr2022/kickstart/) is at 1pm UK time this Saturday 13th November. The livestream will last for approximately an hour and we will explain this year’s game, the competition structure, and give an overview of the kit.
 
 As we are not running a Kickstart in a centralised location, we have prepared an activity as a kick-off session for your team to learn their robotics kit. We'll be sending it out to you immediately after Kickstart, but we can also optionally provide virtual/physical support. If you’re interested, please [sign up here](https://forms.gle/ojysPbkfcpKCtW8z6).
 
