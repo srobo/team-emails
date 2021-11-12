@@ -5,7 +5,7 @@ subject: Student Robotics Discord Details
 
 Hi
 
-This year, we're using [Discord](https://studentrobotics.org/docs/team_admin/discord) as our primary communication method for competitor support. Your invite link is [discord link]().
+This year, we're using [Discord](https://studentrobotics.org/docs/team_admin/discord) as our primary communication method for competitor support. Your invite link is [discord link](). If you don't already have a Discord account, you can register an account for free.
 
 Upon joining the server users will need to provide a password to gain the correct permissions. For your team, the password is: `password`. Please share both the invite link and the relevant password with your competitors. Discord access should not be shared to those outside your team.
 
