@@ -1,6 +1,6 @@
 ---
 to: Student Robotics 2022 teams
-subject: Student Robotics Discord Details
+subject: Student Robotics Discord Forum Details
 ---
 
 Hi
