@@ -13,6 +13,6 @@ If competitors change teams or need their roles tweaked for whatever reason plea
 
 More information on this can be found in [the docs](https://studentrobotics.org/docs/team_admin/discord).
 
-Additionally, we like to make sure we are aware which members are blueshirts, competitors and team supervisors. To get the 'Team Supervisor' role on Discord please reply to this email with your Discord username once you have joined the server and we will add the appropriate roles.
+Additionally, we like to make sure we are aware which members are volunteers, competitors and team supervisors. To get the 'Team Supervisor' role on Discord please reply to this email with your Discord username once you have joined the server and we will add the appropriate roles.
 
 Whilst most of the discussions and support will be happening on Discord, if you are unable to or do not wish to create an account with Discord you can still [contact us](mailto:teams@studentrobotics.org) for support, however the response times will be longer.
