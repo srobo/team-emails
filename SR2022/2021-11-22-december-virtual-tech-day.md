@@ -10,11 +10,11 @@ teams build the best robots they can. We can support you through our Tech Days o
 
 ## Mentoring
 
-During the competition year we aim to provide support to teams in many different ways. If you would like one of our volunteers to visit your team meetings on a regular basis, either in person or by video chat, please [sign up for mentoring](https://forms.gle/qqwQkdCfVBSum4w79).
+During the competition year we aim to provide support to teams in many different ways. If you would like one of our volunteers to visit your team meetings on a regular basis, either in person or by video chat, please **[sign up for mentoring](https://forms.gle/qqwQkdCfVBSum4w79)**.
 
 Your mentor will help guide your team towards good solutions for their robot, provide assistance where they might need it as well as help them understand the kit, the rules and the competition as a whole.
 
-If we have volunteers who are able to attend your regular meeting times, we'll let you know.
+Once you've signed up for mentoring, we'll let you know when we find a volunteer who is available for your team's meeting time.
 
 ## Tech Days
 
