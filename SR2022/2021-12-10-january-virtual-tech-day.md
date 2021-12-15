@@ -1,11 +1,11 @@
 ---
 to: Student Robotics 2022 teams
-subject: January Virtual tech day
+subject: January Virtual Tech Day
 ---
 
 Hello,
 
-We will be hosting a [virtual tech day on the 22nd January][event-link] in our [Discord](https://studentrobotics.org/docs/team_admin/discord) server. It will be much more involved and interactive than the previous one.
+We will be hosting a [virtual Tech Day on the 22nd January][event-link] in our [Discord](https://studentrobotics.org/docs/team_admin/discord) server. It will be much more involved and interactive than the previous one.
 
 Tech Days are opportunities for teams to spend a whole day working on their
 robot with lots of help available. They’re also an opportunity to see how other
