@@ -15,7 +15,7 @@ The aim of this day is to help you out by having guaranteed presence from us blu
 
 We see a strong correlation between teams to attend Tech Days and performance in the competition.
 
-A voice channel will be created shortly before the event starts, where you and your competitors can join and chat with us. This is where the group parts of the tech day will take place.
+A voice channel will be created shortly before the event starts, where you and your competitors can join and chat with us. We have a few group activities planned which will take place here.
 
 For mentoring, it will be easiest for us to continue doing this through Discord. If you are interested, we can then set up a voice channel for your team, which can be used both by your team and us mentoring. Note that we may only be in the voice channel if either you, or another parent / guardian is around.
 
