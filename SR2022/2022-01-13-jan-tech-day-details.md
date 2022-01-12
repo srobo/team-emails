@@ -27,7 +27,7 @@ Then plan for the day will be:
 | 14:45 | Competition Q&A - a chance to ask any questions you or your team may have about the competition, rules and their robot.
 | ~15:00 | Close
 
-A voice channel will be created shortly before the event starts, where you and your competitors can join and chat with us. We have a few group activities planned which will take place here. Please note that your competitors will be unable to communicate with the rest of the call unless you or another responsible adult is present.
+A voice channel will be created shortly before the event starts, where you and your competitors can join and chat with us. We have a few group activities planned which will take place here. **Please note that your competitors will be unable to communicate with the rest of the call unless you or another responsible adult is present.**
 
 For mentoring, it will be easiest for us to continue doing this through Discord. If you are interested, we can then set up a voice channel for your team, which can be used both by your team and us mentoring. Note that we may only be in the voice channel if either you, or another parent / guardian is around.
 
