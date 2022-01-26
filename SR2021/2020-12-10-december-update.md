@@ -1,6 +1,6 @@
 ---
 to: Team Leaders
-subject: Student Robotics Decemeber Update
+subject: Student Robotics December Update
 ---
 Hello there!
 
