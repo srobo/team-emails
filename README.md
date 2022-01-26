@@ -4,7 +4,7 @@
 
 A history of communication with teams. Organised by event and date sent. If it's in `master`, it's been sent!
 
-If an email contains links to forms, or other potentially sensetive information, leave the link out of the emails!
+If an email contains links to forms, or other potentially sensitive information, leave the link out of the emails!
 
 ## How to send emails
 

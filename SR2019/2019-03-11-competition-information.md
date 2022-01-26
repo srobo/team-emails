@@ -1,6 +1,6 @@
 ---
 to: Student Robotics 2019
-subject: Competition Informatiom
+subject: Competition Information
 ---
 
 Hi all,
