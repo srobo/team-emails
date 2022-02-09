@@ -1,6 +1,6 @@
 ---
 to: Student Robotics 2022 missing supervisors in Discord
-subject: How is yor team getting on?
+subject: How is your team getting on?
 ---
 
 Hello!
