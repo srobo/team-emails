@@ -1,6 +1,6 @@
 ---
 to: Student Robotics 2022
-subject: Competition Information
+subject: Access requirements for the Competition event
 ---
 
 Hi all!
