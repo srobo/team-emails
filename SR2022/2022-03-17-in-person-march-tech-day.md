@@ -20,8 +20,8 @@ support, and assist with your strategy ideas.
 We see a strong correlation between teams to attend Tech Days and performance in
 the competition.
 
-If you’d like to attend, please **[sign up for the Tech Day][signup]** by
-Friday 25th February 2022.
+Spaces are limited at this Tech Day, so if you’d like to attend please
+**[sign up for the Tech Day][signup]** by Friday 25th February 2022.
 
 We look forward to seeing you all then.
 
