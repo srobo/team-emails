@@ -25,5 +25,5 @@ Spaces are limited at this Tech Day, so if you’d like to attend please
 
 We look forward to seeing you all then.
 
-[event]: https://studentrobotics.org/events/sr2022/horshame-in-person-tech-day-april/
+[event]: https://studentrobotics.org/events/sr2022/horsham-in-person-tech-day-april/
 [signup]: https://forms.gle/YfQXeC2YVZZJdTm2A
