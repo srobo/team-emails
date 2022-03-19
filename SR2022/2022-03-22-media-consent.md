@@ -5,7 +5,7 @@ subject: Media Consent Form
 
 As with previous years, we require you to sign a media consent form. These media consent forms allow us to use videos and photographs taken at the event for future marketing purposes. However, the process has changed slightly.
 
-[Download our Media Consent form]()
+[Download our Media Consent form](https://studentrobotics.org/resources/sr2022/media-consent.pdf)
 
 Please put "Student Robotics 2022" as the event name.
 
