@@ -31,7 +31,7 @@ All of these and more can be found in our [safety regulations](https://studentro
 
 On Sunday 24th April, Southampton is holding a marathon event, the route of which goes right through the university.
 
-When arriving on Sunday morning, please be prompt and arrive as close as possible to the doors opening. This not only ensures there will be parking, but that the campus won't be crowded with the general public. Additionally, it's possible you will only be able to approach the university from the west, due to the route closing part of University.
+When arriving on Sunday morning, please be prompt and arrive as close as possible to the doors opening. This not only ensures there will be parking, but that the campus won't be crowded with the general public. Additionally, it's possible you will only be able to approach the university from the west, due to the route closing part of University. The schedule is available on [our website](https://studentrobotics.org/events/sr2022/competition/).
 
 Due to this road closure, it will be difficult to get to the food. We strongly recommend bringing a packed lunch with you on Sunday.
 
