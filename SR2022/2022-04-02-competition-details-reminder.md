@@ -9,6 +9,12 @@ It's just 3 weeks until the big day - [the competition](https://studentrobotics.
 
 Before then, we have a few important updates and reminders for you:
 
+## COVID Safety
+
+Life is beginning to get back to normal, and this means we are finally able to do in person events again! However, we must recognise that some people still have to be cautious, to protect their own health or their friends or family. As such, we ask that everyone follows [our COVID policy](https://studentrobotics.org/covid-19/) to help ensure we all keep safe, whilst still having lots of fun with robots!
+
+Please keep an eye on this as we get closer to the competition, as the content may change.
+
 ## Robot design considerations
 
 At the competition, all robots undergo a safety check. This not only confirms that the robot satisfies our safety regulations, but also the rules. Of note are a particular few we often see teams forgetting until the last minute:
