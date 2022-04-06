@@ -9,18 +9,6 @@ It's just 3 weeks until the big day - [the competition](https://studentrobotics.
 
 Before then, we have a few important updates and reminders for you:
 
-## COVID Safety
-
-Life is beginning to get back to normal, and this means we are finally able to do in person events again! However, we must recognise that some people still have to be cautious, to protect their own health or their friends or family. As such, we ask that everyone follows [our COVID policy](https://studentrobotics.org/covid-19/) to help ensure we all keep safe, whilst still having lots of fun with robots!
-
-Please keep an eye on this as we get closer to the competition, as the content may change.
-
-## Southampton Marathon
-
-On Sunday 24th April, a marathon event is being held in Southampton. As a result there will be a number of road closures in the area, including on the university campus. Parking will also be limited. Keep an eye on the [competition page](https://studentrobotics.org/events/sr2022/competition/) on our website to see up-to-date information on how to reach the competition.
-
-Please note that this also means that access to food sellers may also be restricted, so please plan accordingly.
-
 ## Robot design considerations
 
 At the competition, all robots undergo a safety check. This not only confirms that the robot satisfies our safety regulations, but also the rules. Of note are a particular few we often see teams forgetting until the last minute:
@@ -40,6 +28,18 @@ As with previous years, we require you to sign a media consent form. These media
 [Download our Media Consent form](https://studentrobotics.org/resources/sr2022/media-consent.pdf)
 
 Please bring this form with you to the competition. We will have spares at reception, but bringing completed forms will allow you, your competitors and guests to proceed through faster. Depending on whether you give consent or not, we will issue you with a wristband or lanyard. These will ensure those not providing consent are not in any of our media.
+
+## COVID Safety
+
+Life is beginning to get back to normal, and this means we are finally able to do in person events again! However, we must recognise that some people still have to be cautious, to protect their own health or their friends or family. As such, we ask that everyone follows [our COVID policy](https://studentrobotics.org/covid-19/) to help ensure we all keep safe, whilst still having lots of fun with robots!
+
+Please keep an eye on this as we get closer to the competition, as the content may change.
+
+## Southampton Marathon
+
+On Sunday 24th April, a marathon event is being held in Southampton. As a result there will be a number of road closures in the area, including on the university campus. Parking will also be limited. Keep an eye on the [competition page](https://studentrobotics.org/events/sr2022/competition/) on our website to see up-to-date information on how to reach the competition.
+
+Please note that this also means that access to food sellers may also be restricted, so please plan accordingly.
 
 If you have any other questions or concerns, please don't hesitate to get in touch.
 
