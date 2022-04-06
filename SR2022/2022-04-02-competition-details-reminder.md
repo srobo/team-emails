@@ -27,7 +27,7 @@ Before gaining access to the venue, everyone will need to sign a media consent f
 
 [Download our Media Consent form](https://studentrobotics.org/resources/sr2022/media-consent.pdf)
 
-Please bring this form with you to the competition. We will have spares at reception, but bringing completed forms will allow you, your competitors and guests to proceed through faster. Depending on whether you give consent or not, we will issue you with a wristband or lanyard. These will ensure those not providing consent are not in any of our media.
+Please bring these forms with you to the competition. We will have spares at reception, but bringing completed forms will allow you, your competitors and guests to proceed through faster. Depending on whether you give consent or not, we will issue you with a wristband or lanyard. These will ensure those not providing consent are not in any of our media.
 
 ## COVID Safety
 
