@@ -25,7 +25,7 @@ Please note that this also means that access to food sellers may also be restric
 
 At the competition, all robots undergo a safety check. This not only confirms that the robot satisfies our safety regulations, but also the rules. Of note are a particular few we often see teams forgetting until the last minute:
 
-- For safety, please make sure the power button is obvious and easily accessible. In the event of an issue in the arena, we don't want to be hunting for the switch as we try and quickly turn off your robot.
+- Please make sure the power button is obvious and easily accessible. In the event of an issue in the arena, we don't want to be hunting for the switch as we try and quickly turn off your robot.
 - Ensure your battery is protected, ideally housed in its own rigid container
 - Make sure you have a way to mount the flag. We will have a few spare mounts, but please do not rely on this.
 - Make sure your robot fits inside the size constraints. If it doesn't, it will have a meeting with the _saw of shame_.
