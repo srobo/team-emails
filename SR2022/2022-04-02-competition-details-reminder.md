@@ -19,7 +19,7 @@ Please keep an eye on this as we get closer to the competition, as the content m
 
 On Sunday 24th April, a marathon event is being held in Southampton. As a result there will be a number of road closures in the area, including on the university campus. Parking will also be limited. Keep an eye on the [competition page](https://studentrobotics.org/events/sr2022/competition/) on our website to see up-to-date information on how to reach the competition.
 
-Access to food sellers may also be restricted, so please plan accordingly.
+Please note that this also means that access to food sellers may also be restricted, so please plan accordingly.
 
 ## Robot design considerations
 
