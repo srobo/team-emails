@@ -15,6 +15,14 @@ Life is beginning to get back to normal, and this means we are finally able to d
 
 Please keep an eye on this as we get closer to the competition, as the content may change.
 
+## Southampton Marathon
+
+On Sunday 24th April, Southampton is holding a marathon event, the route of which goes right through the university.
+
+When arriving on Sunday morning, please be prompt and arrive as close as possible to the doors opening. This not only ensures there will be parking, but that the campus won't be crowded with the general public. Additionally, it's possible you will only be able to approach the university from the west, due to the route closing part of University. The schedule is available on [our website](https://studentrobotics.org/events/sr2022/competition/).
+
+Due to this road closure, it will be difficult to get to the food venues. We strongly recommend bringing a packed lunch with you on Sunday.
+
 ## Robot design considerations
 
 At the competition, all robots undergo a safety check. This not only confirms that the robot satisfies our safety regulations, but also the rules. Of note are a particular few we often see teams forgetting until the last minute:
@@ -26,14 +34,6 @@ At the competition, all robots undergo a safety check. This not only confirms th
 - Make sure there are 2 spare USB ports: 1 for your code, and 1 for our "Competition USB". This Competition USB tells your robot that it's in the competition and which corner it's starting in (and thus populates the `R.zone` property). You will not be able to compete without this.
 
 All of these and more can be found in our [safety regulations](https://studentrobotics.org/docs/kit/safety-regulations) and [rules](https://studentrobotics.org/rules).
-
-## Southampton Marathon
-
-On Sunday 24th April, Southampton is holding a marathon event, the route of which goes right through the university.
-
-When arriving on Sunday morning, please be prompt and arrive as close as possible to the doors opening. This not only ensures there will be parking, but that the campus won't be crowded with the general public. Additionally, it's possible you will only be able to approach the university from the west, due to the route closing part of University. The schedule is available on [our website](https://studentrobotics.org/events/sr2022/competition/).
-
-Due to this road closure, it will be difficult to get to the food venues. We strongly recommend bringing a packed lunch with you on Sunday.
 
 If you have any other questions or concerns, please don't hesitate to get in touch.
 
