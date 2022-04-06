@@ -17,11 +17,9 @@ Please keep an eye on this as we get closer to the competition, as the content m
 
 ## Southampton Marathon
 
-On Sunday 24th April, Southampton is holding a marathon event, the route of which goes right through the university.
+On Sunday 24th April, a marathon event is being held in Southampton. As a result there will be a number of road closures in the area, including on the university campus. Parking will also be limited. Keep an eye on the [competition page](https://studentrobotics.org/events/sr2022/competition/) on our website to see up-to-date information on how to reach the competition.
 
-When arriving on Sunday morning, please be prompt and arrive as close as possible to the doors opening. This not only ensures there will be parking, but that the campus won't be crowded with the general public. Additionally, it's possible you will only be able to approach the university from the west, due to the route closing part of University. The schedule is available on [our website](https://studentrobotics.org/events/sr2022/competition/).
-
-Due to this road closure, it will be difficult to get to the food venues. We strongly recommend bringing a packed lunch with you on Sunday.
+Access to food sellers may also be restricted, so please plan accordingly.
 
 ## Robot design considerations
 
