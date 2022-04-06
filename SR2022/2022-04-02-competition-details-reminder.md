@@ -33,6 +33,14 @@ At the competition, all robots undergo a safety check. This not only confirms th
 
 All of these and more can be found in our [safety regulations](https://studentrobotics.org/docs/kit/safety-regulations) and [rules](https://studentrobotics.org/rules).
 
+## Media consent
+
+As with previous years, we require you to sign a media consent form. These media consent forms allow us to use videos and photographs taken at the event for future marketing purposes. However, the process has changed slightly.
+
+[Download our Media Consent form](https://studentrobotics.org/resources/sr2022/media-consent.pdf)
+
+Please bring this form with you to the competition. We will have spares at reception, but this will allow you, your competitors and guests to proceed through faster. Depending on whether you give consent or not, we will issue you with a wristband or lanyard, so we ensure you are not in any of our media.
+
 If you have any other questions or concerns, please don't hesitate to get in touch.
 
 We look forward to seeing you all at the competition!
