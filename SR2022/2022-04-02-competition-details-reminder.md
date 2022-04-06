@@ -14,7 +14,7 @@ Before then, we have a few important updates and reminders for you:
 At the competition, all robots undergo a safety check. This not only confirms that the robot satisfies our safety regulations, but also the rules. Of note are a particular few we often see teams forgetting until the last minute:
 
 - Please make sure the power button is obvious and easily accessible. In the event of an issue in the arena, we don't want to be hunting for the switch as we try and quickly turn off your robot.
-- Ensure your battery is protected, ideally housed in its own rigid container
+- Ensure your battery is protected, ideally housed in its own rigid container.
 - Make sure you have a way to mount the flag. We will have a few spare mounts, but please do not rely on this. [Plastic push-fit couplers](https://www.screwfix.com/p/jg-speedfit-plastic-push-fit-equal-tees-15mm-5-pack/74470) work well for this.
 - Make sure your robot fits inside the size constraints. If it doesn't, it will have a meeting with the _saw of shame_.
 - Make sure there are 2 spare USB ports: 1 for your code, and 1 for our "Competition USB". This Competition USB tells your robot that it's in the competition and which corner it's starting in (and thus populates the `R.zone` property). You will not be able to compete without this.
