@@ -5,7 +5,7 @@ subject: Competition details and important reminders
 
 Hello all!
 
-It's just 3 weeks until the big day - [the competition](https://studentrobotics.org/events/sr2022/competition/)!
+It's only 2 weeks until the big day - [the competition](https://studentrobotics.org/events/sr2022/competition/)!
 
 Before then, we have a few important updates and reminders for you:
 
