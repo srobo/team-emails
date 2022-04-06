@@ -23,7 +23,7 @@ All of these and more can be found in our [safety regulations](https://studentro
 
 ## Media consent
 
-As with previous years, we require you to sign a media consent form. These media consent forms allow us to use videos and photographs taken at the event for future marketing purposes. However, the process has changed slightly.
+Before gaining access to the venue, everyone will need to sign a media consent form. These media consent forms allow us to use videos and photographs taken at the event for future marketing purposes. However, the process has changed slightly.
 
 [Download our Media Consent form](https://studentrobotics.org/resources/sr2022/media-consent.pdf)
 
