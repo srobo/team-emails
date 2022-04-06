@@ -23,11 +23,11 @@ All of these and more can be found in our [safety regulations](https://studentro
 
 ## Media consent
 
-Before gaining access to the venue, everyone will need to sign a media consent form. These media consent forms allow us to use videos and photographs taken at the event for future marketing purposes. However, the process has changed slightly.
+Before gaining access to the venue, everyone will need to sign a media consent form. These media consent forms allow us to use videos and photographs taken at the event for future marketing purposes.
 
 [Download our Media Consent form](https://studentrobotics.org/resources/sr2022/media-consent.pdf)
 
-Please bring these forms with you to the competition. We will have spares at reception, but bringing completed forms will allow you, your competitors and guests to proceed through faster.
+Please bring these forms with you to the competition. Unlike in previous years, these forms do not need to be emailed in ahead of time. We will have spares at reception, but bringing completed forms will allow you, your competitors, and guests to proceed through faster.
 
 ## COVID Safety
 
