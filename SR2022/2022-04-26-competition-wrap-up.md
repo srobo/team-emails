@@ -1,0 +1,53 @@
+---
+to: Student Robotics 2022
+subject: That's a wrap!
+---
+
+![Competition Photo](TODO)
+
+Hi all,
+
+We'd like to thank you for taking part in Student Robotics 2022 and making it such a successful event! It was fantastic to finally see robots in-person again after two years of being virtual. An article about the competition, results, and game has been [posted on our website](https://studentrobotics.org/news/2022-04-24-sr2022-knockouts/).
+
+Congratulation again to our winners:
+
+|        Prize          |            Team
+|-----------------------|-----------------------------------------------
+| 1st Place             | [Hills Road Sixth Form College](https://www.hillsroad.ac.uk/)
+| 2nd Place             | [Queen Mary's College](https://www.qmc.ac.uk/)
+| 3rd Place             | [Brockenhurst College](https://brock.org.uk/)
+| Rookie Award          | [Abingdon School](https://www.abingdon.org.uk/)
+| Committee Award       | [Queen Mary's College](https://www.qmc.ac.uk/)
+| Robot and Team Image  | [Hills Road Sixth Form College](https://www.hillsroad.ac.uk/)
+| Online Presence       | [Hampton School](https://hamptonschool.org.uk/) and [Lady Eleanor Holles School](https://www.lehs.org.uk/)
+
+## Event Media
+
+If you'd like some mementos of the competition or would just like to see the photos which were taken, we've collected them all together into [this photo album](TODO).
+
+The livestream of the matches also remains available on YouTube, as well as footage from the final:
+
+- Day 1: https://www.youtube.com/watch?v=7HNG2bqwXlo
+- Day 2: https://www.youtube.com/watch?v=M3stcLPbHOU
+
+## Feedback
+
+We'd love to get feedback on how the competition was for your competitors this year, so we know what we did well, and where we can improve. Please share the below short, anonymous survey with your competitors.
+
+[Send us feedback](https://docs.google.com/forms/d/e/1FAIpQLSeQXNw6XnATZM2LaBORIt_TgRqed3hNxpd2_2vdXXNxLY8ubA/viewform)
+
+Additionally, we welcome feedback from you the supervisors too. Please
+
+[Supervisor Feedback](https://docs.google.com/forms/d/e/1FAIpQLSc63utOabO5oBPOqgCZg-t1flOn1i5DzVC6GHcPXHEQ7_YDNg/viewform)
+
+Without all of your invaluable feedback we wouldn't be able to run the competition and attract new sponsors.
+
+## Future Events
+
+We hope to run a competition next year and see you all there. We plan to open places around September and will let you know as soon as they are.
+
+In the meantime, be sure to follow us on Twitter [@StudentRobotics](https://twitter.com/studentrobotics).
+
+### Volunteering
+
+Student Robotics is powered by a collection of passionate individuals with varying skills from diverse backgrounds, many of whom are former competitors. We're all volunteers who give our spare time to make these events possible. If you have students graduating this year who may be interested in volunteering, please ask them to [sign up to be a blueshirt](https://studentrobotics.org/volunteer/).
