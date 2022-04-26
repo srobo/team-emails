@@ -36,7 +36,7 @@ We'd love to get feedback on how the competition was for your competitors this y
 
 [Send us feedback](https://docs.google.com/forms/d/e/1FAIpQLSeQXNw6XnATZM2LaBORIt_TgRqed3hNxpd2_2vdXXNxLY8ubA/viewform)
 
-Additionally, we welcome feedback from you the supervisors too. Please
+Additionally, we welcome feedback from you the supervisors too. Please fill in this survey.
 
 [Supervisor Feedback](https://docs.google.com/forms/d/e/1FAIpQLSc63utOabO5oBPOqgCZg-t1flOn1i5DzVC6GHcPXHEQ7_YDNg/viewform)
 
@@ -46,7 +46,7 @@ Without all of your invaluable feedback we wouldn't be able to run the competiti
 
 Whilst most of you will have returned your kit at the end of the competition event, you may still have the other pieces of Student Robotics kit around your college. If you were unable to attend the competition, this will likely be a full kit.
 
-If you do still have some of our kit, please let us know as soon as possible so we can organise its safe return. It is vitally important that all kit is returned to us so we can clean, test and re-issue it fur future competitions.
+If you do still have some of our kit, please let us know as soon as possible so we can organise its safe return. It is vitally important that all kit is returned to us so we can clean, test and re-issue it for future competitions.
 
 We will be contacting you soon if our records indicate you still have some items of kit.
 
