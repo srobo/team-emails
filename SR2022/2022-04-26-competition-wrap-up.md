@@ -3,7 +3,7 @@ to: Student Robotics 2022
 subject: That's a wrap!
 ---
 
-![Competition Photo](TODO)
+![Competition Photo](https://studentrobotics.org/images/content/blog/sr2022/sr2022-photo.jpg)
 
 Hi all,
 
