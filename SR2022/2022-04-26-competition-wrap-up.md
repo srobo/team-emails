@@ -9,7 +9,7 @@ Hi all,
 
 We'd like to thank you for taking part in Student Robotics 2022 and making it such a successful event! It was fantastic to finally see robots in-person again after two years of being virtual. An article about the competition, results, and game has been [posted on our website](https://studentrobotics.org/news/2022-04-24-sr2022-knockouts/).
 
-Congratulation again to our winners:
+Congratulations again to our winners:
 
 |        Prize          |            Team
 |-----------------------|-----------------------------------------------
