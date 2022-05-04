@@ -54,7 +54,7 @@ We will be contacting you soon if our records indicate you still have some items
 
 We hope to run a competition next year and see you all there. We plan to open places around September and will let you know as soon as they are.
 
-In the meantime, be sure to follow us on Twitter [@StudentRobotics](https://twitter.com/studentrobotics).
+In the meantime, be sure to follow us on Twitter [@StudentRobotics](https://twitter.com/studentrobotics) and [Instagram](https://www.instagram.com/student_robotics).
 
 ### Volunteering
 
