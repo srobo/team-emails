@@ -1,5 +1,5 @@
 ---
-to: Potential team leaders
+to: Potential team supervisors
 subject: Announcing Student Robotics 2023!
 ---
 
