@@ -15,7 +15,7 @@ Thank you for your interest in Student Robotics 2023. We would like to offer you
 
 Once we have these details, we can confirm your place, and then you're in!
 
-We're in the process of finalising kickstart details, and we'll let you know as soon as those are available.
+While the details for kickstart are not yet available, the events are expected to take place on the same weekend in late October. We'll let you know as soon as those are available.
 
 Thanks,
 
