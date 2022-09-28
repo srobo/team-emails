@@ -13,7 +13,7 @@ Thank you for your interest in Student Robotics 2023. We would like to offer you
    1. Name
    2. Email address
    3. Contact phone number
-4. Are you able to attend a physical competition in the UK in early April?
+4. Are you able to attend a physical competition in the UK on a weekend in early April?
 
 Once we have these details, we can confirm your place, and then you're in!
 
