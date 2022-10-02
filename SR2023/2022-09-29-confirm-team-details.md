@@ -9,7 +9,7 @@ Thank you for your interest in Student Robotics 2023. We would like to offer you
 
 Please complete the following short form: https://forms.gle/TDhCmRpvhJHR4gWP9
 
-Once we have these details, we can confirm your place, and then you're in!
+Once we have these details, we can confirm your place, and then you're in! We will also send you a disclaimer form for the use of our kits. These will need to be signed and returned before we can give you your robot's kit.
 
 While the details for kickstart are not yet available, the events are expected to take place on the same weekend in late October. We'll let you know as soon as those are available.
 
