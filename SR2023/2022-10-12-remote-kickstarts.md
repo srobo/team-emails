@@ -17,6 +17,6 @@ to support teams getting started.
 
 In either case details on how to receive your kit will be coming through soon.
 
-We look forward to seeing you there!
+We look forward to seeing you on the day!
 
 [livestream]: https://www.youtube.com/watch?v=FVnNv5GSpyQ
