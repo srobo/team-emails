@@ -1,5 +1,5 @@
 ---
-to: Student Robotics 2023 teams not going to Southampton Kickstart
+to: Student Robotics 2023 teams not going to Southampton Kickstart and not opted out of Kickstart
 subject: Kickstart update
 ---
 
