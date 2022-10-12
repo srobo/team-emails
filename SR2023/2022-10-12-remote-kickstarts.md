@@ -6,7 +6,9 @@ subject: Kickstart update
 Hi,
 
 Unfortunately we have not been able to confirm a venue for Kickstart in London,
-however we are hoping to organise a Tech Day in London in November.
+however we are hoping to organise a Tech Day in London in November. We apologise
+for the lack of communication in this regard, and we do appreciate the
+challenges of arranging events at such short notice.
 
 You are still very welcome to come to Southampton on Saturday 22nd October or to
 attend remotely. We will be [livestreaming][livestream] the introductory
