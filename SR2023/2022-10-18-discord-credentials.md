@@ -13,4 +13,4 @@ More information on this can be found in [the docs](https://studentrobotics.org/
 
 Additionally, we like to make sure we are aware which members are volunteers, competitors and team supervisors. To get the 'Team Supervisor' role on Discord please reply to this email with your Discord username once you have joined the server and we will add the appropriate roles.
 
-Whilst most of the discussions and support will be happening on Discord, if you are unable to or do not wish to create an account with Discord you can still [contact us](mailto:teams@studentrobotics.org) for support, however the response times will be longer.
+Whilst most of the discussions and support will be happening on Discord, if you are unable to or do not wish to create an account with Discord you can still [contact us](mailto:teams@studentrobotics.org) for support, however the response times will be longer. Additionally for SR2023 some elements of the competition will require posting to Discord, so please do encourage your team to join. If you are unable to do this, please [let us know](mailto:teams@studentrobotics.org) so we can work out alternative ways to accommodate your team.
