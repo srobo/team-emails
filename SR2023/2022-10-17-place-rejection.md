@@ -11,7 +11,7 @@ We realise this is disappointing (we're disappointed too!), however we are limit
 
 If we have any early drop outs, we will be sure to let you know but we cannot promise anything.
 
-We hope you follow the competition on social media, and subscribe to our mailing list to be the first to know when places open for Student Robotics 2024.
+We hope you follow the competition on social media, and subscribe to our [mailing list](https://studentrobotics.org/compete/) to be the first to know when places open for Student Robotics 2024.
 
 Thanks again for your interest, and we hope to see you next year.
 
