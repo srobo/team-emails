@@ -38,7 +38,7 @@ competition structure, and give an overview of the kit.
 
 The rest of the day will provide an opportunity for your teams to get started on
 your robots. For those in person these will focus on your kits while for those
-attending remotely these will be based in the Webots simulator.
+attending remotely these will be based in the [Webots simulator][simulator].
 
 Throughout the day there will be mentors available in [Discord][discord] to help
 your teams getting started, so if your team haven't yet joined the server please
@@ -52,4 +52,5 @@ If you have any other questions, please let us know!
 
 [kickstart]: https://studentrobotics.org/events/sr2023/southampton-kickstart/
 [B46]: https://goo.gl/maps/oAmpdwsWkc1V3f3F6
+[simulator]: https://studentrobotics.org/docs/simulator/
 [discord]: https://studentrobotics.org/docs/team_admin/discord
