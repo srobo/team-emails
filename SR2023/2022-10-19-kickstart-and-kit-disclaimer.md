@@ -32,9 +32,9 @@ As you already know, [Kickstart][kickstart] is this Saturday 19th October. For
 those attending in person please arrive at 9:45am at [Building 46][B46] on
 Highfield Campus.
 
-The presentation, which will be livestreamed from there, will start at 10am UK
-time and last for approximately an hour. This will explain this year’s game, the
-competition structure, and give an overview of the kit.
+The presentation, which will be [livestreamed][livestream] from there, will
+start at 10am UK time and last for approximately an hour. This will explain this
+year’s game, the competition structure, and give an overview of the kit.
 
 The rest of the day will provide an opportunity for your teams to get started on
 your robots. For those in person these will focus on your kits while for those
@@ -52,5 +52,6 @@ If you have any other questions, please let us know!
 
 [kickstart]: https://studentrobotics.org/events/sr2023/southampton-kickstart/
 [B46]: https://goo.gl/maps/oAmpdwsWkc1V3f3F6
+[livestream]: https://www.youtube.com/watch?v=FVnNv5GSpyQ
 [simulator]: https://studentrobotics.org/docs/simulator/
 [discord]: https://studentrobotics.org/docs/team_admin/discord
