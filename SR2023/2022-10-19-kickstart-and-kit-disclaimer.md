@@ -16,11 +16,8 @@ attached. If you're coming to Kickstart please bring it with you on the day and
 we'll also have spare copies printed out. Otherwise please scan it and email it
 back to us.
 
-For those not coming to Kickstart we will send out your kit to the address
-listed below. Please let us know explicitly if this address is correct, and if
-it's not, let us know an updated one.
-
-Address:
+For those not coming to Kickstart we will send out your kit to you.
+Please reply to this email to confirm which address we should send the kit to.
 
 We will need this by the 5th November otherwise your place may be allocated to
 another team. If this is going to be unachievable please let us know and we can
