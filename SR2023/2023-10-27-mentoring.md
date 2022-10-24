@@ -1,0 +1,18 @@
+---
+to: Student Robotics 2023 teams
+subject: Mentoring 
+---
+
+Hello,
+
+With the competition now underway, we’re planning the ways we can help your teams build the best robots they can. We can support you through individual mentoring.
+
+If you would like one of our volunteers to visit your team meetings on a regular basis, either in person or by video chat, please **[sign up for mentoring](https://forms.gle/nnGU3y8b3bb1zg917)**.
+
+Your mentor will help guide your team towards good solutions for their robot, provide assistance where they might need it as well as help them understand the kit, the rules and the competition as a whole.
+
+Once you've signed up for mentoring, we'll let you know when we find a volunteer who is available for your team's meeting time.
+
+If you have any questions, please let us know!
+
+-- the Competition Team
