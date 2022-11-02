@@ -6,7 +6,7 @@ subject: London December Tech Day
 Hello,
 
 We're pleased to announce that we'll be hosting an [in-person Tech Day][event]
-on 2nd December in London.
+on 2nd December in Whitechapel in central London.
 
 Tech Days are opportunities for teams to spend a whole day working on their
 robot with lots of help available. They’re also an opportunity to see how other
