@@ -28,4 +28,4 @@ close signups sooner if all places are filled.
 We look forward to seeing you then.
 
 [event]: https://studentrobotics.org/events/sr2023/london-tech-day-december/
-[signup]: https://forms.gle/xqUxJ6GFqbJfeJdZ9
+[tech-day-signup]: https://forms.gle/xqUxJ6GFqbJfeJdZ9
