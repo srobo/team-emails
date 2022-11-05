@@ -18,7 +18,8 @@ offer the place to another team on our waiting list.
 As it's a legal document, please print out and sign the disclaimer form
 attached then scan it and email it back to us.
 
-Please reply to this email to confirm which address we should send the kit to.
+In your reply please include a confirmation of the postal address we should send
+the kit to.
 
 If you have any other questions or still wish to compete but will be unable to
 submit a disclaimer soon, please let us know and we can work something out.
