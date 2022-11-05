@@ -11,8 +11,9 @@ submitted a kit disclaimer form we aren't able to send yours.
 This disclaimer covers the terms and conditions under which you may use the kit
 and outlines the limits of our responsibilities.
 
-Are you likely to be able to submit a signed disclaimer by 11th November?
-Otherwise we may offer your place to another team.
+Are you likely to be able to submit a signed disclaimer this week (i.e: by 11th
+November)? If you are no longer able to compete we would like to be able to
+offer the place to another team on our waiting list.
 
 As it's a legal document, please print out and sign the disclaimer form
 attached then scan it and email it back to us.
