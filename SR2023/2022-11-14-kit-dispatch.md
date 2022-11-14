@@ -8,8 +8,7 @@ Hi,
 Good news, your kit is on its way. We appreciate that this has taken longer than
 hoped and are grateful for your patience.
 
-Your kit should arrive within the next few days, you can track its progress at
-this link:
+Your kit should arrive tomorrow, you can track its progress at this link:
 
     <link>
 
