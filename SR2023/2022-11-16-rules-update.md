@@ -7,6 +7,10 @@ Hi,
 
 We've released an update to the [rules](https://studentrobotics.org/docs/rules)
 which changes the sizes of token markers and of the Bronze & Silver tokens.
+
+The markers are now 80mm (down from 100mm) and the Bronze & Silver tokens are
+130 ±10mm (up from 110mm).
+
 We realise that some teams may have started building their robots and we
 apologise for the impact this may have on your designs.
 
