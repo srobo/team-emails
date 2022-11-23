@@ -18,7 +18,8 @@ support to progress their robots.
 
 A voice channel will be created shortly before the event starts, where you and
 your competitors can join and chat with us. We have a few group activities
-planned which will take place here.
+planned which will take place here. Note that your team may only speak in the
+voice channel if either you, or another parent / guardian is around.
 
 We look forward to seeing you all then!
 
