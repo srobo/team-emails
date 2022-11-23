@@ -6,7 +6,7 @@ subject: Cancelling the London Tech Day
 Hi,
 
 Due to unforeseen circumstances beyond our control we are no longer able to run
-the London Tech Day planned for December.
+the London Tech Day planned for 3rd December.
 
 We're really sorry about this and are disappointed that we aren't able to offer
 this Tech Day.
