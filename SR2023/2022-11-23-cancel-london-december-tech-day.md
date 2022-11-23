@@ -21,7 +21,7 @@ your competitors can join and chat with us. We have a few group activities
 planned which will take place here. Note that your team may only speak in the
 voice channel if either you, or another parent / guardian is around.
 
-We look forward to seeing you all then!
+We hope to see you all then.
 
 -- the Competition Team
 
