@@ -5,7 +5,7 @@ subject: Virtual Tech Day
 
 Hello,
 
-We will be hosting a [virtual Tech Day on the 3rd December][virtual-tech-day] in
+We will be hosting a [Virtual Tech Day on the 3rd December][virtual-tech-day] in
 our [Discord](https://studentrobotics.org/docs/team_admin/discord) server.
 
 Tech Days are opportunities for teams to spend a whole day working on their
