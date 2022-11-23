@@ -23,7 +23,7 @@ A voice channel will be created shortly before the event starts, where you and
 your competitors can join and chat with us. We have a few group activities
 planned which will take place here.
 
-We look forward to seeing you all then.
+We look forward to seeing you all then!
 
 -- the Competition Team
 
