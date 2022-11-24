@@ -3,7 +3,8 @@ version: 2.0
 jobs:
     build:
         docker:
-            - image: circleci/node:14
+            # Latest stable at time of last update
+            - image: cimg/node:18.12
         steps:
             - checkout
             - restore_cache:
