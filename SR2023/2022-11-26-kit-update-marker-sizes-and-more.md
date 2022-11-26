@@ -5,9 +5,10 @@ subject: "Kit update: marker size update and more"
 
 Hi,
 
-We've released version [2023.1.0 of SR OS][sr-os-update], the software which
-runs on the brain board. This includes a number of changes to the vision system,
-including the update for the recent marker (and token) size change.
+We're delighted to announce the release of [version 2023.1.0][sr-os-update] of
+the Student Robotics OS, the software which runs on the brain board. This
+includes a number of changes to the vision system, including the update for the
+recent marker (and token) size change.
 
 As you are hopefully already aware, markers are now 80mm (down from 100mm) and
 the Bronze & Silver tokens are 130 ±10mm (up from 110mm).
