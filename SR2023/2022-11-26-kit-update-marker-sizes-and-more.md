@@ -1,6 +1,6 @@
 ---
 to: Student Robotics 2023 teams
-subject: "Kit update: marker size update and more"
+subject: "Kit software update: marker size update and more"
 ---
 
 Hi,
