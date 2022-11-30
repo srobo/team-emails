@@ -11,4 +11,4 @@ The competition will be held from *Saturday 1st April* until *Sunday 2nd April*.
 
 Our schedule for the day is also yet to be confirmed, though we normally run 9am to 6pm on both Saturday and Sunday.
 
-We will put more details on [the event page](https://studentrobotics.org/events/sr2023/competition/) as they become available.
+We will keep you posted and put more details on [the event page](https://studentrobotics.org/events/sr2023/competition/) as they become available.
