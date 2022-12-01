@@ -34,5 +34,5 @@ section of Discord.
 -- the SR Team
 
 [sr-os-update]: https://studentrobotics.org/docs/kit/brain_board/updates
-[markers-pdfs]: https://studentrobotics.org/docs/resources/2023/markers
+[markers-pdfs]: https://studentrobotics.org/docs/programming/sr/vision/markers
 [blog-post]: https://studentrobotics.org/blog/2022-12-01-kit-os-2023.1.0
