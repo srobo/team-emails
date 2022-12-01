@@ -35,4 +35,4 @@ section of Discord.
 
 [sr-os-update]: https://studentrobotics.org/docs/kit/brain_board/updates
 [markers-pdfs]: https://studentrobotics.org/docs/resources/2023/markers
-[blog-post]: https://studentrobotics.org/blog/2022-11-26-kit-os-2023.1.0
+[blog-post]: https://studentrobotics.org/blog/2022-12-01-kit-os-2023.1.0
