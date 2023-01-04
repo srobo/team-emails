@@ -6,7 +6,7 @@ subject: Horsham February Tech Day
 Hello,
 
 We're pleased to announce that we'll be hosting an [in-person Tech Day][event]
-on 4th February in Horsham. Full details can be found on the [event page][event].
+on February 4th in Horsham. Full details can be found on the [event page][event].
 
 Tech Days are opportunities for teams to spend a whole day working on their
 robot with lots of help available. They’re also an opportunity to see how other
