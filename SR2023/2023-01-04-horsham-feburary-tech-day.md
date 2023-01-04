@@ -22,7 +22,7 @@ the competition.
 Spaces are limited to four teams, so be sure to [let us know][tech-day-signup] if
 you would like to attend. We will be confirming places shortly after you sign up.
 
-At the very latest please signup by Friday 24th February 2023, though we may
+At the very latest please signup by Friday 27th January 2023, though we may
 close signups sooner if all places are filled.
 
 We are also working hard on finding a venue in Southampton on the same day, keep
