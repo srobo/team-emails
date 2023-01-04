@@ -6,7 +6,7 @@ subject: Horsham February Tech Day
 Hello,
 
 We're pleased to announce that we'll be hosting an [in-person Tech Day][event]
-on 4th January in Horsham.
+on 4th February in Horsham. Full details can be found on the [event page][event].
 
 Tech Days are opportunities for teams to spend a whole day working on their
 robot with lots of help available. They’re also an opportunity to see how other
@@ -22,7 +22,7 @@ the competition.
 Spaces are limited to four teams, so be sure to [let us know][tech-day-signup] if
 you would like to attend. We will be confirming places shortly after you sign up.
 
-At the very latest please signup by Friday 27th February 2023, though we may
+At the very latest please signup by Friday 24th February 2023, though we may
 close signups sooner if all places are filled.
 
 We are also working hard on finding a venue in Southampton on the same day, keep
@@ -30,5 +30,5 @@ an eye out for more details soon.
 
 We look forward to seeing you then.
 
-[event]: https://studentrobotics.org/events/sr2023/london-tech-day-december/
+[event]: https://studentrobotics.org/events/sr2023/horsham-tech-day-february/
 [tech-day-signup]: https://forms.gle/xqUxJ6GFqbJfeJdZ9
