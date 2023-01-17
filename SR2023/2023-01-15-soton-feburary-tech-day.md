@@ -23,5 +23,5 @@ Please [let us know][tech-day-signup] by Friday 27th January 2023 if you'd like 
 
 We look forward to seeing you then.
 
-[event]: https://studentrobotics.org/events/sr2023/horsham-tech-day-february/
+[event]: https://studentrobotics.org/events/sr2023/southampton-tech-day-february/
 [tech-day-signup]: https://forms.gle/xqUxJ6GFqbJfeJdZ9
