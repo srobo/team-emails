@@ -23,6 +23,12 @@ With the deadline for the [second and final challenge submission](https://studen
 
 All events can be found on our website: https://studentrobotics.org/events/
 
+## Simulator
+
+We've also just released a new version of the simulator: `2023.2`. This includes the ability to grab gold tokens and add the `Robot.is_simulated()` method.
+
+Full release notes and a download link can be found [on the docs](https://studentrobotics.org/docs/simulator/).
+
 If you have any questions, please do let us know, either by email or in Discord.
 
 Thanks,
