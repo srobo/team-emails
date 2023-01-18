@@ -19,7 +19,7 @@ We also have some upcoming Tech Days - an opportunity for teams to spend a whole
 
 Our next tech day is on Saturday 4th Feb, both virtually and in [Horsham](https://studentrobotics.org/events/sr2023/horsham-tech-day-february/). Spaces are limited in Horsham, but there are still spots available, so act fast.
 
-With the deadline for the [second and final challenge submission](https://studentrobotics.org/events/sr2023/second-challenge-submission-deadline/) on the same day, this Tech Day provides an excellent opportunity for your team to work towards completing the challenges and earn their more early league points.
+With the deadline for the [second and final challenge submission](https://studentrobotics.org/events/sr2023/second-challenge-submission-deadline/) on the same day, this Tech Day provides an excellent opportunity for your team to work towards completing the challenges and earn more early league points.
 
 All events can be found on our website: https://studentrobotics.org/events/
 
