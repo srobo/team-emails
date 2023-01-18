@@ -34,7 +34,7 @@ We've also just released a new version of the simulator: `2023.2`. This includes
    - the front ultrasounds sensors are moved forward slightly
 - adds `Robot.is_simulated()` to detect that code is running in the simulator
 
-This release can be found [on the docs](https://studentrobotics.org/docs/simulator/).
+This release can be found [on the docs](https://studentrobotics.org/docs/simulator/#installing-the-simulation).
 
 If you have any questions, please do let us know, either by email or in Discord.
 
