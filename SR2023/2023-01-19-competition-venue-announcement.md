@@ -1,6 +1,6 @@
 ---
 to: Student Robotics 2023 teams
-subject: SR2023 Competition Venue
+subject: SR2023 Competition Venue, Tech Days & Simulator Update
 ---
 
 Hello!
