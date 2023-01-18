@@ -5,6 +5,8 @@ subject: SR2023 Competition Venue
 
 Hello!
 
+## Competition venue
+
 We're thrilled to announce the venue for Student Robotics 2023!
 
 The competition will be held from *Saturday 1st April* until *Sunday 2nd April*, at the University of Southampton, so please plan accommodation / transport accordingly. The exact start/end times are to be confirmed, but doors open 9am, and we aim to finish around 6pm.
