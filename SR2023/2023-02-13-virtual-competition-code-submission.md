@@ -21,7 +21,7 @@ Once in, you can upload a `.zip` of your code. This zip must contain a `robot.py
   └── robot.py
 ```
 
-As there is just 1 chance to submit, we have a few suggestions for things to keep an eye out for:
+You won't be able to re-submit between matches in the virtual competition, so it's important your code is as well-tested and reliable as possible come the submission deadline. Because of this, we have a few suggestions for things to keep in mind:
 
 - Remember to use `r.zone` - as your robot could start in any of the 4 corners, not just corner 0.
 - Make sure you're using [available libraries](https://studentrobotics.org/docs/programming/python/libraries#simulator).
