@@ -28,7 +28,7 @@ As there is just 1 chance to submit, we have a few suggestions for things to kee
 - Make sure to use [`R.sleep`](https://studentrobotics.org/docs/simulator/programming/#simulated-time) rather than `time.sleep`.
 - Try running your simulation in ["competition mode"](https://github.com/srobo/competition-simulator/tree/main#competition-mode), in case there are any discrepancies.
 
-As a bonus, if a version of your code is uploaded by _this_ Friday at 8pm, we will run the matches for you in a competition setting, and let you kno of any issues with your code, before the actual submission deadline!
+As a bonus, if a version of your code is uploaded by _this_ Friday at 8pm, we will run the matches for you in a competition setting, and let you know of any issues with your code, before the actual submission deadline!
 
 You can see your team's previous uploads on that same page.
 
