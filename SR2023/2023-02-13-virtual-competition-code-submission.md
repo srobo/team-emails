@@ -26,7 +26,7 @@ You won't be able to re-submit between matches in the virtual competition, so it
 - Remember to use [`R.zone`](https://studentrobotics.org/docs/programming/sr/#OtherRobotAttributes) - as your robot could start in any of the four corners, not just corner 0.
 - Make sure you're using [available libraries](https://studentrobotics.org/docs/programming/python/libraries#simulator).
 - Make sure to use [`R.sleep`](https://studentrobotics.org/docs/simulator/programming/#simulated-time) rather than `time.sleep`.
-- Try running your simulation in ["competition mode"](https://github.com/srobo/competition-simulator/tree/main#competition-mode), in case there are any discrepancies.
+- Try running your simulation in ["competition mode"](https://github.com/srobo/competition-simulator#competition-mode), in case there are any discrepancies.
 
 As a bonus, if a version of your code is uploaded by _this_ Friday at 8pm, we will run the matches for you in a competition setting, and let you know of any issues with your code, before the actual submission deadline!
 
