@@ -14,7 +14,7 @@ As always, you can download the latest version from [our simulator documentation
 Here's a list of what has changed since the last version we announced:
 
 Version sr2023.3:
-- Add support for the more recent version of Webots 'r2023a'.
+- Add support for the more recent version of Webots 'R2023a'.
 
 Version sr2023.4:
 - Some pressure-sensing 'fingers' have been added to the end of the robot, you can deploy these fingers to lift the robot up and use the robot's arduino to measure the total pressure. This is to make it easier to differentiate between heavier and lighter tokens.
