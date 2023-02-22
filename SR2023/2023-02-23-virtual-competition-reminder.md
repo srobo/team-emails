@@ -11,7 +11,7 @@ We're really looking forward to see your robots in the [virtual competition](htt
 
 If you're having any issues logging in to the code submitter please let us know as soon as possible. You can log in to the code submitter using your TLA and the same password as you use for Discord.
 
-You have until 8pm (UK time) Friday 24th February to submit your team's latest code. You can upload early, but at that time we'll capture all the uploads. These matches are your first 4 appearances in the competition, scoring you valuable league points. It's also a great way to see how you robot's strategy fares against other robots. Not entering will not affect your ability to compete in the [final competition](https://studentrobotics.org/events/sr2023/competition/) but will put you at a disadvantage to the teams that have entered our virtual event.
+You have until 8pm (UK time) Friday 24th February to submit your team's latest code. You can upload early, but at that time we'll capture all the uploads. These matches are your first 4 appearances in the competition, scoring you valuable league points. It's also a great way to see how you robot's strategy fares against other robots. Not entering will put you at a disadvantage to the teams that have entered our virtual event.
 
 You won't be able to re-submit between matches in the virtual competition, so it's important your code is as well-tested and reliable as possible come the submission deadline. Because of this, we have a few suggestions for things to keep in mind:
 
