@@ -5,7 +5,7 @@ subject: SR2023 Virtual Competition and Tech Day Reminder
 
 Hi
 
-We're really looking forward to see your robots in the [virtual competition](https://studentrobotics.org/events/sr2023/virtual-competition/) this weekend.
+We're really looking forward to seeing your robots in the [virtual competition](https://studentrobotics.org/events/sr2023/virtual-competition/) this weekend.
 
 [Submit your robot code](https://studentrobotics.org/code-submitter/) by 8pm on Friday.
 
