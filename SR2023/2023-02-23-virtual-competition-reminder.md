@@ -9,7 +9,7 @@ We're really looking forward to see your robots in the [virtual competition](htt
 
 [Submit your robot code](https://studentrobotics.org/code-submitter/).
 
-If you're having any issues logging in to the code submitter, please let us know as soon as possible. Details of how to upload can be found in our previous email and Discord.
+If you're having any issues logging in to the code submitter please let us know as soon as possible. You can log in to the code submitter using your TLA and the same password as you use for Discord.
 
 You have until 8pm (UK time) Friday 24th February to submit your team's latest code. You can upload early, but at that time we'll capture all the uploads. If you fail to upload any code, you will be marked as absent from all the matches and score 0 points. This will not affect your ability to compete in the [final competition](https://studentrobotics.org/events/sr2023/competition/).
 
