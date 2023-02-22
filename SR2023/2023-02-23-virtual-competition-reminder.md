@@ -16,7 +16,7 @@ You have until 8pm (UK time) Friday 24th February to submit your team's latest c
 You won't be able to re-submit between matches in the virtual competition, so it's important your code is as well-tested and reliable as possible come the submission deadline. Because of this, we have a few suggestions for things to keep in mind:
 
 - Remember to use [`R.zone`](https://studentrobotics.org/docs/programming/sr/#OtherRobotAttributes) - as your robot could start in any of the four corners, not just corner 0.
-- Make sure you're using [available libraries](https://studentrobotics.org/docs/programming/python/libraries#simulator).
+- Make sure you're using only [available libraries](https://studentrobotics.org/docs/programming/python/libraries#simulator).
 - Make sure to use [`R.sleep`](https://studentrobotics.org/docs/simulator/programming/#simulated-time) rather than `time.sleep`.
 - Try running your simulation in ["competition mode"](https://github.com/srobo/competition-simulator#competition-mode), in case there are any discrepancies.
 - You can use [`R.is_simulated`](https://studentrobotics.org/docs/programming/sr/#OtherRobotAttributes) to determine whether your code is running in the simulator or not.
