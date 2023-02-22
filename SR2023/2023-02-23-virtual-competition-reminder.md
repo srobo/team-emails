@@ -7,7 +7,7 @@ Hi
 
 We're really looking forward to see your robots in the [virtual competition](https://studentrobotics.org/events/sr2023/virtual-competition/) this weekend.
 
-[Submit your robot code](https://studentrobotics.org/code-submitter/).
+[Submit your robot code](https://studentrobotics.org/code-submitter/) by 8pm on Friday.
 
 If you're having any issues logging in to the code submitter please let us know as soon as possible. You can log in to the code submitter using your TLA and the same password as you use for Discord.
 
