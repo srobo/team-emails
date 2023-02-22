@@ -20,6 +20,7 @@ You won't be able to re-submit between matches in the virtual competition, so it
 - Make sure to use [`R.sleep`](https://studentrobotics.org/docs/simulator/programming/#simulated-time) rather than `time.sleep`.
 - Try running your simulation in ["competition mode"](https://github.com/srobo/competition-simulator#competition-mode), in case there are any discrepancies.
 - You can use [`R.is_simulated`](https://studentrobotics.org/docs/programming/sr/#OtherRobotAttributes) to determine whether your code is running in the simulator or not.
+- If you have a question or are stuck on something, ask a blueshirt!
 
 You can see your team's previous uploads on that same page.
 
