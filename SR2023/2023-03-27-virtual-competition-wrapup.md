@@ -21,4 +21,4 @@ If you no longer wish to, or are unable to compete in Student Robotics 2023, ple
 
 {% endif %}
 
-[The competition](https://studentrobotics.org/events/sr2023/competition/) isn't far away now, on the 1st and 2nd April. The final tech day before the competition will be held at the [University of Southampton on 11th March](https://studentrobotics.org/events/sr2023/southampton-tech-day-march/). If you're interested in attending, please [let us know](https://forms.gle/oJ9DK8imzek7fQQb6) by Friday 3rd March
+[The competition](https://studentrobotics.org/events/sr2023/competition/) isn't far away now, on the 1st and 2nd April. The final tech day before the competition will be held at the [University of Southampton on 11th March](https://studentrobotics.org/events/sr2023/southampton-tech-day-march/). If you're interested in attending, please [let us know](https://forms.gle/oJ9DK8imzek7fQQb6) by Friday 3rd March.
