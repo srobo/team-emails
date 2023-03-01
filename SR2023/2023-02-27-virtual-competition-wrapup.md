@@ -11,7 +11,7 @@ The current state of our league table can be found [on our website](https://stud
 
 {% if attended %}
 
-The logs from your virtual matches have been posted in your teams' Discord channel, and are attached to this email.
+The logs from your virtual matches have been posted in your teams' Discord channels. If you'd like them emailed instead, just let us know.
 
 {% else %}
 
