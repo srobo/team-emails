@@ -23,7 +23,7 @@ Any tools that your team requires to modify their robot must be brought to the c
 
 You must bring all of the robotics kit (including the white box it came in) to the competition, so that we can collect it at the end of the event.
 
-Teams will be allocated an area of the venue to work in, and a table to work on. You will have plenty of chance to test your robot in the full arena during _Tinker Time_.
+Teams will be allocated an area of the venue to work in, and a table to work on (known as your "pit"). You will have plenty of chance to test your robot in the full arena during _Tinker Time_.
 
 ## Robot design considerations
 
