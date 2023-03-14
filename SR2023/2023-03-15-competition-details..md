@@ -13,8 +13,6 @@ Before then, we have a few important updates and reminders for you:
 
 Throughout the competition, Student Robotics volunteers will be taking photos and videos for the purpose of prompting and marketing the charity. The arena will also be [livestreamed](https://studentrobotics.org/events/sr2023/competition/#livestream) on our YouTube channel. If this is a problem for you or your competitors, please let our reception desk know when you arrive.
 
-The competition this year is a public event, and we do not have exclusive access to the venue.
-
 ## Equipment
 
 Please ensure that your team bring at least one laptop or appropriate device with them to the competition to access the docs and work on your robot's code. We are unable to provide any computing devices for competitor use at the competition. We will be providing a wireless internet connection to all teams.
@@ -48,6 +46,8 @@ Doors open on Saturday at 9am, with the event starting at 10. If you are expecti
 Whilst you're welcome to bring family and friends as guests, please be aware that space in the venue is limited, and we're expecting a large number of teams and competitors already.
 
 We'll be publishing rules for behaviour in/around the competition venue when you arrive. If you have any questions or concerns beforehand, please let us know.
+
+The competition this year is a public event, and we do not have exclusive access to the venue.
 
 If you have any issues on the day, we'll be monitoring the `teams@` email address and our Discord server.
 
