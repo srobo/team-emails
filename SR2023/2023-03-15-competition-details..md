@@ -9,6 +9,22 @@ It's only 2 weeks until the big day - [the competition](https://studentrobotics.
 
 Before then, we have a few important updates and reminders for you:
 
+## Attendance details
+
+Before the competition, we need to know a few details from you. Please complete the below form as soon as possible.
+
+[Provide further details](https://docs.google.com/forms/d/e/1FAIpQLSeKC4aqg0A6XuBG_IaQxsQlkFjd1Q_nlFMleD5gILhK8CSfvQ/viewform?usp=sf_link)
+
+Doors open on Saturday at 9am, with the event starting at 10. If you are expecting to arrive after 9:30, please let us know.
+
+Whilst you're welcome to bring family and friends as guests, please be aware that space in the venue is limited, and we're expecting a large number of teams and competitors already.
+
+We'll be publishing rules for behaviour in/around the competition venue when you arrive. If you have any questions or concerns beforehand, please let us know.
+
+The competition this year is a public event, and we do not have exclusive access to the venue.
+
+If you have any issues on the day, we'll be monitoring the `teams@` email address and our Discord server.
+
 ## Photos & Videos
 
 Throughout the competition, Student Robotics volunteers will be taking photos and videos for the purpose of prompting and marketing the charity. The arena will also be [livestreamed](https://studentrobotics.org/events/sr2023/competition/#livestream) on our YouTube channel. If this is a problem for you or your competitors, please let our reception desk know when you arrive.
@@ -34,22 +50,6 @@ At the competition, all robots undergo a safety check. This not only confirms th
 - Make sure there are 2 spare USB ports: 1 for your code, and 1 for our "Competition USB". This Competition USB tells your robot that it's in the competition and which corner it's starting in (and thus populates the `R.zone` property). You will not be able to compete without this.
 
 All of these and more can be found in our [safety regulations](https://studentrobotics.org/docs/kit/safety-regulations) and [rules](https://studentrobotics.org/rules).
-
-## Attendance details
-
-Before the competition, we need to know a few details from you. Please complete the below form as soon as possible.
-
-[Provide further details](https://docs.google.com/forms/d/e/1FAIpQLSeKC4aqg0A6XuBG_IaQxsQlkFjd1Q_nlFMleD5gILhK8CSfvQ/viewform?usp=sf_link)
-
-Doors open on Saturday at 9am, with the event starting at 10. If you are expecting to arrive after 9:30, please let us know.
-
-Whilst you're welcome to bring family and friends as guests, please be aware that space in the venue is limited, and we're expecting a large number of teams and competitors already.
-
-We'll be publishing rules for behaviour in/around the competition venue when you arrive. If you have any questions or concerns beforehand, please let us know.
-
-The competition this year is a public event, and we do not have exclusive access to the venue.
-
-If you have any issues on the day, we'll be monitoring the `teams@` email address and our Discord server.
 
 ## Southampton Marathon
 
