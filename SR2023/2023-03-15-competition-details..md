@@ -17,7 +17,7 @@ The competition this year is a public event, and we do not have exclusive access
 
 ## Equipment
 
-Please ensure that your team bring at least one laptop or appropriate device with them to the competition to access the docs and IDE on. We are unable to provide any computing devices for competitor use at the competition. We will be providing a wireless internet connection to all teams.
+Please ensure that your team bring at least one laptop or appropriate device with them to the competition to access the docs and work on your robot's code. We are unable to provide any computing devices for competitor use at the competition. We will be providing a wireless internet connection to all teams.
 
 Any tools that your team requires to modify their robot must be brought to the competition by the team: we cannot provide any. In particular, the use of any dangerous tools must be supervised by the responsible adult for the team. Power tools may only be used in the designated "Power Tools" area.
 
