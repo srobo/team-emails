@@ -9,7 +9,7 @@ It's only 2 weeks until the big day - [the competition](https://studentrobotics.
 
 Before then, we have a few important updates and reminders for you:
 
-## Media Consent
+## Photos & Videos
 
 Throughout the competition, Student Robotics volunteers will be taking photos and videos for the purpose of prompting and marketing the charity. The arena will also be [livestreamed](https://studentrobotics.org/events/sr2023/competition/#livestream) on our YouTube channel. If this is a problem for you or your competitors, please let our reception desk know when you arrive.
 
