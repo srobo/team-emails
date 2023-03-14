@@ -45,6 +45,8 @@ Before the competition, we need to know a few details from you. Please complete 
 
 Doors open on Saturday at 9am, with the event starting at 10. If you are expecting to arrive after 9:30, please let us know.
 
+Whilst you're welcome to bring family and friends as guests, please be aware that space in the venue is limited, and we're expecting a large number of teams and competitors already.
+
 ## Southampton Marathon
 
 On Sunday 2nd April, a marathon event is being held in Southampton. As a result there will be a number of road closures in the area, including on the university campus. Parking will also be limited. Keep an eye on the [competition page](https://studentrobotics.org/events/sr2023/competition/) on our website to see up-to-date information on how to reach the competition.
