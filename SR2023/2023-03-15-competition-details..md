@@ -51,6 +51,10 @@ On Sunday 2nd April, a marathon event is being held in Southampton. As a result 
 
 Please note that this also means that access to food sellers may be restricted, so please plan accordingly.
 
+## Rail Strikes
+
+Members of the RMT will be striking on Saturday April 1st. Please plan getting to the venue accordingly.
+
 If you have any other questions or concerns, please don't hesitate to get in touch.
 
 We look forward to seeing you all at the competition!
