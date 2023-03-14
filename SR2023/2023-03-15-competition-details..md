@@ -47,6 +47,8 @@ Doors open on Saturday at 9am, with the event starting at 10. If you are expecti
 
 Whilst you're welcome to bring family and friends as guests, please be aware that space in the venue is limited, and we're expecting a large number of teams and competitors already.
 
+We'll be publishing rules for behaviour in/around the competition venue when you arrive. If you have any questions or concerns beforehand, please let us know.
+
 If you have any issues on the day, we'll be monitoring the `teams@` email address and our Discord server.
 
 ## Southampton Marathon
