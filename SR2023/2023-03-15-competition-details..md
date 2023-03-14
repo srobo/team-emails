@@ -21,7 +21,7 @@ Please ensure that your team bring at least one laptop or appropriate device wit
 
 Any tools that your team requires to modify their robot must be brought to the competition by the team: we cannot provide any. In particular, the use of any dangerous tools must be supervised by the responsible adult for the team. Power tools may only be used in the designated "Power Tools" area.
 
-You must bring all of the robotics kit (including the white box it came in) to the competition, so that we can collect it at the end of the event, unless you've already arranged to keep the kit longer.
+You must bring all of the robotics kit (including the white box it came in) to the competition, so that we can collect it at the end of the event.
 
 Teams will be allocated an area of the venue to work in, and a table to work on. You will have plenty of chance to test your robot in the full arena during _Tinker Time_.
 
