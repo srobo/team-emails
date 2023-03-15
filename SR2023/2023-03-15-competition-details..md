@@ -27,7 +27,7 @@ If you have any issues on the day, we'll be monitoring the `teams@` email addres
 
 ## Photos & Videos
 
-Throughout the competition, Student Robotics volunteers will be taking photos and videos for the purpose of prompting and marketing the charity. The arena will also be [livestreamed](https://studentrobotics.org/events/sr2023/competition/#livestream) on our YouTube channel. If this is a problem for you or your competitors, please let our reception desk know when you arrive.
+Throughout the competition, Student Robotics volunteers will be taking photos and videos for the purpose of prompting and marketing the charity. The arena will also be [livestreamed](https://studentrobotics.org/events/sr2023/competition/#livestream) on our YouTube channel. Unlike previous competitions, we will not be issuing Media Consent forms. If you or your competitors would not like to appear in our photos and videos, please let our reception desk know when you arrive.
 
 ## Equipment
 
