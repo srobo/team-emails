@@ -3,11 +3,11 @@ to: Student Robotics 2023
 subject: That's a wrap!
 ---
 
-![Competition Photo]()
+![Competition Photo](https://studentrobotics.org/images/content/blog/sr2023/sr2023-photo.jpg)
 
 Hi all,
 
-We'd like to thank you all for taking part in Student Robotics 2023 and making it such a successful event! An article about the competition, results, and game has been [posted on our website]().
+We'd like to thank you all for taking part in Student Robotics 2023 and making it such a successful event! An article about the competition, results, and game has been [posted on our website](https://studentrobotics.org/blog/2023-04-09-haberdashers-win-sr2023/).
 
 Congratulations again to our winners:
 
