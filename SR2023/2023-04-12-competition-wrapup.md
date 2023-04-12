@@ -61,4 +61,4 @@ In the meantime, be sure to follow us on Twitter [@StudentRobotics](https://twit
 
 ### Volunteering
 
-Student Robotics is powered by a collection of passionate individuals with varying skills from diverse backgrounds, many of whom are former competitors. We're all volunteers who give our spare time to make these events possible. If you have students graduating this year who may be interested in volunteering, please ask them to sign up to be a blueshirt at [srobo.org/join](https://srobo.org/join).
+Student Robotics is powered by a collection of passionate individuals with varying skills from diverse backgrounds, many of whom are former competitors. We're all volunteers who give our spare time to make these events possible. If you know anyone who may be interested in volunteering, please ask them to sign up to be a blueshirt at [srobo.org/join](https://srobo.org/join).
