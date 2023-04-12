@@ -24,7 +24,7 @@ Congratulations again to our winners:
 
 ## Event Media
 
-If you'd like some mementos of the competition or would just like to see the photos which were taken, we've collected them all together into [this photo album]().
+If you'd like some mementos of the competition or would just like to see the photos which were taken, we've collected them all together into a photo album, which will be added to the blog post in the coming weeks.
 
 The livestreams of the matches are also available on YouTube, including footage from the final:
 
