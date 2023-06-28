@@ -7,7 +7,7 @@ Hi,
 
 We're pleased to announce that early registration for Student Robotics 2024 is 
 now open. If you would like to compete, please complete this [form][signup-form]
-with the details of your team. All future emails about SR2024 will be sent there.
+with the details of your team.
 
 This year will start with our virtual, live-streamed Kickstart event, on the 21st
 of October. We will share more details about Kickstart as they become available
