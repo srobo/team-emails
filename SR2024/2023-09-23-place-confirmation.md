@@ -15,12 +15,11 @@ around the UK. These provide an opportunity for your team to get hands-on help
 from our volunteer mentors, make progress on their robot and meet other teams.
 
 Throughout the year your team will be able to get support for our mentors via
-[Discord](https://studentrobotics.org/docs/tutorials/discord). In addition to
-shared channels where any team can ask questions, each team will have their own
-private text chat channel and team supervisors can request voice & video
-channels too. These offer a space for teams to discuss their robot and get
-direct support from our mentors at any time. We will send out invites to Discord
-separately.
+[Discord][discord]. In addition to shared channels where any team can ask
+questions, each team will have their own private text chat channel and team
+supervisors can request voice & video channels too. These offer a space for
+teams to discuss their robot and get direct support from our mentors at any
+time. We will send out invites to Discord separately.
 
 This year **Kickstart is fully virtual**. We strongly encourage teams to meet up
 to watch the presentations, get to know each other and start working together on
@@ -51,3 +50,4 @@ We look forward to seeing you at [Kickstart][kickstart]!
 -- SR Competition Committee
 
 [kickstart]: https://studentrobotics.org/events/sr2024/virtual-kickstart/
+[discord]: https://studentrobotics.org/docs/tutorials/discord
