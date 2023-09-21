@@ -52,6 +52,9 @@ The shipping address we have for you is:
 
     SHIPPING_ADDRESS
 
+So that your kit arrives in time for Kickstart please ensure we have the
+necessary details by 1st October.
+
 We'll send out more information about this year's [Discord][discord] server and
 [Kickstart][kickstart] event in the coming weeks. We look forward to seeing you
 then!
