@@ -32,9 +32,16 @@ competitors with the kit, which the teams can complete afterwards. There will be
 mentors around in Discord throughout the day to support teams working through
 these tasks.
 
-To receive your kit we need a _secondary contact_ for your team. This should be
-someone at your institution (e.g: head of department). They should know about
-the competition, and be able to act as a backup contact.
+To receive your kit we need a few things from you:
+
+- A _secondary contact_ for your team. This should be someone at your
+  institution (e.g: head of department). They should know about the
+  competition, and be able to act as a backup contact.
+- You need to agree to our _kit disclaimer_ (PDF attached). This disclaimer
+  covers the terms and conditions under which you may use the kit and outlines
+  the limits of our responsibilities. Please sign it, scan it and email it back
+  to us.
+- Confirmation of your _shipping address_.
 
 Please fill in this form to confirm your shipping address and provide details of
 your secondary contact:
