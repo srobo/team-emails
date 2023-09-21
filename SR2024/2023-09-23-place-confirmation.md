@@ -52,7 +52,9 @@ The shipping address we have for you is:
 
     SHIPPING_ADDRESS
 
-We look forward to seeing you at [Kickstart][kickstart]!
+We'll send out more information about this year's [Discord][discord] server and
+[Kickstart][kickstart] event in the coming weeks. We look forward to seeing you
+then!
 
 -- SR Competition Committee
 
