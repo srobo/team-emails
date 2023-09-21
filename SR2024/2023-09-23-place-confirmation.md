@@ -6,9 +6,9 @@ subject: Confirming your place at Student Robotics 2024
 You're in! We're happy to confirm you've got a place at Student Robotics 2024!
 
 As the new school year starts, so does Student Robotics. The year starts with a
-"[Kickstart](https://studentrobotics.org/events/sr2024/virtual-kickstart/)"
-event which gives competitors and team supervisors an introduction to this
-year's competition and overview of how to build and engineer their robot.
+"[Kickstart][kickstart]" event which gives competitors and team supervisors an
+introduction to this year's competition and overview of how to build and
+engineer their robot.
 
 At various points in the year we will have a number of "Tech Days" at locations
 around the UK. These provide an opportunity for your team to get hands-on help
@@ -46,6 +46,8 @@ The shipping address we have for you is:
 
     SHIPPING_ADDRESS
 
-We look forward to seeing you at Kickstart!
+We look forward to seeing you at [Kickstart][kickstart]!
 
 -- SR Competition Committee
+
+[kickstart]: https://studentrobotics.org/events/sr2024/virtual-kickstart/
