@@ -22,16 +22,16 @@ teams to discuss their robot and get direct support from our mentors at any
 time. We will send out invites to Discord separately.
 
 This year **Kickstart is fully virtual**. On the day we will be livestreaming an
-introduction to the competition, the game and the robotics kits. We will also be
-providing a set of tasks which will familiarise competitors with the kit. There
-will be mentors around in Discord throughout the day to support teams working
-through these tasks.
+introduction to the competition, the game and the [robotics kits][kit-docs]. We
+will also be providing a set of tasks which will familiarise competitors with
+the kit. There will be mentors around in Discord throughout the day to support
+teams working through these tasks.
 
 We strongly encourage teams to meet up to watch the presentations, get to know
 each other and start working together on the kit. We will be shipping kits out
 to teams ahead of the event, so _please ensure we have the correct shipping address_.
 
-To receive your kit we need a few things from you:
+To receive your (loaned) robotics kit we need a few things from you:
 
 - A _secondary contact_ for your team. This should be someone at your
   institution (e.g: head of department). They should know about the
@@ -62,3 +62,4 @@ then!
 
 [kickstart]: https://studentrobotics.org/events/sr2024/virtual-kickstart/
 [discord]: https://studentrobotics.org/docs/tutorials/discord
+[kit-docs]: https://studentrobotics.org/docs/kit/
