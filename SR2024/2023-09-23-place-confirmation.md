@@ -1,6 +1,8 @@
 ---
 to: Student Robotics 2024
 subject: Confirming your place at Student Robotics 2024
+attachments:
+  - Kit Disclaimer (PDF): https://drive.google.com/file/d/16JHpd1b1G78GPlfe4tF54as3eyHRytoY/view?usp=sharing
 ---
 
 You're in! We're happy to confirm you've got a place at Student Robotics 2024!
@@ -10,7 +12,10 @@ virtual "[Kickstart][kickstart]" event which gives competitors and team supervis
 introduction to this year's competition and overview of how to build and
 engineer their robot.
 
-To receive your kit we need a few things from you:
+Ahead of Kickstart we'll send out your loaned [robotics kit][kit-docs], for your
+team to use at Kickstart and the competition. To do that we need a few things
+from you. So that your kit can arrive by Kickstart please complete the following
+by 1st October:
 
 - A _secondary contact_ for your team. This should be someone at your
   institution (e.g: head of department). They should know about the
@@ -30,19 +35,14 @@ The shipping address we have for you is:
 
     SHIPPING_ADDRESS
 
-So that your kit arrives in time for Kickstart please ensure we have the
-necessary details by 1st October.
+This year **Kickstart is fully virtual**. On the day we will be livestreaming an
+introduction to the competition, the game and the [robotics kits][kit-docs]. We
+will also be providing a set of tasks which will familiarise competitors with
+the kit. There will be mentors around in [Discord][discord] throughout the day
+to support teams working through these tasks.
 
-This year **Kickstart is fully virtual**. We strongly encourage teams to meet up
-to watch the presentations, get to know each other and start working together on
-the kit. We will be shipping kits out to teams ahead of the event, so
-_please ensure we have the correct shipping address_.
-
-On the day we will be livestreaming an introduction to the competition, the game
-and the kits. We will also be providing a set of tasks which will familiarise
-competitors with the kit, which the teams can complete afterwards. There will be
-mentors around in Discord throughout the day to support teams working through
-these tasks.
+We strongly encourage teams to meet up to watch the presentations, get to know
+each other and start working together on the kit.
 
 At various points in the year we will have a number of "Tech Days" at locations
 around the UK. These provide an opportunity for your team to get hands-on help
@@ -58,9 +58,15 @@ time.
 We'll send out more information about this year's [Discord][discord] server
 along with an invite link in the coming weeks.
 
+To ensure that you receive your robotics kit before Kickstart, please provide
+us with the details necessary by 1st October:
+
+    https://forms.gle/jgJ6fhspWUNyWR5X9
+
 We look forward to seeing you at Kickstart!
 
 -- SR Competition Committee
 
 [kickstart]: https://studentrobotics.org/events/sr2024/virtual-kickstart/
 [discord]: https://studentrobotics.org/docs/tutorials/discord
+[kit-docs]: https://studentrobotics.org/docs/kit/
