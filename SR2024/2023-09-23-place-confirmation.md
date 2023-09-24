@@ -33,16 +33,14 @@ The shipping address we have for you is:
 
     SHIPPING_ADDRESS
 
-This year **Kickstart is fully virtual**. We strongly encourage teams to meet up
-to watch the presentations, get to know each other and start working together on
-the kit. We will be shipping kits out to teams ahead of the event, so
-_please ensure we have the correct shipping address_.
+This year **Kickstart is fully virtual**. On the day we will be livestreaming an
+introduction to the competition, the game and the [robotics kits][kit-docs]. We
+will also be providing a set of tasks which will familiarise competitors with
+the kit. There will be mentors around in [Discord][discord] throughout the day
+to support teams working through these tasks.
 
-On the day we will be livestreaming an introduction to the competition, the game
-and the kits. We will also be providing a set of tasks which will familiarise
-competitors with the kit, which the teams can complete afterwards. There will be
-mentors around in Discord throughout the day to support teams working through
-these tasks.
+We strongly encourage teams to meet up to watch the presentations, get to know
+each other and start working together on the kit.
 
 At various points in the year we will have a number of "Tech Days" at locations
 around the UK. These provide an opportunity for your team to get hands-on help
