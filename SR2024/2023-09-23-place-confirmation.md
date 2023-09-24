@@ -56,6 +56,11 @@ time.
 We'll send out more information about this year's [Discord][discord] server
 along with an invite link in the coming weeks.
 
+To ensure that you receive your robotics kit before Kickstart, please provide
+us with the details necessary by 1st October:
+
+    https://forms.gle/jgJ6fhspWUNyWR5X9
+
 We look forward to seeing you at Kickstart!
 
 -- SR Competition Committee
