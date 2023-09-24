@@ -1,6 +1,8 @@
 ---
 to: Student Robotics 2024
 subject: Confirming your place at Student Robotics 2024
+attachments:
+  - Kit Disclaimer (PDF)
 ---
 
 You're in! We're happy to confirm you've got a place at Student Robotics 2024!
