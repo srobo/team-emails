@@ -31,7 +31,7 @@ We strongly encourage teams to meet up to watch the presentations, get to know
 each other and start working together on the kit. We will be shipping kits out
 to teams ahead of the event, so _please ensure we have the correct shipping address_.
 
-To receive your (loaned) robotics kit we need a few things from you:
+To receive your robotics kit loan we need a few things from you:
 
 - A _secondary contact_ for your team. This should be someone at your
   institution (e.g: head of department). They should know about the
