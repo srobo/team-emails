@@ -13,9 +13,9 @@ introduction to this year's competition and overview of how to build and
 engineer their robot.
 
 Ahead of Kickstart we'll send out your loaned [robotics kit][kit-docs], for your
-team to use Kickstart and the competition. To do that we need a few things from
-you. So that your kit can arrive by Kickstart please complete the following by
-1st October:
+team to use at Kickstart and the competition. To do that we need a few things
+from you. So that your kit can arrive by Kickstart please complete the following
+by 1st October:
 
 - A _secondary contact_ for your team. This should be someone at your
   institution (e.g: head of department). They should know about the
