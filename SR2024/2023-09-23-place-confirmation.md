@@ -10,7 +10,10 @@ virtual "[Kickstart][kickstart]" event which gives competitors and team supervis
 introduction to this year's competition and overview of how to build and
 engineer their robot.
 
-To receive your kit we need a few things from you:
+Ahead of Kickstart we'll send out your loaned [robotics kit][kit-docs], for your
+team to use Kickstart and the competition. To do that we need a few things from
+you. So that your kit can arrive by Kickstart please complete the following by
+1st October:
 
 - A _secondary contact_ for your team. This should be someone at your
   institution (e.g: head of department). They should know about the
@@ -29,9 +32,6 @@ your secondary contact:
 The shipping address we have for you is:
 
     SHIPPING_ADDRESS
-
-So that your kit arrives in time for Kickstart please ensure we have the
-necessary details by 1st October.
 
 This year **Kickstart is fully virtual**. We strongly encourage teams to meet up
 to watch the presentations, get to know each other and start working together on
@@ -64,3 +64,4 @@ We look forward to seeing you at Kickstart!
 
 [kickstart]: https://studentrobotics.org/events/sr2024/virtual-kickstart/
 [discord]: https://studentrobotics.org/docs/tutorials/discord
+[kit-docs]: https://studentrobotics.org/docs/kit/
