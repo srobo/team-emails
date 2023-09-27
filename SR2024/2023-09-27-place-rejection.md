@@ -9,7 +9,7 @@ We had a lot more interest in Student Robotics 2024 than we had places available
 
 We realise this is disappointing (we're disappointed too!), however we are limited by the number of kits we have and by the size of the venue. We are always looking for ways to support more teams and hope to be able to do so in future.
 
-If we have any early drop outs, we will be sure to let you know as you may be able to take their place, but we cannot promise anything.
+We've put you on our waiting list so if we have any early drop outs we will be sure to let you know. You may be able to take their place, but we cannot promise anything. Let us know if you don't want to be on the waiting list.
 
 We hope you follow the competition on social media, and subscribe to our [mailing list](https://studentrobotics.org/compete/) to be the first to know when places open for Student Robotics 2025.
 
