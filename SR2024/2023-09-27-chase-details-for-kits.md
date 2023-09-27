@@ -15,7 +15,7 @@ event on Saturday 21st October which gives competitors and team supervisors an
 introduction to this year's competition and overview of how to build and
 engineer their robot.
 
-Ahead of Kickstart we'd planning to send out your loaned [robotics kit][kit-docs],
+Ahead of Kickstart we're planning to send out your loaned [robotics kit][kit-docs],
 for your team to use as the core of your robot. As mentioned in our previous
 email confirming your place, we need some details for you before we can do that.
 So that your kit can arrive by Kickstart please complete the following by this

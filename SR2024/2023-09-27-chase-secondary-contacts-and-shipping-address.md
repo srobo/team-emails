@@ -12,7 +12,7 @@ Hello,
 We hope you're as excited about the start of the Student Robotics year as we
 are!
 
-Ahead of Kickstart we'd planning to send out your loaned [robotics kit][kit-docs],
+Ahead of Kickstart we're planning to send out your loaned [robotics kit][kit-docs],
 for your team to use as the core of your robot.
 
 Thank you for submitting your kit disclaimer, as a reminder please complete the
