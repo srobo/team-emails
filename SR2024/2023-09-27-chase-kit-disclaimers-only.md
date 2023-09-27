@@ -23,7 +23,7 @@ shipping address.
 As a reminder you also need to agree to our _kit disclaimer_ (PDF attached).
 This disclaimer covers the terms and conditions under which you may use the kit
 and outlines the limits of our responsibilities. Please sign it, scan it and
-email it back to us by **Sunday 1st October**.
+email it back to us by this **Sunday 1st October**.
 
 If we do not receive a signed kit disclaimer by then we cannot guarantee that
 your kit will arrive in time for Kickstart.
