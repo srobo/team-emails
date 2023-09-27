@@ -5,8 +5,6 @@ to: |
    - not provided secondary contact details
    - not confirmed their shipping address
 subject: "Action Required: Receiving your kit for Student Robotics 2024"
-attachments:
-  - Kit Disclaimer (PDF): https://drive.google.com/file/d/1a4Uh3O5qYElmA_QPztpVyvAByUGf4T3H/view
 ---
 
 Hello,
