@@ -40,7 +40,7 @@ The shipping address we have for you is:
     SHIPPING_ADDRESS
 
 To ensure that you receive your robotics kit before Kickstart, please provide
-us with the details necessary by Sunday 1st October.
+us with the details described above by Sunday 1st October.
 
 -- SR Competition Committee
 
