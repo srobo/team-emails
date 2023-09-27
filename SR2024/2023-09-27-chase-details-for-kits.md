@@ -1,6 +1,6 @@
 ---
 to: SR2024 teams who have not confirmed any details
-subject: Details needed to receive your kit for Student Robotics 2024
+subject: "Action Required: Details needed to receive your kit for Student Robotics 2024"
 attachments:
   - Kit Disclaimer (PDF): https://drive.google.com/file/d/1a4Uh3O5qYElmA_QPztpVyvAByUGf4T3H/view
 ---
