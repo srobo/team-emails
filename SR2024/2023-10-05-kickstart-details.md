@@ -44,7 +44,7 @@ We're planning on running 4 tech days:
 
 If you're interested in attending any of these events, please complete [this form][tech-day-signup]. Volunteers may also be around virtually on these days for support, should you not be able to attend any events in person.
 
-For the November tech day, Spaces are limited to four teams, so be sure to [let us know][tech-day-signup]
+For the November tech day, spaces are limited to four teams, so be sure to [let us know][tech-day-signup]
 by Friday 27th October 2023 if you'd like to attend. We will be allocating and
 confirming places as we receive applications, so sign up soon to avoid
 disappointment.
