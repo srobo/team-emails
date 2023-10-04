@@ -42,7 +42,7 @@ We're planning on running 4 tech days:
 - [20th January in Horsham](https://studentrobotics.org/events/sr2024/horsham-tech-day-january)
 - [2nd March in Cambridge](https://studentrobotics.org/events/sr2024/cambridge-tech-day-march)
 
-If you're interested in attending any of these events, please complete [this form][tech-day-signup]. Volunteers may also be around virtual on these days for support, should you not be able to attend any events in person.
+If you're interested in attending any of these events, please complete [this form][tech-day-signup]. Volunteers may also be around virtually on these days for support, should you not be able to attend any events in person.
 
 For the November tech day, Spaces are limited to four teams, so be sure to [let us know][tech-day-signup]
 by Friday 27th October 2023 if you'd like to attend. We will be allocating and
