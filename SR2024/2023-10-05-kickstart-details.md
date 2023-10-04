@@ -1,6 +1,6 @@
 ---
 to: Student Robotics 2024
-subject: SR2024 Kickstart details
+subject: SR2024 Kickstart and tech day details
 ---
 
 Hello there!
