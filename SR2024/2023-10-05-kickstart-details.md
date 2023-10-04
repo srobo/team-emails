@@ -5,9 +5,13 @@ subject: SR2024 Kickstart and tech day details
 
 Hello there!
 
+We're pleased to announce further details for Kickstart and open signups for
+Tech Days throughout SR2024.
+
 ## Kickstart
 
-As you already know, [Kickstart][kickstart] is Saturday 21st October.
+As you already know, [Kickstart][kickstart] is on Saturday 21st October and is
+fully remote.
 
 The presentation, which will be [livestreamed][livestream], will
 start at 10am UK time and last for approximately an hour. This will explain this
