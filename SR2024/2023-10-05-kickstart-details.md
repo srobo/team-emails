@@ -46,7 +46,7 @@ If you're interested in attending any of these events, please complete [this for
 
 For the November tech day, spaces are limited to four teams, so be sure to [let us know][tech-day-signup]
 by Friday 27th October 2023 if you'd like to attend. We will be allocating and
-confirming places as we receive applications, so sign up soon to avoid
+confirming places for it we receive applications, so sign up soon to avoid
 disappointment.
 
 
