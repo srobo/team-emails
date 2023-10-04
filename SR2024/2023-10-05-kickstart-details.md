@@ -7,7 +7,7 @@ Hello there!
 
 ## Kickstart
 
-As you already know, [Kickstart][kickstart] is this Saturday 19th October.
+As you already know, [Kickstart][kickstart] is Saturday 21st October.
 
 The presentation, which will be [livestreamed][livestream], will
 start at 10am UK time and last for approximately an hour. This will explain this
