@@ -29,13 +29,8 @@ What you'll need for the microgames:
 - **your kit**; all the kits have been dispatched -- please let us know if yours
   hasn't arrived!
 
-- at least one **computer** that can install and run the [simulator][simulator];
-  we'd encourage installing the Webots software ahead of time, though note that
-  you will need to download the simulation files afresh from our docs after the
-  game has been announced at Kickstart.
-
 - at least one **computer** which has a USB port, so you can get code onto your
-  kit; it may be easier if this is the same computer that can run simulator
+  kit
 
 - at least one pair of **wire cutters** and **wire strippers**, for wiring up
   your robot kit
@@ -58,7 +53,6 @@ If you have any questions, please let us know!
 
 -- the Competition Team
 
-[simulator]: https://studentrobotics.org/docs/simulator/
 [kickstart]: https://studentrobotics.org/events/sr2024/virtual-kickstart/
 [livestream]: https://www.youtube.com/watch?v=sQeEEVy9zvM
 [discord]: https://studentrobotics.org/docs/team_admin/discord
