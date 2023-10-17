@@ -18,7 +18,7 @@ the day:
 We encourage all teams to watch the livestream on the day and work through the
 microgames together afterwards. If you are unable to do this for some reason the
 presentation and microgames will continue to be available afterwards on the
-[Kickstart event page][kickstart] and remain a great place for your team to
+[Kickstart event page][kickstart] and will be great resources for your team to
 start working on their robot.
 
 There will be two document links for the microgames -- one for the competitors
@@ -26,14 +26,14 @@ which outlines the challenges and another for you which has the answers.
 
 What you'll need for the microgames:
 
-- **your kit**; all the kits have been dispatched -- please let us know if yours
+- **Your kit**; all the kits have been dispatched -- please let us know if yours
   hasn't arrived!
 
-- at least one **computer** which has a USB port, so you can get code onto your
-  kit
+- At least one **computer** which has a USB port, so you can get code onto your
+  kit.
 
-- at least one pair of **wire cutters** and **wire strippers**, for wiring up
-  your robot kit
+- At least one pair of **wire cutters** and **wire strippers**, for wiring up
+  your robot kit.
 
 Having access to [Discord][discord] on the day will also be very useful -- we'll
 have Blueshirts (our awesome volunteers!) available there throughout the day,
