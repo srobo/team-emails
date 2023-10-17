@@ -22,7 +22,9 @@ presentation and microgames will continue to be available afterwards on the
 start working on their robot.
 
 There will be two document links for the microgames -- one for the competitors
-which outlines the challenges and another for you which has the answers.
+which outlines the challenges and another for you which has the answers. Please
+encourage your competitors to post their answers in their own channels in
+Discord to get used to interacting with our volunteers.
 
 What you'll need for the microgames:
 
