@@ -1,6 +1,6 @@
 ---
 to: Student Robotics 2024
-subject: SR2024 Microgames
+subject: SR2024 has launched!
 ---
 
 Hello there!
