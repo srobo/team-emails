@@ -7,7 +7,7 @@ Hello!
 
 We're happy to announce that in addition to our physical competition, we'll be holding a **virtual competition**. We'll run our virtual competition on our [robot simulator](https://studentrobotics.org/docs/simulator/).
 
-The Virtual competition is an opportunity for your teams to test their coding skills before the physical competition takes place.
+The virtual competition is an opportunity for your teams to test their coding skills before the physical competition takes place.
 
 The results will be broadcast live on **Saturday 9th March 2024 at 1pm GMT**  via a livestream on our YouTube channel.
 
