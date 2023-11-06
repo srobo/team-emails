@@ -1,5 +1,5 @@
 ---
-to: Student Robotics 2024 secondary contacts, CC primary contacts
+to: Teams who we expected at the Tech Day but didn't turn up
 reply-to: "4th November Tech Day Confirmation"
 ---
 
