@@ -29,7 +29,7 @@ This year, we'd like to offer mentoring support through the year. Mentoring supp
 
 Please fill out the form below to register an interest in mentoring. While we can't guarantee regular support, we'll do our best to match you with a volunteer as soon as we're able.
 
-<FORM LINK GOES HERE>
+https://forms.gle/V831FNHaMLC4h4pVA
 
 We would also like one of your students to post a short report in your team's Discord channel after they meet so we are better able to offer help. If you/your teams are not yet in [Discord](https://studentrobotics.org/docs/tutorials/discord.html) and you need help, please let us know.
 
