@@ -15,4 +15,6 @@ The code submission deadline will be **2 days before**, that's Thursday 7th Marc
 
 During the competition, your robot will compete in (at least) 4 virtual matches for real league points, these points will then transfer across to the physical competition!
 
+We'll keep the [virtual competition event page](https://studentrobotics.org/events/sr2024/virtual-competition) up-to-date with more information about the event.
+
 We have made an amendment to our rules to add further details.
