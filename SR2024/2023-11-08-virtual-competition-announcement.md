@@ -9,7 +9,7 @@ We're happy to announce that in addition to our physical competition, we'll be h
 
 The virtual competition is an opportunity for your teams to test their coding skills before the physical competition takes place.
 
-The results will be broadcast live on **Saturday 9th March 2024 at 1pm GMT**  via a livestream on our YouTube channel.
+The results will be broadcast live on **Saturday 9th March 2024 at 1pm GMT**  via a [livestream](https://www.youtube.com/watch?v=hlfaQIfLaRg) on our YouTube channel.
 
 The code submission deadline will be **2 days before**, that's Thursday 7th March 2024 at 6pm GMT.
 
