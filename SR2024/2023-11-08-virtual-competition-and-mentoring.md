@@ -40,4 +40,5 @@ We've also made some minor amendments to the [rules](https://srobo.org/rules/) w
 - Clarified that the challenges cannot be completed in the simulator.
 
 Regards,
-- The Competition Team
+
+-- the Competition Team
