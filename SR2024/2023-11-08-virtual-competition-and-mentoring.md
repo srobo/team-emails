@@ -1,11 +1,11 @@
 ---
 to: Student Robotics 2024
-subject: SR2024 Virtual Competition, Mentoring, and rules changes
+subject: SR2024 Virtual Competition, Mentoring, and Rules changes
 ---
 
 Hello! 
 
-We hope your team found Kickstart useful and are excited for the year ahead - we certainly are, and we have a couple things to announce that will happen along the way:
+We hope your team found Kickstart useful and are excited for the year ahead - we certainly are, and we have a few things to announce that will happen along the way:
 
 # Virtual Competition
 
@@ -13,7 +13,7 @@ We're happy to announce that in addition to our physical competition, we'll be h
 
 The virtual competition is an opportunity for your teams to test their coding skills before the physical competition takes place.
 
-The results will be broadcast live on **Saturday 9th March 2024 at 1pm GMT**  via a [livestream](https://www.youtube.com/watch?v=hlfaQIfLaRg) on our YouTube channel.
+The matches will be broadcast live on **Saturday 9th March 2024 at 1pm GMT**  via a [livestream](https://www.youtube.com/watch?v=hlfaQIfLaRg) on our YouTube channel.
 
 The code submission deadline will be **2 days before**, that's Thursday 7th March 2024 at 6pm GMT. Your team can submit their robot code to [the code submitter](https://studentrobotics.org/code-submitter/). The log in details have the username of your team's three letter acronym (in upper case): <TLA mailmerges in here>, and the password is the same as the password your team used to enter Discord.
 
@@ -35,7 +35,7 @@ We would also like one of your students to post a short report in your team's Di
 
 # Rules amendments
 
-We've also made some minor amendments to the rules which are worth noting:
+We've also made some minor amendments to the [rules](https://srobo.org/rules/) which are worth noting:
 
 - Added the definition of the league ran in the virtual competition.
 - Narrowed definitions of objects "in" spaceships and robots to handle situations when spaceships are picked up by robots.
