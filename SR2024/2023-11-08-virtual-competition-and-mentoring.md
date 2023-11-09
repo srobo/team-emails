@@ -1,6 +1,6 @@
 ---
 to: Student Robotics 2024
-subject: SR2024 Virtual Competition
+subject: SR2024 Virtual Competition, Mentoring, and rules changes
 ---
 
 Hello! 
@@ -32,6 +32,14 @@ Please fill out the form below to register an interest in mentoring. While we ca
 https://forms.gle/V831FNHaMLC4h4pVA
 
 We would also like one of your students to post a short report in your team's Discord channel after they meet so we are better able to offer help. If you/your teams are not yet in [Discord](https://studentrobotics.org/docs/tutorials/discord.html) and you need help, please let us know.
+
+# Rules amendments
+
+We've also made some minor amendments to the rules which are worth noting:
+
+- Added the definition of the league ran in the virtual competition.
+- Narrowed definitions of objects "in" spaceships and robots to handle situations when spaceships are picked up by robots.
+- Clarified that the challenges cannot be completed in the simulator.
 
 Regards,
 - The Competition Team
