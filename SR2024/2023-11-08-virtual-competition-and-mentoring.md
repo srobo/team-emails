@@ -3,7 +3,7 @@ to: Student Robotics 2024
 subject: SR2024 Virtual Competition, Mentoring, and Rules changes
 ---
 
-Hello! 
+Hello!
 
 We hope your team found Kickstart useful and are excited for the year ahead - we certainly are, and we have a few things to announce that will happen along the way:
 
