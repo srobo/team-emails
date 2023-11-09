@@ -11,7 +11,7 @@ We hope your team found Kickstart useful and are excited for the year ahead - we
 
 We're happy to announce that in addition to our physical competition, we'll be holding a **virtual competition**. We'll run our virtual competition on our [robot simulator](https://studentrobotics.org/docs/simulator/).
 
-The matches played at the virtual competition are the first matches in the main competition leagues, so points earned at the virtual competition contribute to a team's success at the physical competition. It is also an opportunity for your teams to test their coding skills before the physical competition takes place.
+The matches played at the virtual competition are the first matches in the main competition league, so points earned at the virtual competition contribute to a team's success at the physical competition. It is also an opportunity for your teams to test their coding skills before the physical competition takes place.
 
 The matches will be broadcast live on **Saturday 9th March 2024 at 1pm GMT**  via a [livestream](https://www.youtube.com/watch?v=hlfaQIfLaRg) on our YouTube channel.
 
