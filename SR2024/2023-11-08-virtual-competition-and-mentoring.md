@@ -15,7 +15,7 @@ The virtual competition is an opportunity for your teams to test their coding sk
 
 The results will be broadcast live on **Saturday 9th March 2024 at 1pm GMT**  via a [livestream](https://www.youtube.com/watch?v=hlfaQIfLaRg) on our YouTube channel.
 
-The code submission deadline will be **2 days before**, that's Thursday 7th March 2024 at 6pm GMT.
+The code submission deadline will be **2 days before**, that's Thursday 7th March 2024 at 6pm GMT. Your team can submit their robot code to [the code submitter](https://studentrobotics.org/code-submitter/). The log in details have the username of your team's three letter acronym: <TLA merges in here>, and the password is the same as the password your team used to enter Discord.
 
 During the competition, your robot will compete in (at least) 4 virtual matches for real league points, these points will then transfer across to the physical competition!
 
