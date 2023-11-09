@@ -7,7 +7,7 @@ Hello!
 
 We hope your team found Kickstart useful and are excited for the year ahead - we certainly are, and we have a few things to announce that will happen along the way:
 
-# Virtual Competition
+## Virtual Competition
 
 We're happy to announce that in addition to our physical competition, we'll be holding a **virtual competition**. We'll run our virtual competition on our [robot simulator](https://studentrobotics.org/docs/simulator/).
 
@@ -21,7 +21,7 @@ We'll keep the [virtual competition event page](https://studentrobotics.org/even
 
 We have made an amendment to our rules to add further details.
 
-# Mentoring
+## Mentoring
 
 This year, we'd like to offer mentoring support through the year. Mentoring support from one of our volunteers can be invaluable in terms of helping understand the kit, rules and competition; in encouraging and pushing your team; and as enthusiastic role models.
 
@@ -31,7 +31,7 @@ https://forms.gle/V831FNHaMLC4h4pVA
 
 We would also like one of your students to post a short report in your team's Discord channel after they meet so we are better able to offer help. If you or your team are not yet in [Discord](https://studentrobotics.org/docs/tutorials/discord.html) and you need help, please let us know.
 
-# Rules amendments
+## Rules amendments
 
 We've also made some minor amendments to the [rules](https://srobo.org/rules/) which are worth noting:
 
