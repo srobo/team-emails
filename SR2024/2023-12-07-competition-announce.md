@@ -31,6 +31,9 @@ to provide any computers, tools or other equipment. Be sure to bring with you
 any tools, spare materials, props and other things that you might need over the
 weekend.
 
+We'll be updating the [event page][event] throughout the year with more details
+as they become available.
+
 -- SR Competition Committee
 
 [event]: https://studentrobotics.org/events/sr2024/competition/
