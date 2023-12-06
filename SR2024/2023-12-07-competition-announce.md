@@ -27,8 +27,9 @@ Days][tech-days-101], we'll also have lots of our volunteer blueshirts on hand
 to support your team.
 
 While we aim to provide a space for you to work on your robot, we won't be able
-to provide any tools. Be sure to bring with you any tools, spare materials and
-other equipment that you might need.
+to provide any computers, tools or other equipment. Be sure to bring with you
+any tools, spare materials, props and other things that you might need over the
+weekend.
 
 -- SR Competition Committee
 
