@@ -20,6 +20,10 @@ judging of the other competition awards. We're always impressed by the ingenuity
 and creativeness of our teams -- from the designs of the robots to the
 [theming][theming] of the teams.
 
+Before being allowed into the arena, all robots will need to pass a safety
+inspection and [regulations][regulations] check. Be sure to consider these when
+designing & building your robot.
+
 As well as the main competition arena, the venue will have pit areas for each
 team. This will give you the opportunity to meet the other teams taking part as
 well as a place to work on your robots between matches. Just like at [Tech
@@ -37,5 +41,6 @@ as they become available.
 -- SR Competition Committee
 
 [event]: https://studentrobotics.org/events/sr2024/competition/
+[regulations]: https://studentrobotics.org/docs/resources/2024/rulebook.html#regulations
 [tech-days-101]: https://studentrobotics.org/docs/robots_101/tech_days
 [theming]: https://studentrobotics.org/docs/robots_101/theming
