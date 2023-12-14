@@ -13,7 +13,9 @@ There's an outline of the day on the [event page][event-page] on our website. Ex
 
 [event-page]: https://studentrobotics.org/events/sr2024/horsham-tech-day-january/
 
-As the second and final challenge submission deadline is the same day. If your team hasn't completed a challenge for this deadline yet, this is a really good opportunity to grab 5 league points.
+As the second and final [challenge submission deadline][deadline] is the same day. If your team hasn't completed a challenge for this deadline yet, this is a really good opportunity to grab 5 league points.
+
+[deadline]: https://studentrobotics.org/events/sr2024/second-challenge-submission-deadline/
 
 Whatever your team is working on, we'll ensure we have volunteers around to help them make progress.
 
