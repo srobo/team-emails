@@ -15,6 +15,6 @@ Congratulations to the 15 teams that managed to complete a challenge by that dea
 
 The next [challenge deadline](https://studentrobotics.org/events/sr2024/second-challenge-submission-deadline/) is 20th January 2024, so remember time will be short when your team gets back from Christmas break. There are another 5 league points up for grabs for anyone who manages to submit a challenge for this deadline.
 
-Your team can re-submit if their first attempt didn't pass. If you have any questions, just ask us via e-mail or Discord.
+Your team can re-submit if their attempts aren't judged to have passed the challenge, so it's worth having a go in plenty of time before the deadline. If you have any questions, just ask us via e-mail or Discord.
 
 Thanks, $TODO_VOLUNTEER_NAME
