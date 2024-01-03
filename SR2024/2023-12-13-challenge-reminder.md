@@ -1,6 +1,6 @@
 ---
 to: Student Robotics 2024
-subject: SR2024 Challenge reminder
+subject: Student Robotics Challenge submissions
 ---
 
 Hi $TODO_CONTACT_GIVEN_NAME,
