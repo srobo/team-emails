@@ -15,4 +15,6 @@ The next [challenge deadline](https://studentrobotics.org/events/sr2024/second-c
 
 Your team can re-submit if their attempts aren't judged to have passed the challenge, so it's worth having a go in plenty of time before the deadline. If you have any questions, just ask us via e-mail or Discord.
 
-Thanks, $TODO_VOLUNTEER_NAME
+Thanks!
+
+-- The Competition Team
