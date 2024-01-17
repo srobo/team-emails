@@ -56,6 +56,29 @@ to see how other teams are doing or get more direct help with your robots.
 If you would like to attend the [final Tech Day of the year][cambridge-tech-day],
 on March 2nd in Cambridge, there's still time to [sign up][tech-day-signup].
 
+## Competition
+
+The [Competition][competition] is the final stage of SR2024. This year it is on
+the 13th and 14th April at the University of Southampton.
+
+This is the ultimate test of your team's robot building skills, pushing their
+robot to the limit, competing against other teams in the physical arena to
+determine who walks away with the coveted prizes.
+
+Your team's robot will be [safety checked][safety-check], compete in league and
+knockout matches as well as being judged on its aesthetic and functional design.
+Be sure to check the [regulations][regulations] to avoid surprise surgery on the
+day!
+
+Every team will have a pit area, giving you the opportunity to meet the other
+teams in person as well as a place to work on your robots between matches. Just
+like at Tech Days, we'll also have lots of our volunteer blueshirts on hand to
+support you.
+
+While we aim to provide a space for you to work on your robot, we won't be able
+to provide any computers, tools or other equipment -- be sure to bring
+everything you might need.
+
 
 Regards,
 
@@ -66,3 +89,6 @@ Regards,
 [tech-day-101]: https://studentrobotics.org/docs/robots_101/tech_days
 [second-challenge]: https://studentrobotics.org/events/sr2024/second-challenge-submission-deadline/
 [virtual-competition]: https://studentrobotics.org/events/sr2024/virtual-competition/
+[competition]: https://studentrobotics.org/events/sr2024/competition/
+[safety-check]: https://studentrobotics.org/docs/rules/safety_regulations
+[regulations]: https://studentrobotics.org/docs/resources/2024/rulebook.html#regulations
