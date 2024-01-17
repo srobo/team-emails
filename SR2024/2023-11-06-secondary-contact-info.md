@@ -1,6 +1,6 @@
 ---
 to: Student Robotics 2024 secondary contacts, CC primary contacts
-subject: "Student Robotics 2024: secondary contact for $TODO_TEAM"
+subject: "Student Robotics 2024: you are a secondary contact"
 ---
 
 Hello there,
