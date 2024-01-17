@@ -37,7 +37,7 @@ Where geographically possible we'll try to match your team with a mentor who can
 attend your meetings in person. Alternatively we can mentor your team remotely
 via video calls, as long as you or another supervisor are present in person.
 
-If you would like a mentor for your team, please sign up at <https://forms.gle/V831FNHaMLC4h4pVA>.
+**If you would like a mentor for your team, please sign up at <https://forms.gle/V831FNHaMLC4h4pVA>.**
 
 ## Challenges
 
