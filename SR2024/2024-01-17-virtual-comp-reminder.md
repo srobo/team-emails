@@ -59,7 +59,7 @@ on March 2nd in Cambridge, there's still time to [sign up][tech-day-signup].
 ## Competition
 
 The [Competition][competition] is the final stage of SR2024. This year it is on
-the 13th and 14th April at the University of Southampton.
+the **13th and 14th April** at the University of Southampton.
 
 This is the ultimate test of your team's robot building skills, pushing their
 robot to the limit, competing against other teams in the physical arena to
