@@ -17,4 +17,4 @@ Our communication with your team will all be sent to
 $TODO_PRIMARY_CONTACT_GIVEN_NAME, however if you would like to be copied into
 our emails with your team then feel free to let us know.
 
--- the Competition Team
+-- Student Robotics Competition Team
