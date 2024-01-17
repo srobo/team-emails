@@ -41,8 +41,8 @@ If you would like a mentor for your team, please sign up at <https://forms.gle/V
 
 ## Challenges
 
-In the lead-up to the second [Challenge deadline][second-challenge] this
-Saturday (5pm GMT) be sure that your team gets their submissions in on time.
+With the second [Challenge deadline][second-challenge] this **Saturday at 5pm GMT**,
+be sure that your team gets their submissions in on time.
 
 Do remember that if a submission is not judged to pass and you have the time to
 do so, your team can attempt the challenge again in order to resolve any issues.
