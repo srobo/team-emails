@@ -19,6 +19,9 @@ physical competition.
 
 Your team must submit their code **two days before**, by 6pm GMT on Thursday 7th
 March via the code submitter: <https://studentrobotics.org/code-submitter/>.
+Your team can login using your three letter acronym ($TODO_TLA_HERE) as the
+username and the password is the same as the password your team used to enter
+Discord.
 
 The matches will be broadcast live on **Saturday 9th March 2024 at 1pm GMT**
 via a [livestream](https://www.youtube.com/watch?v=hlfaQIfLaRg) on our YouTube
