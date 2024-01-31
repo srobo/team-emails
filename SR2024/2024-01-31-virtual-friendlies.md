@@ -14,8 +14,10 @@ The friendlies give teams an opportunity to test their code in the real
 competition simulator environment, however these matches are completely optional
 and will not contribute towards the main competition.
 
-The deadline for code submissions will be by 6pm GMT on Thursday 22nd February.
+To take part, ensure your team has submitted their code into the
+[code submitter][code-submitter] by 6pm GMT on Thursday 22nd February.
 
 -- Student Robotics Competition Team
 
 [virtual-competition]: https://studentrobotics.org/events/sr2024/virtual-competition/
+[code-submitter]: https://studentrobotics.org/code-submitter/
