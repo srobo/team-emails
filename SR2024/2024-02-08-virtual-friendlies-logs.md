@@ -6,16 +6,22 @@ attachment: robot logs and recordings zip file
 
 Hi!
 
-Your team submitted some code for our virtual 'friendlies' matches, we ran the matches and have attached all the results in a zip file below!
+Your team submitted some code for our virtual 'friendlies' matches.
 
-In these friendlies, your robot ran against other teams' robots. We've attached the log file printed from your robot, alongside an .mp4 (video recording) file for each match in the 'animations/' subfolder.
+In these friendlies, your robot ran against other teams' robots. We're keeping it secret exactly *which teams* you ran against. We've attached the log file from your robot in a zip file below.
 
-Your robot was a different colour (starting in a different zone) each time, here are the details so you know which is you:
+We've also shared this info on your team's discord channel.
+
+Your robot was a different colour (starting in a different zone) each time, here are the match recordings, plus which robot you were in:
 
 Team XXX:
-- Match X: You are XXXXX (zone X)
-- Match X: You are XXXXX (zone X)
-- Match X: You are XXXXX (zone X)
-- Match X: You are XXXXX (zone X)
+Match X: You are XXXXX (zone X)
+video_link
+Match X: You are XXXXX (zone X)
+video_link
+Match X: You are XXXXX (zone X)
+video_link
+Match X: You are XXXXX (zone X)
+video_link
 
 Thanks!
