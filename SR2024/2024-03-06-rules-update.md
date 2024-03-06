@@ -1,6 +1,6 @@
 ---
 to: Student Robotics 2024 teams
-subject: Changes to the bonus point for leaving your planet
+subject: "SR2024 rules update to the planet leaving bonus point"
 ---
 
 Hi,
@@ -13,4 +13,5 @@ The rules have been updated to state that this point is applied **after** any pe
 
 If you or your team have any questions please do post them in the support section of Discord.
 
--- the Competition Team
+Thanks,
+-- SR Competition Team
