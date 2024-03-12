@@ -1,6 +1,6 @@
 ---
 to: SR2022 teams, SR2023 signups, SR2024 signups
-subject: Team Assumptions Survey
+subject: Help us understand what's involved in taking part
 ---
 
 Hi all,
