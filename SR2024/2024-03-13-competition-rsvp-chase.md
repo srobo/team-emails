@@ -5,11 +5,11 @@ subject: SR2024 RSVP & check-in
 
 Hi $TODO_NAME,
 
-{# either #}
+{% if attended_virtual_comp %}
 It was great to see your team at the Virtual Competition this weekend.
-{# or #}
+{% else %}
 We missed you at the Virtual Competition this weekend.
-{# / #}
+{% endif %}
 
 I wanted to check on how you're doing and whether you wanted any extra help -- via Discord, in person or otherwise. There's still plenty of time to work on your robot before the competition!
 
