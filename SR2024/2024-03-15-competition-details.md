@@ -17,11 +17,9 @@ Doors open on both days at 9am and each day will finish around 5:30pm. The event
 
 You'll have access to your pits and the test arena when you arrive, giving your team time to work on their robot before things get going in earnest.
 
-You're welcome to bring family and friends as guests, however please note that space in the pits is limited.
+The event is open to the public, so you're welcome to bring family and friends as guests, however please note that space in the pits is limited.
 
 We'll be publishing rules for behaviour in/around the competition venue when you arrive. If you have any questions or concerns beforehand, please let us know.
-
-The competition this year is a public event, and we do not have exclusive access to the venue.
 
 If you have any issues on the day, we'll be monitoring the `teams@` email address and our Discord server.
 
