@@ -1,6 +1,7 @@
 ---
 to: Student Robotics 2024
 subject: SR2024 Competition Details
+attachment: https://drive.google.com/file/d/1JQG_IKOtnvEUPSob1XWTma55FHRK_r4o/view
 ---
 
 Hello everyone!
