@@ -1,6 +1,7 @@
 ---
 to: Student Robotics 2023
 subject: SR2023 Competition Details
+attachment: <https://github.com/srobo/team-emails/files/10984653/SR2023.Return.List.pdf>, built from https://docs.google.com/document/d/1YsIddeSC6w8e_KRGGTpjbCYrCV0ujlGAfj7lq7IE7Mc/edit
 ---
 
 Hello all!
