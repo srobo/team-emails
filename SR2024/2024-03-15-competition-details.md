@@ -17,12 +17,14 @@ Thanks to everyone who has already provided their attendance details. If you hav
 Doors open on both days at 9am and each day will finish around 5:30pm. The event will formally start at 10:30am on Saturday. There are now full day schedules on the [event page][competition-event-page]. **If you are expecting to arrive after 10am on Saturday, please let us know.**
 
 You'll have access to your pits and the test arena when you arrive, giving your team time to work on their robot before things get going in earnest.
+Throughout the weekend there will be plenty of volunteers around to help with your robots, prompt you to go to matches and ensure you have a good time.
 
 The event is open to the public, so you're welcome to bring family and friends as guests. However please note that space in the venue is limited, especially in the pits.
 
 We'll be providing rules for behaviour in/around the competition venue when you arrive. If you have any questions or concerns beforehand, please let us know.
 
-If you have any issues on the day, we'll be monitoring the `teams@` email address and our Discord server.
+If you have any issues on the day before you arrive, we'll be monitoring the `teams@` email address and our Discord server.
+Within the venue however, please direct queries to Helpdesk instead -- they'll be able to provide more immediate help.
 
 ## Photos & Videos
 
