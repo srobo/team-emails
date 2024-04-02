@@ -8,7 +8,7 @@ Hello!
 
 According to our records, you still have a kit from this years competition. As the competition has ended, we would like this back!
 
-Please securely pack the kit and ship it to the address listed on [our website](https://studentrobotics.org/contact/). You can find a list of the parts to return attached to this email or [on our website](https://studentrobotics.org/docs/kit/).
+Please securely pack the kit and ship it to our [postal address](https://studentrobotics.org/contact/). You can find a [list of the parts](https://studentrobotics.org/docs/kit/) to return on our website or as a checklist attached to this email.
 
 Once you have dispatched it, please [let us know](mailto:teams@studentrobotics.org).
 
