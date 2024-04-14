@@ -11,16 +11,16 @@ We'd like to thank you all for taking part in Student Robotics 2024 and making i
 
 Congratulations again to our winners:
 
-|        Prize          |            Team
-|-----------------------|-----------------------------------------------
-| 1st Place             |
-| 2nd Place             |
-| 3rd Place             |
-| Rookie Award          |
-| Committee Award       |
-| Robot and Team Image  |
-| Challenges            |
-| Online Presence       |
+| Prize                           | Team
+|---------------------------------|--------------------------------
+| 1st Place                       | Gymnasium Markt Indersdorf
+| 2nd Place                       | Wisbech Grammar School
+| 3rd Place                       | The Ladies’ College, Guernsey
+| Rookie Award                    | The Henry Box School
+| Excellence in Engineering Award | Abingdon School
+| Robot and Team Image            | Gymnasium Markt Indersdorf
+| Challenges                      | Royal Grammar School Guildford
+| Online Presence                 | Westminster City School
 
 ## Event Media
 
