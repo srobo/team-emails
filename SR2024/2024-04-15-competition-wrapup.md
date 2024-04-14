@@ -51,12 +51,14 @@ If you do still have some of our kit, please let us know as soon as possible so 
 
 We will be contacting you soon if our records indicate you still have some items of kit.
 
+### Volunteering
+
+Student Robotics is powered by a collection of passionate individuals with varying skills from diverse backgrounds, many of whom are former competitors. We're all volunteers who give our spare time to make these events possible. If you know anyone who may be interested in volunteering, please ask them to sign up to be a blueshirt at [srobo.org/join](https://srobo.org/join). It's not all about software engineering - it takes everything from event planning to fundraising, marketing to project management to make these events possible.
+
 ## Future Events
 
 We hope to run a competition next year and see you all there. We plan to open places around September and will let you know as soon as they are.
 
 In the meantime, be sure to follow us on Twitter [@StudentRobotics](https://twitter.com/studentrobotics) and [Instagram](https://www.instagram.com/student_robotics). If you haven't done so already, please sign up to [our general mailing list](https://studentrobotics.org/compete/), to be notified as soon as places are open.
 
-### Volunteering
-
-Student Robotics is powered by a collection of passionate individuals with varying skills from diverse backgrounds, many of whom are former competitors. We're all volunteers who give our spare time to make these events possible. If you know anyone who may be interested in volunteering, please ask them to sign up to be a blueshirt at [srobo.org/join](https://srobo.org/join).
+A final thank thank you for being part of Student Robotics 2024 and making it the fantastic event that it was!
