@@ -7,7 +7,7 @@ subject: That's a wrap on Student Robotics 2024!
 
 Hi all,
 
-We'd like to thank you all for taking part in Student Robotics 2024 and making it such a successful event! An article about the competition, results, and game has been [posted on our website](https://studentrobotics.org/blog/).
+We'd like to thank you all for taking part in Student Robotics 2024 and making it such a successful event! An article about the competition, results, and game has been [posted on our website](https://studentrobotics.org/blog/2024-04-18-mai-win-sr2024/).
 
 Congratulations again to our winners:
 
