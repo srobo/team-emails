@@ -1,6 +1,6 @@
 ---
 to: Teams with outstanding items from their kit
-subject: Outstanding kit
+subject: Outstanding kit from SR2024
 ---
 
 Hello!

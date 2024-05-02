@@ -1,6 +1,6 @@
 ---
 to: Teams with outstanding kit
-subject: Outstanding kit
+subject: Outstanding kit from SR2024
 attachment: https://drive.google.com/file/d/1JQG_IKOtnvEUPSob1XWTma55FHRK_r4o/view
 ---
 
