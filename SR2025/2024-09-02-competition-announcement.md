@@ -12,8 +12,8 @@ about SR2025 will be sent to the details you provide there.
 
 This year we're hosting [Kickstart][kickstart] at the University of Southampton,
 on Saturday 12th October. We will also be live-streaming the event for those
-unable to attend in person. We expect to confirm places towards the end of
-September.
+unable to attend in person. We expect to confirm places towards the latter half
+of September. Places are limited, so sign up soon to avoid disappointment.
 
 As usual we will loan your team a [kit][kit] of parts to help build your robot.
 This year we hope to send you your kit before Kickstart. We will also be sharing
