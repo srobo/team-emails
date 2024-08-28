@@ -16,7 +16,9 @@ unable to attend in person. We expect to confirm places towards the end of
 September.
 
 As usual we will loan your team a [kit][kit] of parts to help build your robot.
-This year we hope to send you your kit before Kickstart.
+This year we hope to send you your kit before Kickstart. We will also be sharing
+some [pre-Kickstart activities][pre-kickstart-activities] to enable your team to
+start learning about the kit.
 
   [I'm interested in bringing a team to SR2025][signup-form]
 
@@ -30,3 +32,4 @@ Regards,
 [signup-form]: https://docs.google.com/forms/d/e/1FAIpQLScaDRTIoGnSv4F9MXaxe8WXYWlj_4DLHTyv019a6pB2TntEyg/viewform
 [kickstart]: https://studentrobotics.org/events/sr2025/kickstart/
 [kit]: https://studentrobotics.org/docs/kit/
+[pre-kickstart-activities]: https://studentrobotics.org/docs/competitor_resources/pre_kickstart_activities
