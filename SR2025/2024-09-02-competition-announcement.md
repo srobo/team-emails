@@ -13,7 +13,10 @@ about SR2025 will be sent to the details you provide there.
 This year we're hosting [Kickstart][kickstart] at the University of Southampton,
 on Saturday 12th October. We will also be live-streaming the event for those
 unable to attend in person. We expect to confirm places towards the end of
-September and hope to send kits out to teams before Kickstart.
+September.
+
+As usual we will loan your team a [kit][kit] of parts to help build your robot.
+This year we hope to send you your kit before Kickstart.
 
   [I'm interested in bringing a team to SR2025][signup-form]
 
@@ -26,3 +29,4 @@ Regards,
 [announcement]: https://studentrobotics.org/blog/2024-09-02-sr2025-registration-open/
 [signup-form]: https://docs.google.com/forms/d/e/1FAIpQLScaDRTIoGnSv4F9MXaxe8WXYWlj_4DLHTyv019a6pB2TntEyg/viewform
 [kickstart]: https://studentrobotics.org/events/sr2025/kickstart/
+[kit]: https://studentrobotics.org/docs/kit/
