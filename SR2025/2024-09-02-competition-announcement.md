@@ -15,10 +15,11 @@ on Saturday 12th October. We will also be live-streaming the event for those
 unable to attend in person. We expect to confirm places towards the latter half
 of September. Places are limited, so sign up soon to avoid disappointment.
 
-As usual we will loan your team a [kit][kit] of parts to help build your robot.
-This year we hope to send you your kit before Kickstart. We will also be sharing
-some [pre-Kickstart activities][pre-kickstart-activities] to enable your team to
-start learning about the kit.
+As usual we will loan competing teams a [kit][kit] of parts to help build their
+robots. This year we hope to send out kits before Kickstart.
+
+We have also prepared some [pre-Kickstart activities][pre-kickstart-activities]
+to enable teams to start learning about robotics and our simulator right away.
 
   [I'm interested in bringing a team to SR2025][signup-form]
 
