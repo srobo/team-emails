@@ -27,7 +27,7 @@ robots. This year we hope to send out kits before Kickstart.
 Also **new for this year** we have prepared some [pre-Kickstart activities][pre-kickstart-activities]
 to enable teams to start learning about robotics and our simulator right away.
 
-  [I'm interested in bringing a team to SR2025][signup-form]
+  [Sign up to SR2025][signup-form]
 
 We look forward to seeing your teams,
 
