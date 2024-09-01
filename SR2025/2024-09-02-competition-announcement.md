@@ -18,7 +18,7 @@ of September. Places are limited, so sign up soon to avoid disappointment.
 As usual we will loan competing teams a [kit][kit] of parts to help build their
 robots. This year we hope to send out kits before Kickstart.
 
-We have also prepared some [pre-Kickstart activities][pre-kickstart-activities]
+Also **new for this year** we have prepared some [pre-Kickstart activities][pre-kickstart-activities]
 to enable teams to start learning about robotics and our simulator right away.
 
   [I'm interested in bringing a team to SR2025][signup-form]
