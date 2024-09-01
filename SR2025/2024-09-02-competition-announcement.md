@@ -1,6 +1,8 @@
 ---
 to: Potential team supervisors
 subject: Announcing Student Robotics 2025!
+preview: |
+  Sign up to Student Robotics 2025 and get started with our pre-kickstart activities!
 ---
 
 Hi,
