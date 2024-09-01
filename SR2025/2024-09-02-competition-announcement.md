@@ -6,9 +6,13 @@ subject: Announcing Student Robotics 2025!
 Hi,
 
 We're pleased to [announce][announcement] that registration for Student Robotics
-2025 is now open. If you would like to compete, please complete the
-[signup form][signup-form] with the details of your team. All future emails
-about SR2025 will be sent to the details you provide there.
+2025 is now open. The [programme][programme-structure] will run from October
+this year until around Easter 2025.
+
+If you would like to compete, please complete the [signup form][signup-form]
+with the details of your team. Entries must be made by a responsible adult on
+behalf of a team -- we call this role a [team supervisor][team-supervisor]. All
+future emails about SR2025 will be sent to the details you provide via the form.
 
 This year we're hosting [Kickstart][kickstart] at the University of Southampton,
 on Saturday 12th October. We will also be live-streaming the event for those
@@ -30,7 +34,9 @@ Regards,
 -- SR Competition Committee
 
 [announcement]: https://studentrobotics.org/blog/2024-09-02-sr2025-registration-open/
+[programme-structure]: https://studentrobotics.org/docs/robots_101/programme_structure
 [signup-form]: https://docs.google.com/forms/d/e/1FAIpQLScaDRTIoGnSv4F9MXaxe8WXYWlj_4DLHTyv019a6pB2TntEyg/viewform
+[team-supervisor]: https://studentrobotics.org/docs/robots_101/team_supervisor
 [kickstart]: https://studentrobotics.org/events/sr2025/kickstart/
 [kit]: https://studentrobotics.org/docs/kit/
 [pre-kickstart-activities]: https://studentrobotics.org/docs/competitor_resources/pre_kickstart_activities
