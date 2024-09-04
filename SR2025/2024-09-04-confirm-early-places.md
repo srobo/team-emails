@@ -11,7 +11,8 @@ You're in! We're happy to confirm you've got a place at Student Robotics 2025!
 
 Thank you for taking on the role of a [team supervisor][team-supervisor] for
 your team. If you have any questions about the [competition programme][programme-structure],
-building a robot or anything else, please feel free to email us at
+building a robot or anything else, please feel free to reach out to us in the
+`#team-supervisors` channel on [Discord][discord] or email us at
 <teams@studentrobotics.org>.
 
 This year we're hosting [Kickstart][kickstart] at the University of Southampton,
