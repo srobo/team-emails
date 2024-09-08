@@ -34,6 +34,8 @@ up:
 
     SHIPPING_ADDRESS
 
+We will send you an email with a tracking link once your kit is on its way.
+
 If your team would like to get started before Kickstart, **new for this year**
 we have prepared some [pre-Kickstart activities][pre-kickstart-activities] which
 introduce robotics and our simulator without needing the kit.
