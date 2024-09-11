@@ -51,8 +51,9 @@ If you don't already have a Discord account, you can register an account for
 free. Accounts should be per individual and not shared with others.
 
 Within Discord there are a number of shared channels, which everyone has access
-to. Additionally there is a channel which is just for your team, which can only be accessed by yourself, your team members and our Blueshirt volunteers. Your team's channel is
-called `#team-TODO_REPLACE_TLA_BEFORE_SENDING`.
+to. Additionally there is a channel which is just for your team, which can only
+be accessed by yourself, your team members and our Blueshirt volunteers. Your
+team's channel is called `#team-TODO_REPLACE_TLA_BEFORE_SENDING`.
 
 Upon joining the server users will need to provide a password to gain the
 correct permissions. The password is used to identify which team a user is from,
