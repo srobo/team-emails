@@ -52,13 +52,14 @@ free. Accounts should be per individual and not shared with others.
 
 Within Discord there are a number of shared channels, which everyone has access
 to. Additionally there is a channel which is just for your team, which can only be accessed by yourself, your team members and our Blueshirt volunteers. Your team's channel is
-called `team-TODO_REPLACE_TLA_BEFORE_SENDING`.
+called `#team-TODO_REPLACE_TLA_BEFORE_SENDING`.
 
 Upon joining the server users will need to provide a password to gain the
 correct permissions. The password is used to identify which team a user is from,
-so do not share to those outside your team. For your team, the password is:
-`TODO_REPLACE_PASSWORD_BEFORE_SENDING`. Please share both the invite link and
+so do not share to those outside your team. Please share both the invite link and
 the relevant password with your competitors.
+
+For your team, the password is: TODO_REPLACE_PASSWORD_BEFORE_SENDING
 
 More information on this can be found in [the docs][discord].
 
