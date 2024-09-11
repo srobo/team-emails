@@ -1,6 +1,6 @@
 ---
-to: Student Robotics 2024
-subject: Confirming your place at Student Robotics 2024
+to: Student Robotics 2025
+subject: Confirming your place at Student Robotics 2025
 attachments:
   - Kit Disclaimer (PDF): https://drive.google.com/file/d/1dZAawbzQwh0peaZRpesL9Up5CzOr--Ec/view
 ---
