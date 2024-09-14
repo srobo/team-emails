@@ -52,7 +52,7 @@ free. Accounts should be per individual and not shared with others.
 
 Within Discord there are a number of shared channels, which everyone has access
 to. Additionally there is a channel which is just for your team, which can only
-be accessed by yourself, your team members and our Blueshirt volunteers. Your
+be accessed by yourself, your competitors, and our Blueshirt volunteers. Your
 team's channel is called `#team-TODO_REPLACE_TLA_BEFORE_SENDING`.
 
 Upon joining the server users will need to provide a password to gain the
@@ -82,7 +82,7 @@ ways to accommodate your team.
 
 If your team would like to get started before Kickstart, **new for this year**
 we have prepared some [pre-Kickstart activities][pre-kickstart-activities] which
-introduce robotics and our simulator without needing the kit. If your team need
+introduce robotics and our simulator without needing the kit. If your team needs
 any assistance with these activities, please encourage them to post in Discord.
 
 At various points in the year we will have a number of "[Tech Days][tech-days]"
@@ -92,7 +92,7 @@ other teams. We'll let you know once we have more details about these events.
 
 We look forward to seeing you at Kickstart!
 
--- SR Competition Committee
+-- Student Robotics
 
 [programme-structure]: https://studentrobotics.org/docs/robots_101/programme_structure
 [tech-days]: https://studentrobotics.org/docs/robots_101/tech_days
