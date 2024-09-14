@@ -30,7 +30,7 @@ This year we hope to send out kits shortly before Kickstart, in early October.
 In order to enable us to send out your kit you need to agree to our _kit
 disclaimer_ (PDF attached). This disclaimer covers the terms and conditions
 under which you may use the kit and outlines the limits of our responsibilities.
-Please **sign it, scan it and email it back to us**.
+Please **sign it, scan it and email it back to us** by **Friday 27th September**.
 
 We will be sending your kit to the shipping address you provided when you signed
 up:
