@@ -47,6 +47,7 @@ communication method for competitor support, enabling competitors to get support
 directly from our volunteer mentors at any time.
 
 Your invite link is <https://discord.com/invite/TODO_REPLACE_DISCORD_LINK_BEFORE_SENDING>.
+
 If you don't already have a Discord account, you can register an account for
 free. Accounts should be per individual and not shared with others.
 
