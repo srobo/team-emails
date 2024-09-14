@@ -35,7 +35,7 @@ Please **sign it, scan it and email it back to us**.
 We will be sending your kit to the shipping address you provided when you signed
 up:
 
-    SHIPPING_ADDRESS
+    TODO_SHIPPING_ADDRESS
 
 We will send you an email with a tracking link once your kit is on its way.
 
