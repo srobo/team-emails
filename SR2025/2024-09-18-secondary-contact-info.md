@@ -13,7 +13,7 @@ $TODO_PRIMARY_CONTACT_GIVEN_NAME gave us your details as a secondary contact at
 $TODO_ORGANISATION in the unlikely case that we are unable to contact them.
 Please speak to them in the first instance if you have any questions.
 
-As [team supervisor][team-supervisor] $TODO_PRIMARY_CONTACT_GIVEN_NAME is
+As [team supervisor][team-supervisor], $TODO_PRIMARY_CONTACT_GIVEN_NAME is
 responsible for your competitors as well as the [kit][kit] which we loan to each
 team. Our communication with your team will also all be sent to them.
 
