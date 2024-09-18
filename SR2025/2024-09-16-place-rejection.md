@@ -29,5 +29,5 @@ when places open for Student Robotics 2026.
 
 Thanks again for your interest, and we hope to see you next year.
 
-Thanks,
- -- Student Robotics
+Thanks,\
+-- Student Robotics
