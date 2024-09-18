@@ -18,6 +18,9 @@ future.
 We've put you on our waiting list so if we have any early drop outs we will be
 sure to let you know. You may be able to take their place, but we cannot promise
 anything. Let us know if you don't want to be on the waiting list.
+
+If we are able to offer you a place, we'll let you know by Friday 25th October
+at the latest (that's two weeks after Kickstart).
 {{ end_if }}
 
 We hope you follow the competition on social media, and subscribe to our
