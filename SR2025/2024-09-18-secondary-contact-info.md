@@ -20,7 +20,7 @@ team. Our communication with your team will also all be sent to them.
 If you would like to be copied into our emails with your team then feel free to
 let us know.
 
-Thanks,
+Thanks,\
 -- Student Robotics
 
 [student-robotics]: https://studentrobotics.org
