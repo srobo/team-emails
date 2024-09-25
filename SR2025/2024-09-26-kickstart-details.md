@@ -24,7 +24,7 @@ Kickstart is being held at the University of Southampton at:
     Southampton,
     SO17 1BJ
 
-For public transport or driving instructions, see the University of Southampton’s information on ['getting to our campuses'](https://www.southampton.ac.uk/student-life/campuses/highfield) (click the ‘Campus map and directions’ tab).
+For public transport or driving instructions, see the University of Southampton’s information on [getting to our campuses](https://www.southampton.ac.uk/student-life/campuses/highfield) (click the ‘Campus map and directions’ tab).
 
 ## Schedule
 
