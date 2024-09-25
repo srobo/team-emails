@@ -5,7 +5,7 @@ subject: SR2025 Kickstart details
 
 Hi!
 
-Kickstart is on October 12th, only a couple weeks away! So it's time to give you a bit more info about the event.
+[Kickstart is on October 12th](https://studentrobotics.org/events/sr2025/kickstart/), only a couple weeks away! So it's time to give you a bit more info about the event.
 
 Kickstart is the big kick-off event for the competition; we'll first announce the game for which you'll be building your robots, alongside some additional challenges to complete along the way. We'll go into detail about what you have available to you in your kits. We plan to announce the dates and locations for our tech days, which are opportunities for your team to get hands-on help directly from our volunteers. Finally, we'll let your teams work on the 'Microgames', a series of tasks to get acquainted with your new kits. Our blueshirts (our lovely volunteers) will be available to mentor your teams throughout.
 
