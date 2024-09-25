@@ -7,7 +7,7 @@ Hi!
 
 Kickstart is on October 12th, only a couple weeks away! So it's time to give you a bit more info about the event.
 
-Kickstart is the big kick-off event for the competition; we'll first announce the game for which you'll be building your robots, alongside some additional challenges to complete along the way. We'll go into detail about what you have available to you in your kits. We'll plan to announce the dates and locations for our tech days, which are opportunities for your team to get hands-on help directly from our volunteers. Finally, we'll let your teams work on the 'Microgames', a series of tasks to get acquainted with your new kits. Our blueshirts (our lovely volunteers) will be available to mentor your teams throughout.
+Kickstart is the big kick-off event for the competition; we'll first announce the game for which you'll be building your robots, alongside some additional challenges to complete along the way. We'll go into detail about what you have available to you in your kits. We plan to announce the dates and locations for our tech days, which are opportunities for your team to get hands-on help directly from our volunteers. Finally, we'll let your teams work on the 'Microgames', a series of tasks to get acquainted with your new kits. Our blueshirts (our lovely volunteers) will be available to mentor your teams throughout.
 
 If you can't attend physically, it's still a good idea to get your team together to attend virtually. We'll be [livestreaming][livestream] the game presentation from 11am and will release the microgames once the presentation is over. We'll also have volunteers available to help out with the Microgames on [Discord][discord] both on the day and for the rest of the competition year.
 
