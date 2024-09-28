@@ -1,6 +1,8 @@
 ---
 to: Student Robotics 2025 teams without kit disclaimers
 subject: We need your Kit Disclaimer Form
+attachments:
+  - Kit Disclaimer (PDF): https://drive.google.com/file/d/1dZAawbzQwh0peaZRpesL9Up5CzOr--Ec/view
 ---
 
 Hi,
