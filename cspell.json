@@ -10,8 +10,10 @@
     ],
     "dictionaries": ["en-gb", "project-words"],
     "ignorePaths": [
+        "*.csv",
         "node_modules",
         "/legacy",
+        "/scripts/requirements.txt",
         "/.spelling"
     ]
 }
