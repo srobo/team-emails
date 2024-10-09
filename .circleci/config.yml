@@ -1,21 +1,21 @@
 version: 2.0
 
 jobs:
-    build:
-        docker:
-            # Latest stable at time of last update
-            - image: cimg/node:18.12
-        steps:
-            - checkout
-            - restore_cache:
-                key: node-{{ checksum "package-lock.json" }}
-            - run:
-                name: Install dependencies
-                command: npm install
-            - save_cache:
-                key: node-{{ checksum "package-lock.json" }}
-                paths:
-                    - node_modules
-            - run:
-                name: Run Tests
-                command: npm test
+  build:
+    docker:
+      # Latest stable at time of last update
+      - image: cimg/node:18.12
+    steps:
+      - checkout
+      - restore_cache:
+          key: node-{{ checksum "package-lock.json" }}
+      - run:
+          name: Install dependencies
+          command: npm install
+      - save_cache:
+          key: node-{{ checksum "package-lock.json" }}
+          paths:
+            - node_modules
+      - run:
+          name: Run Tests
+          command: npm test

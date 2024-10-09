@@ -1,6 +1,6 @@
 ---
 to: Student Robotics 2022
-subject: Kit Software Update Required 
+subject: Kit Software Update Required
 ---
 
 Hello all!
@@ -12,4 +12,3 @@ Let us know in Discord, or by email, if you have any issues.
 Also just a quick reminder to **bring all SR kit** with you to the competition, so it can be returned at the end of the event. A list of our standard kit can be found on [our docs](https://studentrobotics.org/docs/kit/) but if you have additional kit from previous years please do bring that as well.
 
 We look forward to seeing you all at the competition!
-
