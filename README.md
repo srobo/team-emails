@@ -6,6 +6,11 @@ A history of communication with teams. Organised by event and date sent. If it's
 
 If an email contains links to forms, or other potentially sensitive information, leave the link out of the emails!
 
+## Setup
+
+You'll want an editor which supports markdown files with YAML front-matter.
+You're also encouraged to use an editor which supports [EditorConfig](https://editorconfig.org/) either directly or via an extension.
+
 ## How to send emails
 
 Emails should be sent using the MailChimp account.
