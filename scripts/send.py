@@ -98,13 +98,13 @@ def main(args: argparse.Namespace) -> None:
                 send(
                     server,
                     to=Address(
-                        row['SecondaryName'],
-                        addr_spec=row['SecondaryEmailAddress'],
+                        row['PrimaryName'],
+                        addr_spec=row['PrimaryEmailAddress'],
                     ),
                     cc=[
                         Address(
-                            row['PrimaryName'],
-                            addr_spec=row['PrimaryEmailAddress'],
+                            row['SecondaryName'],
+                            addr_spec=row['SecondaryEmailAddress'],
                         ),
                         SR_TEAMS_ADDRESS,
                     ],
