@@ -95,19 +95,24 @@ def main(args: argparse.Namespace) -> None:
         with args.teams_csv.open() as f:
             reader = csv.DictReader(f)
             for row in reader:
+                cc = [
+                    SR_TEAMS_ADDRESS,
+                ]
+                if row['SecondaryCcSecondary'] == 'TRUE':
+                    cc.append(
+                        Address(
+                            row['SecondaryName'],
+                            addr_spec=row['SecondaryEmailAddress'],
+                        ),
+                    )
+
                 send(
                     server,
                     to=Address(
-                        row['SecondaryName'],
-                        addr_spec=row['SecondaryEmailAddress'],
+                        row['PrimaryName'],
+                        addr_spec=row['PrimaryEmailAddress'],
                     ),
-                    cc=[
-                        Address(
-                            row['PrimaryName'],
-                            addr_spec=row['PrimaryEmailAddress'],
-                        ),
-                        SR_TEAMS_ADDRESS,
-                    ],
+                    cc=cc,
                     subject=template.subject,
                     html_body=template.template(row),
                     dry_run=args.dry_run
