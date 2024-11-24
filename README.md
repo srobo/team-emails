@@ -11,6 +11,12 @@ If an email contains links to forms, or other potentially sensitive information,
 You'll want an editor which supports markdown files with YAML front-matter.
 You're also encouraged to use an editor which supports [EditorConfig](https://editorconfig.org/) either directly or via an extension.
 
+## How to define emails
+
+Emails are defined as markdown files with YAML front-matter.
+The front-matter should always contain at least `to` and `subject` keys.
+The markdown should be rendered to HTML before sending; the VSCode markdown preview is a reasonable way to do this.
+
 ## How to send emails
 
 Emails should be sent using the MailChimp account.
