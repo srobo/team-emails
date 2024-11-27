@@ -16,7 +16,7 @@ We have a few updates and reminders for you:
 
 ## Simulator Update
 
-Using competitor feedback we have released a new version of the simulator with some fixes. This can be downloaded from [our GitHub](https://github.com/srobo/sbot_simulator/releases/download/2025.1.1/sbot-simulator-2025.1.1.zip) or using the link in the docs.
+Using competitor feedback we have released a new version of the simulator with some fixes. This can be downloaded from [our GitHub](https://github.com/srobo/sbot_simulator/releases/download/2025.1.1/sbot-simulator-2025.1.1.zip) or using the link in [the simulator docs](https://studentrobotics.org/docs/simulator/setting_up_simulator).
 
 We've fixed a few issues around the run script not being able to find Webots and ensured that you have all the libraries available to you that are on your robots. These libraries are listed [on our docs](https://studentrobotics.org/docs/kit/brain_board/python_libraries).
 
