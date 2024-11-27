@@ -39,7 +39,7 @@ Ahead of the Virtual League, we're running some friendly matches in December. Th
 To submit your code for the Virtual Friendlies (and later the Virtual League):
 
 * Visit the [Code Submitter][code-submitter]
-* Log in using the same credentials as you used to get access to your team's area in Discord (your team's username is `{TLA}` and password is `{DiscordPassword}`)
+* Log in using the same credentials as you used to get access to your team's area in Discord (your team's username is **`{TLA}`** and password is **`{DiscordPassword}`**)
 * Create a zip archive containing your code
 * Upload the archive to the Code Submitter
 
