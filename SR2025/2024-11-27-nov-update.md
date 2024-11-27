@@ -26,7 +26,7 @@ Please note that the simulator requires a Python version between 3.9 and 3.12. T
 
 The [Challenges][challenges] offer stepping stones towards building your robot as well as allowing teams to collect valuable league points ahead of the competition. There are three Challenges which can be approached in any order.
 
-The first challenge deadline is coming up on Saturday 7th December 2024 at 18:00 UK time. Your team can submit any of the three challenges by this time to earn 6 league points.
+The first challenge deadline is coming up on Saturday **7th December 2024** at **18:00** UK time. Your team can submit any of the three challenges by this time to earn 6 league points.
 
 There are two further submission deadlines in the new year, with each different submission worth a further 6 points.
 
@@ -34,7 +34,7 @@ There are two further submission deadlines in the new year, with each different 
 
 Coming up in February, the Virtual League will be the first league matches of the competition. Run in the simulator, teams will pit their code against each other to score points.
 
-Ahead of the Virtual League, we're running some friendly matches in December. These aren't worth any points, so offer a stress free environment to test out any code you might have. The deadline for submitting your code for the Virtual Friendlies is Thursday 12th December 2024 at 18:00 UK time.
+Ahead of the Virtual League, we're running some friendly matches in December. These aren't worth any points, so offer a stress free environment to test out any code you might have. The deadline for submitting your code for the Virtual Friendlies is Thursday **12th December 2024** at **18:00** UK time.
 
 To submit your code for the Virtual Friendlies (and later the Virtual League):
 
