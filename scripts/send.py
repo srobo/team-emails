@@ -95,9 +95,9 @@ def main(args: argparse.Namespace) -> None:
         with args.teams_csv.open() as f:
             reader = csv.DictReader(f)
             for row in reader:
-                cc = [
-                    SR_TEAMS_ADDRESS,
-                ]
+                cc = []
+                if args.cc_teams_at:
+                    cc.append(SR_TEAMS_ADDRESS)
                 if row['SecondaryCcSecondary'] == 'TRUE':
                     cc.append(
                         Address(
@@ -126,6 +126,12 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
     parser.add_argument('template', type=Path)
     parser.add_argument('teams_csv', type=Path)
+    parser.add_argument(
+        '--no-cc-teams-at',
+        dest='cc_teams_at',
+        action='store_false',
+        default=True,
+    )
     parser.add_argument('--dry-run', action='store_true', default=False)
     return parser.parse_args()
 
