@@ -35,7 +35,7 @@ class Template:
     def body(self) -> str:
         return markdown.markdown(self.body_raw).replace('\\\n', '<br>')
 
-    def template(self, mapping: dict[str, str]) -> str:
+    def template_body(self, mapping: dict[str, str]) -> str:
         # Note: this requires manual adjustment of the template and CSV file to
         # have matching names, but that seems fine for now. Perhaps we should
         # move to using Jinja templating or something?
@@ -43,6 +43,12 @@ class Template:
             k: html.escape(v)
             for k, v in mapping.items()
         })
+
+    def template_subject(self, mapping: dict[str, str]) -> str:
+        # Note: this requires manual adjustment of the template and CSV file to
+        # have matching names, but that seems fine for now. Perhaps we should
+        # move to using Jinja templating or something?
+        return self.subject.format(**mapping)
 
 
 def load_template(path: Path) -> Template:
@@ -113,8 +119,8 @@ def main(args: argparse.Namespace) -> None:
                         addr_spec=row['PrimaryEmailAddress'],
                     ),
                     cc=cc,
-                    subject=template.subject,
-                    html_body=template.template(row),
+                    subject=template.template_subject(row),
+                    html_body=template.template_body(row),
                     dry_run=args.dry_run
                 )
 
