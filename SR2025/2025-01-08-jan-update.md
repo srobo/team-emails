@@ -44,7 +44,7 @@ There are three Tech Days left this year:
 If you're interested in attending any of these events, please **[sign up to Tech Days][tech-day-signup]**.
 Volunteers may also be around virtually on these days for support, should you not be able to attend any events in person.
 
-For the January tech day, the deadline is Friday 17th January 2025 for you to [let us know][tech-day-signup] that you'd like to attend. We will be allocating and confirming places from early December.
+For the January tech day, the deadline is Friday 17th January 2025 for you to [let us know][tech-day-signup] that you'd like to attend.
 
 -- Student Robotics
 
