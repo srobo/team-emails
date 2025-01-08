@@ -34,7 +34,7 @@ For the January tech day, the deadline is Friday 17th January 2025 for you to [l
 
 The [Challenges][challenges] offer stepping stones towards building your robot as well as allowing teams to collect valuable league points ahead of the competition. There are three Challenges which can be approached in any order.
 
-The second challenge deadline is coming up on Saturday **15th January 2025** at **6pm** UK time. Your team can submit any of the challenges by this time to earn league points for each they haven't already completed.
+The second challenge deadline is coming up on Saturday **25th January 2025** at **6pm** UK time. Your team can submit any of the challenges by this time to earn league points for each they haven't already completed.
 
 There is one further submission deadline later in the year, though nothing stops your team getting all their submissions in sooner than that.
 
