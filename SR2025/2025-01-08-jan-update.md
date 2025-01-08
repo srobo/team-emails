@@ -17,13 +17,13 @@ We have a few updates and reminders for you:
 
 The [Challenges][challenges] offer stepping stones towards building your robot as well as allowing teams to collect valuable league points ahead of the competition. There are three Challenges which can be approached in any order.
 
-The second challenge deadline is coming up on Saturday **15th January 2025** at **18:00** UK time. Your team can submit any of the challenges by this time to earn league points for each they haven't already completed.
+The second challenge deadline is coming up on Saturday **15th January 2025** at **6pm** UK time. Your team can submit any of the challenges by this time to earn league points for each they haven't already completed.
 
 There is one further submission deadline later in the year, though nothing stops your team getting all their submissions in sooner than that.
 
 ## Virtual League
 
-Coming up in February, the [Virtual League][virtual-league] will be the first league matches of the competition. Run in the simulator, teams will pit their code against each other to score points. Teams must [submit their code][code-submitter-docs] by Thursday **6th February 2025** at **18:00** UK time and we'll be [livestreaming][virtual-league-livestream] the Virtual League from 1pm UK time on Saturday 8th.
+Coming up in February, the [Virtual League][virtual-league] will be the first league matches of the competition. Run in the simulator, teams will pit their code against each other to score points. Teams must [submit their code][code-submitter-docs] by Thursday **6th February 2025** at **6pm** UK time and we'll be [livestreaming][virtual-league-livestream] the Virtual League from 1pm UK time on Saturday 8th.
 
 In the rules we had previously noted that the league points from the Virtual League would be scaled to between 20 and 25 percent of the total for the league stage of the competition. The [rules][rulebook] have been updated to double the unscaled league points on offer from the Main League (now 16 points for a win) and the Challenges (now 12 points each), which allows greater freedom in scaling the Virtual League points. This doesn't change the weightings of any aspect of the competition, it simply avoids creating fractional league points which might have otherwise been needed.
 
