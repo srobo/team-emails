@@ -13,22 +13,6 @@ We have a few updates and reminders for you:
 * The second [Challenge submission deadline][challenge-deadline] is later this month
 * The [Virtual League][virtual-league] is coming up in February, and we have published a rules update clarifying how virtual league points are scaled
 
-## Second Challenge Deadline
-
-The [Challenges][challenges] offer stepping stones towards building your robot as well as allowing teams to collect valuable league points ahead of the competition. There are three Challenges which can be approached in any order.
-
-The second challenge deadline is coming up on Saturday **15th January 2025** at **6pm** UK time. Your team can submit any of the challenges by this time to earn league points for each they haven't already completed.
-
-There is one further submission deadline later in the year, though nothing stops your team getting all their submissions in sooner than that.
-
-## Virtual League
-
-Coming up in February, the [Virtual League][virtual-league] will be the first league matches of the competition. Run in the simulator, teams will pit their code against each other to score points. Teams must [submit their code][code-submitter-docs] by Thursday **6th February 2025** at **6pm** UK time and we'll be [livestreaming][virtual-league-livestream] the Virtual League from 1pm UK time on Saturday 8th.
-
-There will be four appearances per team in the Virtual League, with each Virtual League match being worth half a Main League match.
-To allow for this the [rules][rulebook] have been updated to double the unscaled league points on offer from the Main League (now 16 points for a win) and the Challenges (now 12 points each).
-This preserves the relative value of each aspect of the competition, as the rules had previously noted that league points from the Virtual League would be worth around a quarter of those for the league stage of the competition.
-
 ## Tech Days
 
 [Tech Days][tech-days] are opportunities for teams to spend a whole day working on their robot with lots of help available -- from a mix of long-experienced volunteers and more recent ex-competitors. They're also an opportunity to see how other teams are doing or get more direct help with your robots.
@@ -45,6 +29,22 @@ If you're interested in attending any of these events, please **[sign up to Tech
 Volunteers may also be around virtually on these days for support, should you not be able to attend any events in person.
 
 For the January tech day, the deadline is Friday 17th January 2025 for you to [let us know][tech-day-signup] that you'd like to attend.
+
+## Second Challenge Deadline
+
+The [Challenges][challenges] offer stepping stones towards building your robot as well as allowing teams to collect valuable league points ahead of the competition. There are three Challenges which can be approached in any order.
+
+The second challenge deadline is coming up on Saturday **15th January 2025** at **6pm** UK time. Your team can submit any of the challenges by this time to earn league points for each they haven't already completed.
+
+There is one further submission deadline later in the year, though nothing stops your team getting all their submissions in sooner than that.
+
+## Virtual League
+
+Coming up in February, the [Virtual League][virtual-league] will be the first league matches of the competition. Run in the simulator, teams will pit their code against each other to score points. Teams must [submit their code][code-submitter-docs] by Thursday **6th February 2025** at **6pm** UK time and we'll be [livestreaming][virtual-league-livestream] the Virtual League from 1pm UK time on Saturday 8th.
+
+There will be four appearances per team in the Virtual League, with each Virtual League match being worth half a Main League match.
+To allow for this the [rules][rulebook] have been updated to double the unscaled league points on offer from the Main League (now 16 points for a win) and the Challenges (now 12 points each).
+This preserves the relative value of each aspect of the competition, as the rules had previously noted that league points from the Virtual League would be worth around a quarter of those for the league stage of the competition.
 
 -- Student Robotics
 
