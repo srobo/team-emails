@@ -11,7 +11,7 @@ Remember the second [challenge](https://studentrobotics.org/docs/resources/2025/
 
 Next up, the virtual league will be taking place in a couple of weeks. The deadline to submit code is **Thursday 6th February** at **6pm** and the livestream will start at 1pm on Saturday 8th February.
 
-We have two more tech days coming up in a few weeks:
+To prepare for  the competition, we have two more tech days coming up in a few weeks:
 * [**15th February 2025** - at Red River Software in Horsham](https://studentrobotics.org/events/sr2025/horsham-tech-day-february)
 * [**8th March 2025** - at Raspberry Pi Foundation in Cambridge](https://studentrobotics.org/events/sr2025/cambridge-tech-day-march)
 
