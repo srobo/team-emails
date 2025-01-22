@@ -7,7 +7,7 @@ Hi,
 
 We are happy to confirm that [Student Robotics 2025](https://studentrobotics.org/events/sr2025/competition/) will be taking place on **Saturday 12th April to Sunday 13th April** at the University of Southampton Students' Union! We apologise for the delay. The doors will open at **9am** on both days, with the first league matches starting at **11am** on Saturday. Both Saturday and Sunday will have league matches with no teams being eliminated before the Double Elimination Knockout on Sunday afternoon.
 
-Remember the second [challenge](https://studentrobotics.org/docs/resources/2025/challenges.html) deadline is this **Saturday 25th January** at **6pm**.
+But don't forget, the second [challenge](https://studentrobotics.org/docs/resources/2025/challenges.html) deadline is this **Saturday 25th January** at **6pm**.
 
 Next up, the virtual league will be taking place in a couple of weeks. The deadline to submit code is **Thursday 6th February** at **6pm** and the livestream will start at 1pm on Saturday 8th February.
 
