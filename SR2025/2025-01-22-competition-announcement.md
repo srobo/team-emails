@@ -9,7 +9,7 @@ We are happy to confirm that [Student Robotics 2025](https://studentrobotics.org
 
 Remember the second [challenge](https://studentrobotics.org/docs/resources/2025/challenges.html) deadline is this **Saturday 25th January** at **6pm**.
 
-The virtual league will be taking place in a couple of weeks. The deadline to submit code is **Thursday 6th February** at **6pm** and the livestream will start at 1pm on Saturday 8th February.
+Next up, the virtual league will be taking place in a couple of weeks. The deadline to submit code is **Thursday 6th February** at **6pm** and the livestream will start at 1pm on Saturday 8th February.
 
 We have two more tech days coming up in a few weeks:
 * [**15th February 2025** - at Red River Software in Horsham](https://studentrobotics.org/events/sr2025/horsham-tech-day-february)
