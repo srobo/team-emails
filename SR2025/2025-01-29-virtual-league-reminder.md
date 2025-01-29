@@ -14,8 +14,8 @@ The [Virtual League][virtual-league] is the first stage of the SR2025 league.
 This is the first test of your team's coding skills, pushing their virtual robot
 to the limit, competing against other teams in a virtual arena and offering
 valuable experience in real matches. Points earned in the Virtual League are
-part of the main league, so they could make all the difference at the
-physical league.
+part of the overall league, so they could make all the difference at the
+physical competition.
 
 Your team must submit their code **two days before**, by 6pm GMT on Thursday 6th
 February via the code submitter: <https://studentrobotics.org/code-submitter/>.
