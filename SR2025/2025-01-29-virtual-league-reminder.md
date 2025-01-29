@@ -19,9 +19,9 @@ physical league.
 
 Your team must submit their code **two days before**, by 6pm GMT on Thursday 6th
 February via the code submitter: <https://studentrobotics.org/code-submitter/>.
-Your team can login using your three letter acronym ({TLA}) as the
+Your team can login using your three letter acronym (`{TLA}`) as the
 username and the password is the same as the password your team used to enter
-Discord: `{DiscordPassword}`.
+Discord: `{DiscordPassword}`. Both the username and password are case sensitive.
 
 Code should be [submitted][code-submitter-docs] as a *zip archive* containing at
 least a `robot.py` file in the root of the archive. Your team can make as many
