@@ -42,6 +42,7 @@ a [livestream][virtual-league-livestream] on our YouTube channel.
 
 As a reminder, we also have a Tech Day coming up shortly after the Virtual League.
 This is in Horsham on [**Saturday 15th February**][horsham-tech-day-february].
+Space is limited at this venue, so be sure to sign up soon if you're interested.
 
 [Tech Days][tech-days] are opportunities for teams to spend a whole day working on their robot with lots of help available -- from a mix of long-experienced volunteers and more recent ex-competitors. They're also an opportunity to see how other teams are doing or get more direct help with your robots.
 
