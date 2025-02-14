@@ -13,7 +13,7 @@ Among the regulations already present in the rules, this update additionally req
 
 We recommend familiarising yourself with the safety regulations, and ensuring your robot conforms, to avoid needing to make drastic changes at the competition.
 
-The exact wording for these new regulations can be found in the [rulebook][rulebook]. If you or your team ave any questions, please reach out either through Discord or by replying to this email.
+The exact wording for these new regulations can be found in the [rulebook][rulebook]. If you or your team have any questions, please reach out either through Discord or by replying to this email.
 
 Thanks,
 
