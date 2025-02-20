@@ -21,7 +21,7 @@ There is one final Tech Day left this year, on [**8th March 2025** - at Raspberr
 There are still plenty of spaces available, so if you're interested in attending please **[sign up][tech-day-signup]**.
 Volunteers may also be around virtually for support, should you not be able to attend the Tech Day in person.
 
-For this Tech Day, the deadline is Friday 28th February 2025 for you to [let us know][tech-day-signup] that you'd like to attend.
+For this Tech Day, the deadline for you to [let us know][tech-day-signup] that you'd like to attend is Friday 28th February 2025.
 
 ## Competition
 
