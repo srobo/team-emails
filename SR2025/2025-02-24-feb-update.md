@@ -50,7 +50,7 @@ Please make sure you are familiar with both our [design rules][design-rules] and
 We're working hard getting the event ready for you.
 In order for us to cement our plans, we need to know roughly how large your team is and whether there are any special considerations we need to take for anyone who is coming.
 We understand you might not know exact details right now, so vague guesses are absolutely fine for now!
-You'll be able to edit your response until our shortly before the competition, after which point please [email us][teams-email] if anything changes.
+You'll be able to edit your response until the end of March, after which point please [email us][teams-email] if anything changes.
 
 Please **[fill out your team details][competition-rsvp]** this week.
 
