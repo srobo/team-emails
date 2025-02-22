@@ -8,7 +8,7 @@ Hi,
 With the competition on the horizon we have a few updates and reminders for you:
 
 * The final [Tech Day][tech-days] of the year is in Cambridge, [on 8th March][cambridge-tech-day-march]
-* The [Competition][programme-competition] is under two months away
+* Please [confirm your attendance][competition-rsvp] at the [Competition][programme-competition]
 
 ## Cambridge Tech Day
 
@@ -43,7 +43,14 @@ This not only confirms that the robot satisfies our safety regulations, but also
 Some considerations are that the battery is well protected, the power button is accessible and that you have a way to mount the flag which will identify your robot during matches.
 Please make sure you are familiar with both our [design rules][design-rules] and [safety regulations][safety-regulations] which contain the full details.
 
-We'll be sending out a dedicated email with further details for attendance at the competition, including collecting information about the team you intend to bring, in the coming weeks.
+We're working hard getting the event ready for you.
+In order for us to cement our plans, we need to know roughly how large your team is and whether there are any special considerations we need to take for anyone who is coming.
+We understand you might not know exact details right now, so vague guesses are absolutely fine for now!
+You'll be able to edit your response until our shortly before the competition, after which point please email us if anything changes.
+
+Please [fill out your team details][competition-rsvp] this week.
+
+We'll be sending out a dedicated email with further details for attendance at the competition in the coming weeks.
 
 -- Student Robotics
 
@@ -52,6 +59,7 @@ We'll be sending out a dedicated email with further details for attendance at th
 [tech-days]: https://studentrobotics.org/docs/robots_101/tech_days
 [tech-day-signup]: https://forms.gle/SpZnqpUAaRbxwy2C9
 [programme-competition]: https://studentrobotics.org/docs/robots_101/programme_structure#competition
+[competition-rsvp]: https://forms.gle/TTWgDCKS2hWcEUSE8
 [competition-event]: https://studentrobotics.org/events/sr2025/competition/
 [competition-risk-assessment]: https://studentrobotics.org/resources/sr2025/risk-assessments/SR2025-Competition-Risk-Assessment.pdf
 [safety-regulations]: https://studentrobotics.org/docs/resources/2025/rulebook.html#safety-regulations
