@@ -31,8 +31,9 @@ This year the competition is being held at the University of Southampton on the 
 Your robot will compete in a number of league matches, used to seed the knockout stages, as well as having time to make improvements.
 You will have a pit area where you can work on improving your robot and there will be lots of Blueshirt volunteers around to support your team.
 
-If you haven't already done so now is a good time to plan your trip, including travel and accommodation for the weekend, and consider any paperwork which your institution may require.
-If you require a risk assessment for the event, please reach out and we will be happy to provide one.
+We realise organising these kinds of events can be complex for your institution, especially regarding travel and accommodation.
+To aid with the aspects within the venue we have prepared a [risk assessment][competition-risk-assessment] for the event itself.
+Please reach out if there's any additional information we can provide to make this easier.
 
 Guests are welcome in person at the competition and we'll be livestreaming the event so people can follow along at home.
 For those attending in person, the most exciting matches are usually those in the Knockouts on the Sunday afternoon.
@@ -52,5 +53,6 @@ We'll be sending out a dedicated email with further details for attendance at th
 [tech-day-signup]: https://forms.gle/SpZnqpUAaRbxwy2C9
 [programme-competition]: https://studentrobotics.org/docs/robots_101/programme_structure#competition
 [competition-event]: https://studentrobotics.org/events/sr2025/competition/
+[competition-risk-assessment]: https://studentrobotics.org/resources/sr2025/risk-assessments/SR2025-Competition-Risk-Assessment.pdf
 [safety-regulations]: https://studentrobotics.org/docs/resources/2025/rulebook.html#safety-regulations
 [design-rules]: https://studentrobotics.org/docs/resources/2025/rulebook.html#design-rules
