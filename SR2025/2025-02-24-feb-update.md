@@ -28,6 +28,8 @@ For this Tech Day, the deadline for you to [let us know][tech-day-signup] that y
 As you are hopefully aware, the [Competition][programme-competition] is a two day event and is the culmination of all your team's hard work over the past six months.
 This year the competition is being held at the University of Southampton on the weekend of [**Saturday 12th April** and **Sunday 13th April**][competition-event].
 
+### Helping you plan
+
 Your robot will compete in a number of league matches, used to seed the knockout stages, as well as having time to make improvements.
 You will have a pit area where you can work on improving your robot and there will be lots of Blueshirt volunteers around to support your team.
 
@@ -43,14 +45,19 @@ This not only confirms that the robot satisfies our safety regulations, but also
 Some considerations are that the battery is well protected, the power button is accessible and that you have a way to mount the flag which will identify your robot during matches.
 Please make sure you are familiar with both our [design rules][design-rules] and [safety regulations][safety-regulations] which contain the full details.
 
+### Helping us plan
+
 We're working hard getting the event ready for you.
 In order for us to cement our plans, we need to know roughly how large your team is and whether there are any special considerations we need to take for anyone who is coming.
 We understand you might not know exact details right now, so vague guesses are absolutely fine for now!
 You'll be able to edit your response until our shortly before the competition, after which point please email us if anything changes.
 
-Please [fill out your team details][competition-rsvp] this week.
+Please **[fill out your team details][competition-rsvp]** this week.
 
-We'll be sending out a dedicated email with further details for attendance at the competition in the coming weeks.
+### Further details
+
+We'll be sending out a dedicated email with further details about the competition in the coming weeks.
+In the meanwhile, if you have any questions or concerns feel free to [email us][teams-email].
 
 -- Student Robotics
 
@@ -64,3 +71,4 @@ We'll be sending out a dedicated email with further details for attendance at th
 [competition-risk-assessment]: https://studentrobotics.org/resources/sr2025/risk-assessments/SR2025-Competition-Risk-Assessment.pdf
 [safety-regulations]: https://studentrobotics.org/docs/resources/2025/rulebook.html#safety-regulations
 [design-rules]: https://studentrobotics.org/docs/resources/2025/rulebook.html#design-rules
+[teams-email]: mailto: teams@studentrobotics.org
