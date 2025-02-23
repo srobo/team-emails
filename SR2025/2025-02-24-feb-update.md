@@ -71,4 +71,4 @@ In the meanwhile, if you have any questions or concerns feel free to [email us][
 [competition-risk-assessment]: https://studentrobotics.org/resources/sr2025/risk-assessments/SR2025-Competition-Risk-Assessment.pdf
 [safety-regulations]: https://studentrobotics.org/docs/resources/2025/rulebook.html#safety-regulations
 [design-rules]: https://studentrobotics.org/docs/resources/2025/rulebook.html#design-rules
-[teams-email]: mailto: teams@studentrobotics.org
+[teams-email]: mailto:teams@studentrobotics.org
