@@ -14,7 +14,7 @@ We understand you might not know the exact number of team members who will atten
 As ever if your team would like more help & support please do let us know.
 Most teams make a lot of progress as the competition nears, as well as at the event itself, so don't worry if it seems your team still has a lot to do!
 
-Thanks,
--- SR Competition Team
+Thanks,\
+-- Student Robotics
 
 [competition-event]: https://studentrobotics.org/events/sr2025/competition
