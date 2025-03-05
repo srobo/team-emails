@@ -1,6 +1,6 @@
 ---
 to: SR2025 teams who haven't RSVP'd
-subject: "Re: SR2025 February Update"
+subject: "SR2025 attendance followup"
 ---
 
 Hi,
