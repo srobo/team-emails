@@ -1,5 +1,14 @@
 #!/usr/bin/env python3
 
+"""
+Script for sending emails to teams.
+
+This supports:
+ - rendering the markdown to HTML
+ - CCing secondary contacts where asked
+ - personalising the email content based on Python format string style placeholders
+"""
+
 import argparse
 import csv
 import dataclasses
@@ -131,7 +140,10 @@ def main(args: argparse.Namespace) -> None:
 
 
 def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(
+        description=__doc__,
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+    )
     parser.add_argument('template', type=Path)
     parser.add_argument('teams_csv', type=Path)
     parser.add_argument(
