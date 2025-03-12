@@ -65,7 +65,7 @@ We look forward to seeing you all at the competition!
 [attendace-details]: https://forms.gle/8YhfdRbfDWP3KKNy8
 [competition-event-page]: https://studentrobotics.org/events/sr2024/competition/
 [competition-event-page-livestream]: https://studentrobotics.org/events/sr2024/competition/#livestream
-[push-fit-couplers]: https://www.screwfix.com/p/jg-speedfit-plastic-push-fit-equal-tees-15mm-5-pack/74470
+[push-fit-couplers]: https://www.screwfix.com/p/jg-speedfit-plastic-push-fit-equal-tee-15mm/50422
 [robot-attributes]: https://studentrobotics.org/docs/programming/robot_api/#other-robot-attributes
 [safety-regulations]: https://studentrobotics.org/docs/rules/safety_regulations
 [rules]: https://studentrobotics.org/docs/rules/
