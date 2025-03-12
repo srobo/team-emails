@@ -10,6 +10,13 @@ It's just under a month until the big day - [the Competition][competition-event-
 
 Before then, we have a few important updates and reminders for you:
 
+## Event overview
+
+The [Competition][programme-competition] is a two day event and is the culmination of all your team's hard work over the past six months.
+As you are hopefully aware, this year the competition is being held at the University of Southampton on the weekend of [**Saturday 12th April** and **Sunday 13th April**][competition-event-page].
+
+Your robot will compete in a number of league matches, used to seed the knockout stages, as well as having time to make improvements.
+
 ## Attendance details
 
 Thanks to everyone who has already provided their attendance details. If you haven't done that yet, or things have changed substantially please [provide attendance details][attendace-details].
@@ -65,6 +72,7 @@ We look forward to seeing you all at the competition!
 
 -- Student Robotics
 
+[programme-competition]: https://studentrobotics.org/docs/robots_101/programme_structure#competition
 [attendace-details]: https://forms.gle/TTWgDCKS2hWcEUSE8
 [competition-event-page]: https://studentrobotics.org/events/sr2025/competition/
 [competition-event-page-livestream]: https://studentrobotics.org/events/sr2025/competition/#livestream
