@@ -29,7 +29,7 @@ If you have any issues on the day before you arrive, we'll be monitoring the `te
 If you have any issues before you get to the venue each day, you can contact us on `+44 7732 300377`.
 Within the venue however, please direct queries to Helpdesk instead -- they'll be able to provide more immediate help.
 
-## Photos & Videos
+## Photos & videos
 
 Throughout the competition, Student Robotics volunteers will be taking photos and videos for the purpose of prompting and marketing the charity. The arena will also be [livestreamed][competition-event-page-livestream] on our YouTube channel. Unlike previous competitions, we will not be issuing Media Consent forms.
 
