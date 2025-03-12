@@ -63,7 +63,7 @@ If you have any other questions or concerns, please don't hesitate to get in tou
 
 We look forward to seeing you all at the competition!
 
--- SR Competition Team
+-- Student Robotics
 
 [attendace-details]: https://forms.gle/TTWgDCKS2hWcEUSE8
 [competition-event-page]: https://studentrobotics.org/events/sr2025/competition/
