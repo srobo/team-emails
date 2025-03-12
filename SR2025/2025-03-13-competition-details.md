@@ -73,7 +73,7 @@ At the Competition, all robots undergo a safety check. This not only confirms th
 - Ensure your battery is protected, ideally housed in its own rigid container.
 - Make sure you have a way to mount the flag. We may have a few spare mounts, but please do not rely on this. [Plastic push-fit couplers][push-fit-couplers] work well for this.
 - Make sure your robot fits inside the size constraints. If it doesn't, it will have a meeting with the _saw of shame_.
-- Make sure there are 2 spare USB ports: 1 for your code, and 1 for our "Competition USB". This Competition USB tells your robot that it's [in the Competition][competition-mode] and which corner it's starting in (and thus populates the [`robot.zone` property][robot-attributes]). You will not be able to compete without this.
+- Make sure there are 2 spare USB ports: 1 for your code, and 1 for our "Competition USB". This Competition USB tells your robot that it's [at the Competition][competition-mode] and which corner it's starting in (and thus populates the [`robot.zone` property][robot-attributes]). You will not be able to compete without this.
 
 All of these and more can be found in our [safety regulations][safety-regulations] and [design rules][design-rules].
 
