@@ -10,6 +10,11 @@ It's just under a month until the big day - [the Competition][competition-event-
 
 Before then, we have a few important updates and reminders for you:
 
+- If you expect to arrive after **9:45am** on Saturday, please let us know
+- We will be taking **photos and video** throughout the event, if you would prefer not to appear in these please make this known to reception when you arrive
+- Please ensure you **bring your entire robotics kit** and all equipment & materials you may need to work on your robot
+- Be sure to **check the [rules][rules]** and ensure your robot is safe to avoid any last minute surprises
+
 ## Event overview
 
 The [Competition][programme-competition] is a two day event and is the culmination of all your team's hard work over the past six months.
@@ -48,7 +53,7 @@ Please ensure that your team brings at least one laptop or appropriate device wi
 
 Any tools that your team requires to modify their robot must be brought to the competition by the team: we cannot provide any. In particular, the use of any dangerous tools must be supervised by the responsible adult for the team. Power tools may only be used in the designated "Power Tools" area.
 
-You must bring all of the robotics kit (including the white box it came in) to the competition, so that we can collect it at the end of the event. We'll be taking both your batteries, the battery charger and battery bag off you when you arrive, so please make sure those are easily accessible. A list of the kit to return is attached to this email.
+You must **bring all of the robotics kit** (including the white box it came in) to the competition, so that we can collect it at the end of the event. We'll be taking both your batteries, the battery charger and battery bag off you when you arrive, so please make sure those are easily accessible. A list of the kit to return is attached to this email.
 
 Teams will be each allocated a _Pit_ -- an area of the venue to work in, with a table to work on and mains outlets. There will also be a _Test Arena_ -- a full size mock arena where teams can test their robots. You will also be able to book _Tinker Time_ slots to test your robot in the real arena.
 
@@ -73,6 +78,7 @@ We look forward to seeing you all at the competition!
 -- Student Robotics
 
 [programme-competition]: https://studentrobotics.org/docs/robots_101/programme_structure#competition
+[rules]: https://studentrobotics.org/docs/rules/
 [attendace-details]: https://forms.gle/TTWgDCKS2hWcEUSE8
 [competition-event-page]: https://studentrobotics.org/events/sr2025/competition/
 [competition-event-page-livestream]: https://studentrobotics.org/events/sr2025/competition/#livestream
