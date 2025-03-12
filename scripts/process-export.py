@@ -4,6 +4,14 @@
 Script for processing an exported CSV from the "Combined" tab of the current
 year's "Teams Organisation (internal)" spreadsheet for use in emailing teams.
 
+The key changes which this makes are:
+ * converting headings into PascalCase so they can be used as placeholders for
+   Python format strings (e.g: "Phone Number" -> "PhoneNumber")
+ * merging the top meta-header row into the second header row, adjusting the
+   headings so they have unique names; e.g: "Supervisor" above "Name" becomes
+   "PrimaryName", "Secondary Contact" above "Name" becomes "SecondaryName"
+ * removing dropped out teams and empty rows
+
 Outputs to standard output, typical usage is to redirect that to a file.
 """
 
