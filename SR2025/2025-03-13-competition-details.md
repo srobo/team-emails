@@ -12,7 +12,7 @@ Before then, we have a few important updates and reminders for you:
 
 ## Attendance details
 
-Thanks to everyone who has already provided their attendance details. If you haven't done that yet, or things have changed substantially please [provide attendance details](https://forms.gle/8YhfdRbfDWP3KKNy8).
+Thanks to everyone who has already provided their attendance details. If you haven't done that yet, or things have changed substantially please [provide attendance details][attendace-details].
 
 Doors open on both days at 9am and each day will finish around 5:30pm. The event will formally start at 10:30am on Saturday. There are now full day schedules on the [event page][competition-event-page]. **If you are expecting to arrive after 10am on Saturday, please let us know.**
 
@@ -28,7 +28,7 @@ Within the venue however, please direct queries to Helpdesk instead -- they'll b
 
 ## Photos & Videos
 
-Throughout the competition, Student Robotics volunteers will be taking photos and videos for the purpose of prompting and marketing the charity. The arena will also be [livestreamed](https://studentrobotics.org/events/sr2024/competition/#livestream) on our YouTube channel. Unlike previous competitions, we will not be issuing Media Consent forms.
+Throughout the competition, Student Robotics volunteers will be taking photos and videos for the purpose of prompting and marketing the charity. The arena will also be [livestreamed][competition-event-page-livestream] on our YouTube channel. Unlike previous competitions, we will not be issuing Media Consent forms.
 
 If you or your competitors would not like to appear in our photos and videos, please let our reception desk know when you arrive.
 
@@ -48,11 +48,11 @@ At the competition, all robots undergo a safety check. This not only confirms th
 
 - Please make sure the power button is obvious and easily accessible. In the event of an issue in the arena, we don't want to be hunting for the switch as we try and quickly turn off your robot.
 - Ensure your battery is protected, ideally housed in its own rigid container.
-- Make sure you have a way to mount the flag. We may have a few spare mounts, but please do not rely on this. [Plastic push-fit couplers](https://www.screwfix.com/p/jg-speedfit-plastic-push-fit-equal-tees-15mm-5-pack/74470) work well for this.
+- Make sure you have a way to mount the flag. We may have a few spare mounts, but please do not rely on this. [Plastic push-fit couplers][push-fit-couplers] work well for this.
 - Make sure your robot fits inside the size constraints. If it doesn't, it will have a meeting with the _saw of shame_.
-- Make sure there are 2 spare USB ports: 1 for your code, and 1 for our "Competition USB". This Competition USB tells your robot that it's in the competition and which corner it's starting in (and thus populates the [`robot.zone` property](https://studentrobotics.org/docs/programming/robot_api/#other-robot-attributes)). You will not be able to compete without this.
+- Make sure there are 2 spare USB ports: 1 for your code, and 1 for our "Competition USB". This Competition USB tells your robot that it's in the competition and which corner it's starting in (and thus populates the [`robot.zone` property][robot-attributes]). You will not be able to compete without this.
 
-All of these and more can be found in our [safety regulations](https://studentrobotics.org/docs/kit/safety-regulations) and [rules](https://studentrobotics.org/rules).
+All of these and more can be found in our [safety regulations][safety-regulations] and [rules][rules].
 
 ## Conclusion
 
@@ -62,4 +62,10 @@ We look forward to seeing you all at the competition!
 
 -- SR Competition Team
 
+[attendace-details]: https://forms.gle/8YhfdRbfDWP3KKNy8
 [competition-event-page]: https://studentrobotics.org/events/sr2024/competition/
+[competition-event-page-livestream]: https://studentrobotics.org/events/sr2024/competition/#livestream
+[push-fit-couplers]: https://www.screwfix.com/p/jg-speedfit-plastic-push-fit-equal-tees-15mm-5-pack/74470
+[robot-attributes]: https://studentrobotics.org/docs/programming/robot_api/#other-robot-attributes
+[safety-regulations]: https://studentrobotics.org/docs/kit/safety-regulations
+[rules]: https://studentrobotics.org/rules
