@@ -1,12 +1,12 @@
 ---
-to: Student Robotics 2024
-subject: SR2024 Competition Details
-attachment: https://drive.google.com/file/d/1JQG_IKOtnvEUPSob1XWTma55FHRK_r4o/view
+to: Student Robotics 2025
+subject: SR2025 Competition Details
+attachment: "TODO!!: link to kit return list"
 ---
 
 Hello everyone!
 
-It's just under a month until the big day - [the competition][competition-event-page]!
+It's just under a month until the big day - [the Competition][competition-event-page]!
 
 Before then, we have a few important updates and reminders for you:
 
@@ -14,7 +14,7 @@ Before then, we have a few important updates and reminders for you:
 
 Thanks to everyone who has already provided their attendance details. If you haven't done that yet, or things have changed substantially please [provide attendance details][attendace-details].
 
-Doors open on both days at 9am and each day will finish around 5:30pm. The event will formally start at 10:30am on Saturday. There are now full day schedules on the [event page][competition-event-page]. **If you are expecting to arrive after 10am on Saturday, please let us know.**
+Doors open on both days at 9am and each day will finish around 5pm. The event will formally start at 10am on Saturday. There are now full day schedules on the [event page][competition-event-page]. **If you are expecting to arrive after 9:45am on Saturday, please let us know.**
 
 You'll have access to your pits and the test arena when you arrive, giving your team time to work on their robot before things get going in earnest.
 Throughout the weekend there will be plenty of volunteers around to help with your robots, prompt you to go to matches and ensure you have a good time.
@@ -24,6 +24,7 @@ The event is open to the public, so you're welcome to bring family and friends a
 We'll be providing rules for behaviour in/around the competition venue when you arrive. If you have any questions or concerns beforehand, please let us know.
 
 If you have any issues on the day before you arrive, we'll be monitoring the `teams@` email address and our Discord server.
+If you have any issues before you get to the venue each day, you can contact us on `+44 7732 300377`.
 Within the venue however, please direct queries to Helpdesk instead -- they'll be able to provide more immediate help.
 
 ## Photos & Videos
@@ -52,7 +53,7 @@ At the competition, all robots undergo a safety check. This not only confirms th
 - Make sure your robot fits inside the size constraints. If it doesn't, it will have a meeting with the _saw of shame_.
 - Make sure there are 2 spare USB ports: 1 for your code, and 1 for our "Competition USB". This Competition USB tells your robot that it's in the competition and which corner it's starting in (and thus populates the [`robot.zone` property][robot-attributes]). You will not be able to compete without this.
 
-All of these and more can be found in our [safety regulations][safety-regulations] and [rules][rules].
+All of these and more can be found in our [safety regulations][safety-regulations] and [design rules][design-rules].
 
 ## Conclusion
 
@@ -62,10 +63,10 @@ We look forward to seeing you all at the competition!
 
 -- SR Competition Team
 
-[attendace-details]: https://forms.gle/8YhfdRbfDWP3KKNy8
-[competition-event-page]: https://studentrobotics.org/events/sr2024/competition/
-[competition-event-page-livestream]: https://studentrobotics.org/events/sr2024/competition/#livestream
+[attendace-details]: https://forms.gle/TTWgDCKS2hWcEUSE8
+[competition-event-page]: https://studentrobotics.org/events/sr2025/competition/
+[competition-event-page-livestream]: https://studentrobotics.org/events/sr2025/competition/#livestream
 [push-fit-couplers]: https://www.screwfix.com/p/jg-speedfit-plastic-push-fit-equal-tee-15mm/50422
 [robot-attributes]: https://studentrobotics.org/docs/programming/robot_api/#other-robot-attributes
-[safety-regulations]: https://studentrobotics.org/docs/rules/safety_regulations
-[rules]: https://studentrobotics.org/docs/rules/
+[safety-regulations]: https://studentrobotics.org/docs/resources/2025/rulebook.html#safety-regulations
+[design-rules]: https://studentrobotics.org/docs/resources/2025/rulebook.html#design-rules
