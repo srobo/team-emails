@@ -10,6 +10,8 @@ It's just under a month until the big day - [the Competition][competition-event-
 
 Before then, we have a few important updates and reminders for you:
 
+## Highlights
+
 - If you expect to arrive after **9:45am** on Saturday, please let us know
 - We will be taking **photos and video** throughout the event, if you would prefer not to appear in these please make this known to reception when you arrive
 - Please ensure you **bring your entire robotics kit** and all equipment & materials you may need to work on your robot
