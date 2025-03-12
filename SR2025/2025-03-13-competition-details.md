@@ -23,6 +23,8 @@ The event is open to the public, so you're welcome to bring family and friends a
 
 We'll be providing rules for behaviour in/around the competition venue when you arrive. If you have any questions or concerns beforehand, please let us know.
 
+As with all our events, competitors must be accompanied by a supervisor at the Competition.
+
 If you have any issues on the day before you arrive, we'll be monitoring the `teams@` email address and our Discord server.
 If you have any issues before you get to the venue each day, you can contact us on `+44 7732 300377`.
 Within the venue however, please direct queries to Helpdesk instead -- they'll be able to provide more immediate help.
