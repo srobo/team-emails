@@ -12,6 +12,7 @@ Before then, we have a few important updates and reminders for you:
 
 ## Highlights
 
+- The Competition is a two day event, from Saturday morning until the finals on Sunday afternoon
 - If you expect to arrive after **9:45am** on Saturday, please let us know
 - We will be taking **photos and video** throughout the event, if you would prefer not to appear in these please make this known to reception when you arrive
 - Please ensure you **bring your entire robotics kit** and all equipment & materials you may need to work on your robot
@@ -33,7 +34,12 @@ Doors open on both days at 9am and each day will finish around 5pm. The event wi
 You'll have access to your pits and the test arena when you arrive, giving your team time to work on their robot before things get going in earnest.
 Throughout the weekend there will be plenty of volunteers around to help with your robots, prompt you to go to matches and ensure you have a good time.
 
+We realise organising these kinds of events can be complex for your institution, especially regarding travel and accommodation.
+To aid with the aspects within the venue we have prepared a [risk assessment][competition-risk-assessment] for the event itself.
+Please reach out if there's any additional information we can provide to make this easier.
+
 The event is open to the public, so you're welcome to bring family and friends as guests. However please note that space in the venue is limited, especially in the pits.
+For those attending in person, the most exciting matches are usually those in the Knockouts on the Sunday afternoon.
 
 We'll be providing rules for behaviour in/around the competition venue when you arrive. If you have any questions or concerns beforehand, please let us know.
 
@@ -83,6 +89,7 @@ We look forward to seeing you all at the competition!
 [rules]: https://studentrobotics.org/docs/rules/
 [attendace-details]: https://forms.gle/TTWgDCKS2hWcEUSE8
 [competition-event-page]: https://studentrobotics.org/events/sr2025/competition/
+[competition-risk-assessment]: https://studentrobotics.org/resources/sr2025/risk-assessments/SR2025-Competition-Risk-Assessment.pdf
 [competition-event-page-livestream]: https://studentrobotics.org/events/sr2025/competition/#livestream
 [push-fit-couplers]: https://www.screwfix.com/p/jg-speedfit-plastic-push-fit-equal-tee-15mm/50422
 [competition-mode]: https://studentrobotics.org/docs/programming/robot_api/comp_mode
