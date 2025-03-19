@@ -91,7 +91,7 @@ We look forward to seeing you all at the Competition!
 [competition-event-page]: https://studentrobotics.org/events/sr2025/competition/
 [competition-risk-assessment]: https://studentrobotics.org/resources/sr2025/risk-assessments/SR2025-Competition-Risk-Assessment.pdf
 [competition-event-page-livestream]: https://studentrobotics.org/events/sr2025/competition/#livestream
-[push-fit-couplers]: https://www.screwfix.com/p/jg-speedfit-plastic-push-fit-equal-tee-15mm/50422
+[push-fit-couplers]: https://www.screwfix.com/p/jg-speedfit-plastic-push-fit-equal-coupler-15mm/28263
 [competition-mode]: https://studentrobotics.org/docs/programming/robot_api/comp_mode
 [robot-attributes]: https://studentrobotics.org/docs/programming/robot_api/#other-robot-attributes
 [safety-regulations]: https://studentrobotics.org/docs/resources/2025/rulebook.html#safety-regulations
