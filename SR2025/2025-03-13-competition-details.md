@@ -1,7 +1,7 @@
 ---
 to: Student Robotics 2025
 subject: SR2025 Competition Details
-attachment: "TODO!!: link to kit return list"
+attachment: https://docs.google.com/document/d/1N7mYdnkpsnXOb0nHRRT2rYhcLqEnq8EndQXVNaE884E/view, as a PDF
 ---
 
 Hello everyone!
@@ -61,7 +61,7 @@ Please ensure that your team brings at least one laptop or appropriate device wi
 
 Any tools that your team requires to modify their robot must be brought to the Competition by the team: we cannot provide any. In particular, the use of any dangerous tools must be supervised by the responsible adult for the team. Power tools may only be used in the designated _Power Tools Area_.
 
-You must **bring all of the robotics kit** (including the white box it came in) to the Competition, so that we can collect it at the end of the event. We'll be taking both your batteries, the battery charger and battery bag off you when you arrive, so please make sure those are easily accessible. A list of the kit to return is attached to this email.
+You must **bring all of the robotics kit** (including the white box it came in) to the Competition, so that we can collect it at the end of the event. We'll be taking both your batteries, the battery charger and battery bag off you when you arrive, so please make sure those are easily accessible. A list of parts was included with your kit, a copy of which is attached to this email.
 
 Teams will be each allocated a _Pit_ -- an area of the venue to work in, with a table to work on and mains outlets. There will also be a _Test Arena_ -- a full size mock arena where teams can test their robots. You will also be able to book _Tinker Time_ slots to test your robot in the real arena.
 
