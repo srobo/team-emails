@@ -41,6 +41,7 @@ Please share the below short, anonymous survey with your competitors: [Send us f
 Additionally, we welcome feedback from you the supervisors too. Please fill in this survey: [Supervisor Feedback](https://forms.gle/Z4oKARtXfdrPg6kX7)
 
 Without all of your invaluable feedback we wouldn't be able to run the competition and attract new sponsors.
+Please submit any feedback by 18th May.
 
 ## Outstanding kit
 
