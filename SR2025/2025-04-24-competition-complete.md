@@ -7,7 +7,7 @@ subject: Student Robotics 2025 comes to a close
 
 Hi everyone,
 
-We'd like to thank you all for taking part in Student Robotics 2025 and making it such a successful event! An article about the competition, results, and game has been [posted on our website](https://studentrobotics.org/blog/2025-04-24-ths-win-sr2025/).
+We'd like to thank you all for taking part in Student Robotics 2025 and making it such a successful event! An article about the competition, results and game has been [posted on our website](https://studentrobotics.org/blog/2025-04-24-ths-win-sr2025/).
 
 Congratulations again to our winners:
 
