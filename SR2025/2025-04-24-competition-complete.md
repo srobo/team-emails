@@ -3,7 +3,7 @@ to: Student Robotics 2025
 subject: Student Robotics 2025 comes to a close
 ---
 
-![Competition Photo](https://studentrobotics.org/images/content/blog/sr2025/sr2025-photo.jpg)
+![The competitors from the SR2025 competition, standing in and around our arena.](https://studentrobotics.org/images/content/blog/sr2025/sr2025-photo.jpg)
 
 Hi everyone,
 
