@@ -53,7 +53,7 @@ We will be contacting you soon if our records indicate you still have some items
 
 ### Volunteering
 
-Student Robotics is powered by a collection of passionate individuals with varying skills from diverse backgrounds, many of whom are former competitors. We're all volunteers who give our spare time to make these events possible. As well as preparing the kit software & hardware for teams to use, it takes everything from event planning to fundraising, marketing to project management to make these events possible. If you know anyone who may be interested in volunteering, please ask them to sign up to be a blueshirt at [srobo.org/join](https://srobo.org/join). 
+Student Robotics is powered by a collection of passionate individuals with varying skills from diverse backgrounds, many of whom are former competitors. We're all volunteers who give our spare time to make these events possible. As well as preparing the kit software & hardware for teams to use, it takes everything from event planning to fundraising, marketing to project management to make these events possible. If you know anyone who may be interested in volunteering, please ask them to sign up to be a blueshirt at [srobo.org/join](https://srobo.org/join).
 
 ## Future Events
 
