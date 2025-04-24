@@ -1,5 +1,5 @@
 ---
-to: Student Robotics 2025, including all secondary contacts
+to: Student Robotics 2025, including all secondary contacts and primary contacts from dropped-out teams
 subject: Student Robotics 2025 comes to a close
 ---
 
