@@ -61,6 +61,6 @@ We hope to run a competition next year and see you all there. We plan to open pl
 
 In the meantime, be sure to follow us on [Instagram](https://www.instagram.com/student_robotics). If you haven't done so already, please sign up to [our general mailing list](https://studentrobotics.org/compete/), to be notified as soon as places are open.
 
-A final thank thank you for being part of Student Robotics 2025 and making it the fantastic event that it was!
+A final thank you for being part of Student Robotics 2025 and making it the fantastic event that it was!
 
 -- Student Robotics
