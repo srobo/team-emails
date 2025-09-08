@@ -25,7 +25,7 @@ of September. Places are limited, so sign up soon to avoid disappointment.
 As usual we will loan competing teams a [kit][kit] of parts to help build their
 robots. Teams can collect their kit from the Kickstart event, so they can get started straight away. If you're unable to attend in person, we aim to ship your kit to you prior to the event. In order to manage our rising costs, this year you will need to cover the cost of postage for your kit if you are not attending Kickstart in person. This will be around £15 and we will send an invoice prior to shipping your kit. We'll confirm further details about this once you've registered for the year.
 
-Further details about what to expect from the [Kickstart event][kickstart], as well as details from [last year's competition][sr2025-blog-post] can be found on our website. We soon be releasing some pre-Kickstart activities which will enable anyone to start learning about robotics and our simulator.
+Further details about what to expect from the [Kickstart event][kickstart], as well as details from [last year's competition][sr2025-blog-post] can be found on our website. We soon be releasing some pre-Kickstart activities which will enable everyone to start learning about robotics and our simulator, instructions for [setting up the simulator are available in our docs][simulator-setup].
 
 We look forward to seeing your teams,
 
@@ -40,3 +40,4 @@ Regards,
 [kickstart]: https://studentrobotics.org/events/sr2026/kickstart/
 [kit]: https://studentrobotics.org/docs/kit/
 [sr2025-blog-post]: https://studentrobotics.org/blog/2025-04-24-ths-win-sr2025/
+[simulator-setup]: https://studentrobotics.org/docs/simulator/setting_up_simulator
