@@ -31,7 +31,7 @@ We look forward to seeing your teams,
 
 Regards,
 
--- SR Competition Committee
+-- SR Committee
 
 [announcement]: https://studentrobotics.org/blog/2025-09-06-sr2026-registration-open/
 [programme-structure]: https://studentrobotics.org/docs/robots_101/programme_structure
