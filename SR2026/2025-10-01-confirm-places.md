@@ -29,7 +29,7 @@ form, please let us know so we can plan accordingly.
 As usual we will loan your team a [kit][kit] of parts to help build your robot. Since you're attending kickstart, you'll be able to collect it there. We look forward to seeing you there.
 
 At the event, you'll need to sign a Kit Disclaimer form (PDF attached). This disclaimer covers the terms and conditions
-under which you may use the kit and outlines the limits of our responsibilities. If you can read and sign it before the event, it will speed up issuing your kit.
+under which you may use the kit and outlines the limits of our responsibilities. If you can read, sign it and return before the event, it will speed up issuing your kit.
 
 {% else %}
 
@@ -50,7 +50,7 @@ up:
 
     TODO_SHIPPING_ADDRESS
 
-We will send you an email with a tracking link once your kit is on its way.
+We will send you an email with a tracking link once your kit is on its way. Disclaimers and invoices returned after Friday 31st October may result in your kit arriving after kickstart.
 
 {% endif %}
 
