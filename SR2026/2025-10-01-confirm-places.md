@@ -56,9 +56,7 @@ We will send you an email with a tracking link once your kit is on its way. Disc
 
 ## Looking ahead
 
-If your team would like to get started before Kickstart, we have prepared some [pre-Kickstart activities][pre-kickstart-activities] which
-introduce robotics and our simulator without needing the kit. If your team needs
-any assistance with these activities, please encourage them to post in Discord once it's made available.
+If your team would like to get started before Kickstart, the [simulator][simulator] is available to start playing around with, as well as the [API documentation][docs]. If your team needs any assistance with these, please encourage them to post in Discord once it's made available.
 
 At various points in the year we will have a number of "[Tech Days][tech-days]"
 at locations around the UK. These provide an opportunity for your team to get
@@ -74,5 +72,6 @@ We look forward to seeing you at Kickstart!
 [team-supervisor]: https://studentrobotics.org/docs/robots_101/team_supervisor
 [kickstart]: https://studentrobotics.org/events/sr2026/kickstart/
 [kit]: https://studentrobotics.org/docs/kit/
-[pre-kickstart-activities]: https://studentrobotics.org/docs/competitor_resources/pre_kickstart_activities
 [mailto-teams]: mailto:teams@studentrobotics.org
+[docs]: https://studentrobotics.org/docs/
+[simulator]: https://studentrobotics.org/docs/simulator/
