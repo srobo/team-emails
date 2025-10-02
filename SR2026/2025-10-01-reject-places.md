@@ -18,7 +18,7 @@ We've put you on our waiting list so if we have any early drop outs we will be
 sure to let you know. You may be able to take their place, but we cannot promise
 anything. Let us know if you don't want to be on the waiting list.
 
-If we are able to offer you a place, we'll let you know by Friday 31th October
+If we are able to offer you a place, we'll let you know by Friday 21st November
 at the latest (that's two weeks after Kickstart).
 {% endif %}
 
