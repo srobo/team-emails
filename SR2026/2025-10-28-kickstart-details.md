@@ -40,6 +40,10 @@ For lunch break: You should bring your own lunch or get food from the many shops
 * Any tools which might be useful to work with your kit, especially wire cutters and strippers
 * A laptop to work on your robot, ideally with some way of plugging in a [USB Type-A plug](https://www.viewsonic.com/library/tech/usb-c-usb-b-and-usb-a-whats-the-difference/#USB_The_Basics).
 
+## Risk assessments
+
+Risk assessments are available on [our website][risk-assessments].
+
 {% else %}
 
 As you can't attend physically, it's still a good idea to get your team together to attend virtually. We'll be [livestreaming][livestream] the game presentation from 11am and will release the microgames once the presentation is over. We'll also have volunteers available to help out with the Microgames on [Discord][discord] both on the day and for the rest of the competition year.
@@ -64,3 +68,4 @@ We look forward to seeing you at kickstart!
 [discord]: https://studentrobotics.org/docs/tutorials/discord
 [livestream]: https://www.youtube.com/watch?v=3soRikPaIjU
 [simulator]: https://studentrobotics.org/docs/simulator/
+[risk-assessments]: https://studentrobotics.org/risk-assessments/
