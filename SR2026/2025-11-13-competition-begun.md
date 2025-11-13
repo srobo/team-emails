@@ -14,7 +14,6 @@ If your team haven't already done so, the place we'd recommend they start is
 with the [simulator activities][simulator-activities] and the
 [microgames][microgames]. Please note, we have released a new version of the simulator bundles to fix a bug that prevented saving images from the camera.
 If you had previously installed the simulator, we recommend downloading the new simulator bundle from our docs.
-The simulator activities and many of the microgames can be completed without a kit.
 
 Together these introduce your team to our [documentation][docs] and
 [Discord][discord], which are key places to get information and support for
@@ -53,7 +52,7 @@ These dates are provisional, and we're working on confirming them as soon as pos
 
 ## Kits
 
-As was mentioned at Kickstart, we have had some delays with shipping kits. We can't apologise enough about this. Not only are we doing everything we can to get kits sent out as soon as possible, but we're also taking steps to ensure these issues cannot repeat in future years. We are currently aiming to have kits arrive by the 21st November, however we'll let you know as soon as kits are dispatched.
+As was mentioned at Kickstart, we have had some delays with shipping kits. We can't apologise enough about this. Not only are we doing everything we can to get kits sent out as soon as possible, but we're also taking steps to ensure these issues cannot repeat in future years. We are currently aiming to have kits arrive by the 21st November, however we'll let you know as soon as kits are dispatched. In the mean time, the [simulator activities][simulator-activities] can be completed before your kit arrives, as well as the [Simulator Challenge][rules].
 
 {% if no_disclaimer_form %}
 Before we can send your kit to you we need you to sign and return the Kit Disclaimer form we previously sent you.
