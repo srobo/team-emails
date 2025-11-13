@@ -12,8 +12,7 @@ person or [watched the livestream][livestream]. As announced at Kickstart, the g
 
 If your team haven't already done so, the place we'd recommend they start is
 with the [simulator activities][simulator-activities] and the
-[microgames][microgames]. Many of the tasks are self-evident when they're completed, however
-for some you may need to refer to the [super-secret answer sheet][microgames-answers]. Please note, we have released a new version of the simulator bundles to fix a bug that prevented saving images from the camera.
+[microgames][microgames]. Please note, we have released a new version of the simulator bundles to fix a bug that prevented saving images from the camera.
 If you had previously installed the simulator, we recommend downloading the new simulator bundle from our docs.
 
 Together these introduce your team to our [documentation][docs] and
@@ -77,7 +76,6 @@ The sooner we have the above information, the sooner we can dispatch your kit.
 [microgames]: https://studentrobotics.org/docs/competitor_resources/microgames
 [docs]: https://studentrobotics.org/docs/
 [discord]: https://studentrobotics.org/docs/tutorials/discord
-[microgames-answers]: TODO_REDACTED
 [rules]: https://studentrobotics.org/docs/rules/
 [robots-101]: https://studentrobotics.org/docs/robots_101/
 [tech-days]: https://studentrobotics.org/docs/robots_101/tech_days
