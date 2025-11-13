@@ -21,7 +21,7 @@ building their robot, as well as giving your team the basic knowledge to get
 started with the kits and their robot.
 
 If after completing the microgames your team are looking for the next step, a
-good place to go would be the [Challenges][challenges]. These are the first
+good place to go would be the [Challenges][rules]. These are the first
 opportunity to earn points in the competition and start teams building
 components which will be useful for their robot, while still being fairly
 self-contained.
