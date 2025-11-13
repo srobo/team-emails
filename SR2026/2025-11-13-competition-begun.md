@@ -14,6 +14,7 @@ If your team haven't already done so, the place we'd recommend they start is
 with the [simulator activities][simulator-activities] and the
 [microgames][microgames]. Please note, we have released a new version of the simulator bundles to fix a bug that prevented saving images from the camera.
 If you had previously installed the simulator, we recommend downloading the new simulator bundle from our docs.
+The simulator activities and many of the microgames can be completed without a kit.
 
 Together these introduce your team to our [documentation][docs] and
 [Discord][discord], which are key places to get information and support for
