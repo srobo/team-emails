@@ -35,9 +35,9 @@ working on a robot.
 As mentioned at kickstart, we'll be running a few Challenge Days (formally known as "[Tech Days][tech-days]") throughout the year.
 
 Challenge Days are opportunities for teams to spend a whole day working
-on their robot with lots of help available -- from a mix of long-experienced
+on completing [challenges][rules] with lots of help available. -- from a mix of long-experienced
 volunteers and more recent ex-competitors. They're also an opportunity to see
-how other teams are doing, get more direct help with your robots, and get much faster feedback on [Challenges][rules].
+how other teams are doing, get more direct help with your robots, discuss your strategy.
 
 We provide a space for you to work in, with power and internet access, as well
 as volunteers able to help you with your kits and hands-on guidance with your
