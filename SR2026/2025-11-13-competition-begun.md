@@ -12,7 +12,7 @@ person or [watched the livestream][livestream]. As announced at Kickstart, the g
 
 If your team haven't already done so, the place we'd recommend they start is
 with the [simulator activities][simulator-activities] and the
-[microgames]. Many of the tasks are self-evident when they're completed, however
+[microgames][microgames]. Many of the tasks are self-evident when they're completed, however
 for some you may need to refer to the [super-secret answer sheet][microgames-answers]. Please note, we have released a new version of the simulator bundles to fix a bug that prevented saving images from the camera.
 If you had previously installed the simulator, we recommend downloading the new simulator bundle from our docs.
 
