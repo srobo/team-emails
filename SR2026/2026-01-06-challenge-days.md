@@ -9,7 +9,7 @@ Hi,
 
 We provide a space for you to work in, with power and internet access, as well as volunteers able to help you with your kits and hands-on guidance with your robots. If you're fail a challenge, we'll not only explain why, but support you in resubmitting.
 
-We're planning on running 2 challenge days:
+We're planning on running 2 Challenge Days:
 
 - [**24th January 2026** - at Raspberry Pi Foundation in Cambridge](https://studentrobotics.org/events/sr2026/cambridge-challenge-day-january)
 - [**21st February 2026** - at Red River Software in Horsham](https://studentrobotics.org/events/sr2026/horsham-challenge-day-february)
