@@ -20,5 +20,5 @@ Spaces are limited at each event, so be sure to let us know soon. We will be all
 
 -- Student Robotics
 
-[challenges]: https://studentrobotics.org/docs/robots_101/tech_days
+[challenge-days]: https://studentrobotics.org/docs/robots_101/tech_days
 [challenge-signup]: https://forms.gle/ydaeuV4ckvZMWL7Z8
