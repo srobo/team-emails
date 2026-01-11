@@ -7,7 +7,7 @@ Hi,
 
 [Challenge Days][challenge-days] are opportunities for teams to spend a whole day working on completing challenges with live judging, quick feedback and the ability to iterate quickly -- assisted by a mix of long-experienced volunteers and more recent ex-competitors. They're also an opportunity to see how other teams are doing, get more direct help with your robots and discuss your strategy.
 
-We provide a space for you to work in, with power and internet access, as well as volunteers able to help you with your kits and hands-on guidance with your robots. If you're fail a challenge, we'll not only explain why, but support you in resubmitting.
+We provide a space for you to work in, with power and internet access, as well as volunteers able to help you with your kits and hands-on guidance with your robots. If you fail a challenge, we'll not only explain why, but support you in resubmitting.
 
 We're planning on running 2 Challenge Days:
 
