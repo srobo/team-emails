@@ -46,9 +46,8 @@ Doors open on both days at 9am and each day will finish around 5pm. The event wi
 You'll have access to your pits and the test arena when you arrive, giving your team time to work on their robot before things get going in earnest.
 Throughout the weekend there will be plenty of volunteers around to help with your robots, prompt you to go to matches and ensure you have a good time.
 
-We realise organising these kinds of events can be complex for your institution, especially regarding travel and accommodation.
-To aid with the aspects within the venue we have prepared a [risk assessment][competition-risk-assessment] for the event itself.
-Please reach out if there's any additional information we can provide to make this easier.
+We have prepared a [risk assessment][competition-risk-assessment] for the event.
+Please reach out if there's any additional information that you need.
 
 The event is open to the public, so you're welcome to bring family and friends as guests. However please note that space in the venue is limited, especially in the pits.
 For those attending in person, the most exciting matches are usually those in the Knockouts on the Sunday afternoon.
