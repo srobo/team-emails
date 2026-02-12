@@ -63,7 +63,7 @@ We'll send out further details about the event in the coming weeks. In the meant
 
 ## Photos & videos
 
-Throughout the Competition, Student Robotics volunteers will be taking photos and videos for the purpose of prompting and marketing the charity. The arena will also be [livestreamed][competition-event-page-livestream] on our YouTube channel.
+We'll be taking photos and videos throughout the event, and our arena will be [livestreamed][competition-event-page-livestream] on our YouTube channel.
 
 If you, your competitors or guests would not like to appear in our photos and videos, please let our reception desk know when you arrive.
 
