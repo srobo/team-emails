@@ -41,7 +41,7 @@ If your team can't make the event in April, or you are otherwise unable to conti
 
 ## Attendance details
 
-Doors open on both days at 9am and each day will finish around 5pm. The event will formally start at 10am on Saturday. There are now full day schedules on the [event page][competition-event-page]. **If you are expecting to arrive after 9:45am on Saturday, please let us know.**
+Doors open on both days at 9am and each day will finish around 5pm. The event will kick off at 10am on Saturday. There are now full day schedules on the [event page][competition-event-page]. **If you are expecting to arrive after 9:45am on Saturday, please let us know.**
 
 You'll have access to your pits and the test arena when you arrive, giving your team time to work on their robot before things get going in earnest.
 Throughout the weekend there will be plenty of volunteers around to help with your robots, prompt you to go to matches and ensure you have a good time.
