@@ -27,8 +27,6 @@ Your team are expected to attend the entire event, and must be accompanied by a 
 
 ## Team details
 
-As mentioned in a previous email, the [Student Robotics 2026 competition](https://studentrobotics.org/events/sr2026/competition/) will be taking place on **Saturday 11th April to Sunday 12th April** at the University of Southampton Students' Union.
-
 Our volunteers are working hard to get the event ready for you. To best support your team, we need to know roughly how large your team is, and whether there are any special considerations we need to take for anyone who is coming.
 
 We understand you might not know the exact number of team members who will attend, so vague guesses are absolutely fine for now! You'll be able to edit your response until our plans are finalised. If you still want to make changes after that, please send us an email and we'll see what we can do.
