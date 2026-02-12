@@ -57,6 +57,7 @@ We'll be providing rules for behaviour in/around the Competition venue when you 
 As with all our events, competitors must be accompanied by a supervisor at the Competition.
 
 If you have any issues on the day before you arrive, please contact `teams@studentrobotics.org` or message us on our Discord server.
+If you have any issues before you get to the venue each day, you can contact us on `+44 7732 300377`.
 Within the venue however, please direct queries to Helpdesk instead -- they'll be able to provide more immediate help.
 
 We'll send out further details about the event in the coming weeks. In the meantime, if you do have any questions, please don't hesitate to ask.
