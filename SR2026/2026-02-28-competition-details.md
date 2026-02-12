@@ -11,6 +11,7 @@ Before then, we have a few important updates and reminders for you:
 
 ## Highlights
 
+- Let us know what your team are working on, how you're getting on, and whether there's anything we can do to help
 - The Competition is a two day event, from Saturday morning until the finals on Sunday afternoon
 - If you expect to arrive after **9:45am** on Saturday, please let us know
 - We will be taking **photos and video** throughout the event, if you would prefer not to appear in these please make this known to reception when you arrive
@@ -26,9 +27,19 @@ Your robot will compete in a number of league matches, used to seed the knockout
 
 Your team are expected to attend the entire event, and must be accompanied by a responsible adult throughout the event.
 
-## Attendance details
+## Team details
 
-Thanks to everyone who has already provided their attendance details. If you haven't done that yet, or things have changed substantially please [provide attendance details][attendace-details].
+As mentioned in a previous email, the [Student Robotics 2026 competition](https://studentrobotics.org/events/sr2026/competition/) will be taking place on **Saturday 11th April to Sunday 12th April** at the University of Southampton Students' Union.
+
+Our volunteers are working hard to get the event ready for you. To best support your team, we need to know roughly how large your team is, and whether there are any special considerations we need to take for anyone who is coming.
+
+We understand you might not know the exact number of team members who will attend, so vague guesses are absolutely fine for now! You'll be able to edit your response until our plans are finalised. If you still want to make changes after that, please send us an email and we'll see what we can do.
+
+[Fill out your team details](https://forms.gle/9vNgYY6TY2LpYCSz8)
+
+If your team can't make the event in April, or you are otherwise unable to continue in Student Robotics, please let us know as soon as possible.
+
+## Attendance details
 
 Doors open on both days at 9am and each day will finish around 5pm. The event will formally start at 10am on Saturday. There are now full day schedules on the [event page][competition-event-page]. **If you are expecting to arrive after 9:45am on Saturday, please let us know.**
 
@@ -48,6 +59,8 @@ As with all our events, competitors must be accompanied by a supervisor at the C
 
 If you have any issues on the day before you arrive, we'll be monitoring the `teams@` email address and our Discord server.
 Within the venue however, please direct queries to Helpdesk instead -- they'll be able to provide more immediate help.
+
+We'll send out further details about the event in the coming weeks. In the meantime, if you do have any questions, please don't hesitate to ask.
 
 ## Photos & videos
 
@@ -79,6 +92,14 @@ All of these and more can be found in our [safety regulations][safety-regulation
 
 Your batteries will be taken off of you at reception, and only returned once you pass a safety check. Your robot is only allowed to compete once it has passed both a safety check and regulations check - so it's important to consider them both early.
 
+## Checking in
+
+We just wanted to check in on how your team is getting on with their robot? You're just over half way through the competition cycle.
+
+It'd be great to hear what you team is currently working on, any difficulties they've faced, and whether there's anything they or you would like a hand with. Most teams make a lot of progress as the competition nears, as well as at the event itself, so don't worry if it seems your team still has a lot to do!
+
+As a reminder, the penultimate Challenge submission deadline is next weekend (6pm GMT on February 21st), so make sure you've got your submissions in before then to get maximum points. These points can make all the difference when it comes to the competition weekend in April.
+
 ## Conclusion
 
 If you have any other questions or concerns, please don't hesitate to get in touch.
@@ -89,7 +110,6 @@ We look forward to seeing you all at the Competition!
 
 [programme-competition]: https://studentrobotics.org/docs/robots_101/programme_structure#competition
 [rules]: https://studentrobotics.org/docs/rules/
-[attendace-details]: https://forms.gle/9vNgYY6TY2LpYCSz8
 [competition-event-page]: https://studentrobotics.org/events/sr2026/competition/
 [competition-risk-assessment]: https://studentrobotics.org/resources/sr2026/risk-assessments/SR2026-Competition-Risk-Assessment.pdf
 [competition-event-page-livestream]: https://studentrobotics.org/events/sr2026/competition/#livestream
