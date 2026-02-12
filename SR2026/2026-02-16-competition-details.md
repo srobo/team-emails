@@ -92,17 +92,11 @@ All of these and more can be found in our [safety regulations][safety-regulation
 
 Your batteries will be taken off of you at reception, and only returned once you pass a safety check. Your robot is only allowed to compete once it has passed both a safety check and regulations check - so it's important to consider them both early.
 
-## Checking in
-
-We just wanted to check in on how your team is getting on with their robot? You're just over half way through the competition cycle.
-
-It'd be great to hear what your team is currently working on, any difficulties they've faced, and whether there's anything they or you would like a hand with. Most teams make a lot of progress as the competition nears, as well as at the event itself, so don't worry if it seems your team still has a lot to do!
-
-As a reminder, the penultimate Challenge submission deadline is next weekend (6pm GMT on February 21st), so make sure you've got your submissions in before then to get maximum points. These points can make all the difference when it comes to the competition weekend in April.
-
 ## Conclusion
 
 If you have any other questions or concerns, please don't hesitate to get in touch.
+
+As a reminder, the penultimate Challenge submission deadline is next weekend (6pm GMT on February 21st), so make sure you've got your submissions in before then to get maximum points. These points can make all the difference when it comes to the competition weekend in April.
 
 We look forward to seeing you all at the Competition!
 
