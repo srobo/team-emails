@@ -5,9 +5,7 @@ subject: SR2026 Competition Details
 
 Hello everyone!
 
-It's just over a month until the big day - [the Competition][competition-event-page]!
-
-Before then, we have a few important updates and reminders for you:
+As [the Competition][competition-event-page] draws closer, we have a few important updates and reminders for you:
 
 ## Highlights
 
