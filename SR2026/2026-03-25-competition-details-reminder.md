@@ -1,6 +1,6 @@
 ---
 to: Student Robotics 2026
-subject: SR2026 is just a few weeks away
+subject: SR2026 is just two weeks away
 ---
 
 Hello,
