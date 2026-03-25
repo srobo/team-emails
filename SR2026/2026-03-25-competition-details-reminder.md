@@ -30,7 +30,7 @@ We've released a small update to the rules. It does not change the game, and ins
 - We've introduced an additional 4th place edible prize, ensuring all finalists receive an award
 - We've elevated the Rookie Award to a trophy, to better recognise the achievement
 
-These rules are not available on our website.
+These rules are now available on our website.
 
 We look forward to seeing you all at the Competition!
 
