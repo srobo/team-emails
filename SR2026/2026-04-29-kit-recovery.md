@@ -24,3 +24,5 @@ Please insure the kit during shipping and use a courier which supports tracking,
 Further details about shipping can be found [in the docs](https://studentrobotics.org/docs/kit/return).
 
 If you have any questions, please let us know as soon as possible!
+
+-- Student Robotics
