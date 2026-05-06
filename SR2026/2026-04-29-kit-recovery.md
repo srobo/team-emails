@@ -21,7 +21,7 @@ Once you have dispatched it, please [let us know](mailto:teams@studentrobotics.o
 
 Please insure the kit during shipping and use a courier which supports tracking, to ensure the kit isn't lost.
 
-Further details about shipping can be found [in the docs](https://studentrobotics.org/docs/kit/return).
+Further details about shipping can be found [in the docs](https://studentrobotics.org/docs/kit/return). Whilst you can use any courier, we used [UPS](https://www.ups.com/gb/en/home) to ship the kits to you.
 
 If you have any questions, please let us know as soon as possible!
 
