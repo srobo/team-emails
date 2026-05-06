@@ -15,7 +15,7 @@ Congratulations again to our winners:
 |---------------------------------|--------------------------------
 | 1st Place                       | Gymnasium Markt Indersdorf
 | 2nd Place                       | Hills Road Sixth Form College
-| 3rd Place                       | The Ladies College
+| 3rd Place                       | The Ladies' College, Guernsey
 | 4th Place                       | King Edward VI Grammar School
 | Rookie Award                    | Tormead School
 | Excellence in Engineering Award | Space Studio West London
